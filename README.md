@@ -216,5 +216,4 @@ Sales-Customer-Performance-PowerBI/
 ## License
 
 Released under the [MIT License](LICENSE). The dataset is synthetic and is included under the same license.
-#   S a l e s - C u s t o m e r - P e r f o r m a n c e - P o w e r B I  
- 
+#
