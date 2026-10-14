@@ -1,0 +1,2001 @@
+ProductID,ProductName,Category,Subcategory,UnitCost,ListPrice,ProductLaunchDate
+PROD-0001,Monitor Model 101,Electronics,Monitors,417.44,701.44,2021-07-09
+PROD-0002,Cycling Model 102,Sports,Cycling,979.73,1655.96,2020-09-14
+PROD-0003,Writing Model 103,Office Supplies,Writing,23.81,39.4,2020-02-18
+PROD-0004,Printer Model 104,Office Supplies,Printers,426.29,777.37,2021-10-06
+PROD-0005,Laptop Model 105,Electronics,Laptops,842.25,1268.03,2019-05-30
+PROD-0006,Outdoor Model 106,Sports,Outdoor,310.42,414.27,2020-07-02
+PROD-0007,Writing Model 107,Office Supplies,Writing,7.15,10.29,2019-09-08
+PROD-0008,Table Model 108,Furniture,Tables,441.4,603.04,2019-07-17
+PROD-0009,Writing Model 109,Office Supplies,Writing,3.09,5.71,2020-09-27
+PROD-0010,Table Model 110,Furniture,Tables,385.0,485.54,2020-02-04
+PROD-0011,Cleaning Model 111,Home & Kitchen,Cleaning,46.91,71.01,2020-10-19
+PROD-0012,Paper Model 112,Office Supplies,Paper,21.85,39.05,2020-05-23
+PROD-0013,Paper Model 113,Office Supplies,Paper,18.75,26.08,2021-03-08
+PROD-0014,Storage Model 114,Office Supplies,Storage,16.51,28.94,2021-06-25
+PROD-0015,Chair Model 115,Furniture,Chairs,228.54,372.79,2021-11-25
+PROD-0016,Storage Model 116,Office Supplies,Storage,46.16,63.12,2020-07-05
+PROD-0017,Storage Model 117,Office Supplies,Storage,76.92,129.27,2020-03-28
+PROD-0018,Table Model 118,Furniture,Tables,575.61,830.46,2019-11-20
+PROD-0019,Storage Model 119,Office Supplies,Storage,70.75,89.41,2021-01-08
+PROD-0020,Accessorie Model 120,Electronics,Accessories,102.04,161.02,2021-11-14
+PROD-0021,Storage Model 121,Office Supplies,Storage,30.25,51.38,2020-12-26
+PROD-0022,Cookware Model 122,Home & Kitchen,Cookware,201.72,341.79,2019-12-09
+PROD-0023,Printer Model 123,Office Supplies,Printers,284.54,507.16,2020-12-31
+PROD-0024,Decor Model 124,Home & Kitchen,Decor,74.35,117.06,2021-10-28
+PROD-0025,Printer Model 125,Office Supplies,Printers,306.6,420.49,2019-10-20
+PROD-0026,Outdoor Model 126,Sports,Outdoor,82.58,147.2,2020-01-17
+PROD-0027,Writing Model 127,Office Supplies,Writing,22.36,37.94,2020-11-22
+PROD-0028,Paper Model 128,Office Supplies,Paper,8.67,12.77,2021-08-31
+PROD-0029,Monitor Model 129,Electronics,Monitors,380.02,556.22,2020-03-29
+PROD-0030,Writing Model 130,Office Supplies,Writing,15.19,21.66,2021-01-06
+PROD-0031,Laptop Model 131,Electronics,Laptops,1201.72,1782.3,2019-07-06
+PROD-0032,Small Appliance Model 132,Home & Kitchen,Small Appliances,236.48,427.66,2020-10-29
+PROD-0033,Cycling Model 133,Sports,Cycling,454.8,740.95,2020-05-16
+PROD-0034,Writing Model 134,Office Supplies,Writing,20.07,25.46,2021-01-15
+PROD-0035,Writing Model 135,Office Supplies,Writing,11.97,21.24,2021-03-21
+PROD-0036,Table Model 136,Furniture,Tables,373.83,560.01,2021-01-12
+PROD-0037,Writing Model 137,Office Supplies,Writing,17.98,30.34,2021-01-04
+PROD-0038,Monitor Model 138,Electronics,Monitors,617.62,806.11,2020-06-20
+PROD-0039,Writing Model 139,Office Supplies,Writing,8.82,12.3,2021-12-09
+PROD-0040,Decor Model 140,Home & Kitchen,Decor,13.18,21.05,2021-03-03
+PROD-0041,Laptop Model 141,Electronics,Laptops,1399.62,2023.37,2020-06-11
+PROD-0042,Printer Model 142,Office Supplies,Printers,140.32,178.62,2019-08-26
+PROD-0043,Outdoor Model 143,Sports,Outdoor,208.32,292.7,2020-01-09
+PROD-0044,Writing Model 144,Office Supplies,Writing,9.1,12.8,2019-10-28
+PROD-0045,Cycling Model 145,Sports,Cycling,778.97,1418.82,2021-03-12
+PROD-0046,Cycling Model 146,Sports,Cycling,230.51,404.77,2020-01-23
+PROD-0047,Chair Model 147,Furniture,Chairs,345.32,508.29,2020-05-10
+PROD-0048,Writing Model 148,Office Supplies,Writing,10.63,17.43,2021-11-22
+PROD-0049,Outdoor Model 149,Sports,Outdoor,84.53,123.82,2019-09-07
+PROD-0050,Cycling Model 150,Sports,Cycling,347.82,640.05,2020-01-15
+PROD-0051,Table Model 151,Furniture,Tables,578.89,762.42,2019-10-28
+PROD-0052,Cookware Model 152,Home & Kitchen,Cookware,91.85,160.06,2020-03-10
+PROD-0053,Team Sport Model 153,Sports,Team Sports,32.31,41.42,2020-04-25
+PROD-0054,Phone Model 154,Electronics,Phones,1325.68,2442.94,2021-02-05
+PROD-0055,Chair Model 155,Furniture,Chairs,125.59,160.57,2019-08-22
+PROD-0056,Outdoor Model 156,Sports,Outdoor,370.96,477.65,2019-12-25
+PROD-0057,Cycling Model 157,Sports,Cycling,1196.14,2146.15,2021-02-15
+PROD-0058,Fitnes Model 158,Sports,Fitness,38.64,58.15,2020-12-19
+PROD-0059,Cleaning Model 159,Home & Kitchen,Cleaning,21.54,36.34,2020-01-16
+PROD-0060,Accessorie Model 160,Electronics,Accessories,20.06,31.97,2021-02-09
+PROD-0061,Table Model 161,Furniture,Tables,556.29,952.64,2021-03-03
+PROD-0062,Fitnes Model 162,Sports,Fitness,24.45,32.76,2019-12-20
+PROD-0063,Desk Model 163,Furniture,Desks,561.36,1034.16,2019-05-11
+PROD-0064,Printer Model 164,Office Supplies,Printers,321.3,486.35,2020-04-05
+PROD-0065,Storage Model 165,Office Supplies,Storage,65.15,103.58,2020-05-22
+PROD-0066,Storage Model 166,Office Supplies,Storage,48.83,74.83,2020-05-10
+PROD-0067,Small Appliance Model 167,Home & Kitchen,Small Appliances,76.33,108.48,2021-05-04
+PROD-0068,Monitor Model 168,Electronics,Monitors,586.45,803.43,2021-12-16
+PROD-0069,Chair Model 169,Furniture,Chairs,197.65,285.21,2020-05-07
+PROD-0070,Table Model 170,Furniture,Tables,566.87,950.58,2020-08-18
+PROD-0071,Paper Model 171,Office Supplies,Paper,26.89,46.58,2019-05-07
+PROD-0072,Shelving Model 172,Furniture,Shelving,150.25,233.76,2020-10-01
+PROD-0073,Cycling Model 173,Sports,Cycling,382.32,666.81,2021-04-14
+PROD-0074,Small Appliance Model 174,Home & Kitchen,Small Appliances,122.17,208.87,2021-04-01
+PROD-0075,Table Model 175,Furniture,Tables,364.5,641.6,2020-03-18
+PROD-0076,Chair Model 176,Furniture,Chairs,376.11,607.06,2021-08-25
+PROD-0077,Laptop Model 177,Electronics,Laptops,1040.12,1735.57,2021-07-10
+PROD-0078,Monitor Model 178,Electronics,Monitors,379.93,656.49,2020-10-20
+PROD-0079,Storage Model 179,Office Supplies,Storage,26.05,42.51,2021-03-02
+PROD-0080,Paper Model 180,Office Supplies,Paper,21.7,34.18,2019-12-01
+PROD-0081,Storage Model 181,Office Supplies,Storage,32.04,54.38,2019-09-19
+PROD-0082,Chair Model 182,Furniture,Chairs,209.2,298.41,2021-07-31
+PROD-0083,Chair Model 183,Furniture,Chairs,269.38,412.22,2021-03-03
+PROD-0084,Desk Model 184,Furniture,Desks,323.85,491.9,2021-04-18
+PROD-0085,Phone Model 185,Electronics,Phones,835.87,1185.82,2019-11-25
+PROD-0086,Monitor Model 186,Electronics,Monitors,682.93,1033.66,2020-02-09
+PROD-0087,Fitnes Model 187,Sports,Fitness,111.86,175.03,2020-12-07
+PROD-0088,Cleaning Model 188,Home & Kitchen,Cleaning,39.21,65.15,2020-06-29
+PROD-0089,Printer Model 189,Office Supplies,Printers,180.63,288.06,2021-05-28
+PROD-0090,Laptop Model 190,Electronics,Laptops,1370.98,1778.02,2019-06-17
+PROD-0091,Phone Model 191,Electronics,Phones,1339.51,2402.99,2021-08-24
+PROD-0092,Laptop Model 192,Electronics,Laptops,1988.25,3132.32,2021-11-03
+PROD-0093,Paper Model 193,Office Supplies,Paper,26.86,49.65,2021-02-22
+PROD-0094,Phone Model 194,Electronics,Phones,1488.45,2445.13,2020-03-14
+PROD-0095,Shelving Model 195,Furniture,Shelving,118.17,178.41,2019-10-09
+PROD-0096,Phone Model 196,Electronics,Phones,686.78,950.61,2019-09-29
+PROD-0097,Decor Model 197,Home & Kitchen,Decor,20.92,29.78,2019-11-20
+PROD-0098,Monitor Model 198,Electronics,Monitors,528.67,777.65,2019-07-28
+PROD-0099,Storage Model 199,Office Supplies,Storage,63.14,89.13,2021-09-27
+PROD-0100,Shelving Model 200,Furniture,Shelving,83.29,105.8,2019-09-11
+PROD-0101,Accessorie Model 201,Electronics,Accessories,57.36,90.97,2019-04-24
+PROD-0102,Fitnes Model 202,Sports,Fitness,95.86,131.31,2020-08-10
+PROD-0103,Accessorie Model 203,Electronics,Accessories,37.82,59.25,2020-02-11
+PROD-0104,Phone Model 204,Electronics,Phones,1441.56,2125.85,2020-05-22
+PROD-0105,Desk Model 205,Furniture,Desks,527.69,792.53,2019-07-27
+PROD-0106,Printer Model 206,Office Supplies,Printers,337.04,595.39,2021-06-07
+PROD-0107,Cycling Model 207,Sports,Cycling,1180.59,1921.07,2019-10-21
+PROD-0108,Accessorie Model 208,Electronics,Accessories,118.23,180.04,2020-07-19
+PROD-0109,Writing Model 209,Office Supplies,Writing,17.11,26.06,2020-05-28
+PROD-0110,Desk Model 210,Furniture,Desks,464.77,697.87,2021-01-05
+PROD-0111,Chair Model 211,Furniture,Chairs,85.79,122.78,2019-06-13
+PROD-0112,Printer Model 212,Office Supplies,Printers,471.5,746.68,2019-06-26
+PROD-0113,Paper Model 213,Office Supplies,Paper,8.85,13.46,2019-05-14
+PROD-0114,Small Appliance Model 214,Home & Kitchen,Small Appliances,340.18,515.87,2020-03-04
+PROD-0115,Phone Model 215,Electronics,Phones,1125.97,1906.57,2019-10-10
+PROD-0116,Chair Model 216,Furniture,Chairs,433.77,624.96,2020-06-11
+PROD-0117,Chair Model 217,Furniture,Chairs,124.31,179.09,2019-11-23
+PROD-0118,Fitnes Model 218,Sports,Fitness,73.47,135.21,2021-07-27
+PROD-0119,Writing Model 219,Office Supplies,Writing,11.3,17.09,2019-12-23
+PROD-0120,Storage Model 220,Office Supplies,Storage,68.37,92.94,2019-09-13
+PROD-0121,Decor Model 221,Home & Kitchen,Decor,18.82,31.23,2020-07-27
+PROD-0122,Printer Model 222,Office Supplies,Printers,386.65,571.23,2021-05-11
+PROD-0123,Laptop Model 223,Electronics,Laptops,1096.0,1890.68,2021-10-27
+PROD-0124,Chair Model 224,Furniture,Chairs,116.15,183.98,2021-11-15
+PROD-0125,Decor Model 225,Home & Kitchen,Decor,142.42,224.97,2019-07-12
+PROD-0126,Accessorie Model 226,Electronics,Accessories,112.37,207.55,2021-10-16
+PROD-0127,Small Appliance Model 227,Home & Kitchen,Small Appliances,262.27,383.88,2021-12-19
+PROD-0128,Printer Model 228,Office Supplies,Printers,180.49,231.34,2020-09-01
+PROD-0129,Outdoor Model 229,Sports,Outdoor,346.16,534.12,2021-12-14
+PROD-0130,Phone Model 230,Electronics,Phones,750.01,1287.25,2021-12-16
+PROD-0131,Writing Model 231,Office Supplies,Writing,12.07,18.14,2019-06-14
+PROD-0132,Phone Model 232,Electronics,Phones,932.35,1229.39,2020-01-07
+PROD-0133,Fitnes Model 233,Sports,Fitness,28.63,51.72,2019-08-06
+PROD-0134,Writing Model 234,Office Supplies,Writing,16.52,28.8,2021-08-06
+PROD-0135,Storage Model 235,Office Supplies,Storage,61.17,79.59,2019-06-20
+PROD-0136,Decor Model 236,Home & Kitchen,Decor,149.97,221.28,2020-04-27
+PROD-0137,Team Sport Model 237,Sports,Team Sports,25.11,35.07,2020-07-27
+PROD-0138,Shelving Model 238,Furniture,Shelving,81.75,140.86,2020-10-16
+PROD-0139,Outdoor Model 239,Sports,Outdoor,214.58,368.67,2020-02-07
+PROD-0140,Shelving Model 240,Furniture,Shelving,192.56,323.89,2019-04-14
+PROD-0141,Phone Model 241,Electronics,Phones,913.2,1644.0,2019-04-08
+PROD-0142,Cookware Model 242,Home & Kitchen,Cookware,70.03,128.27,2021-06-10
+PROD-0143,Printer Model 243,Office Supplies,Printers,159.64,263.75,2019-04-30
+PROD-0144,Paper Model 244,Office Supplies,Paper,6.51,8.88,2019-11-28
+PROD-0145,Small Appliance Model 245,Home & Kitchen,Small Appliances,235.41,351.27,2019-10-15
+PROD-0146,Storage Model 246,Office Supplies,Storage,67.72,123.33,2020-08-24
+PROD-0147,Storage Model 247,Office Supplies,Storage,16.83,29.58,2019-11-16
+PROD-0148,Cycling Model 248,Sports,Cycling,1142.13,1572.96,2019-08-22
+PROD-0149,Phone Model 249,Electronics,Phones,1284.55,2356.03,2019-12-14
+PROD-0150,Chair Model 250,Furniture,Chairs,114.43,157.81,2020-12-26
+PROD-0151,Printer Model 251,Office Supplies,Printers,191.33,258.38,2021-08-04
+PROD-0152,Paper Model 252,Office Supplies,Paper,16.23,23.64,2020-07-01
+PROD-0153,Laptop Model 253,Electronics,Laptops,1579.89,2000.03,2020-12-04
+PROD-0154,Desk Model 254,Furniture,Desks,344.58,538.43,2021-05-11
+PROD-0155,Desk Model 255,Furniture,Desks,742.34,1224.44,2021-12-15
+PROD-0156,Chair Model 256,Furniture,Chairs,114.1,184.86,2019-07-17
+PROD-0157,Decor Model 257,Home & Kitchen,Decor,66.73,94.12,2019-05-15
+PROD-0158,Printer Model 258,Office Supplies,Printers,276.73,383.99,2021-12-04
+PROD-0159,Shelving Model 259,Furniture,Shelving,140.53,229.95,2020-09-29
+PROD-0160,Phone Model 260,Electronics,Phones,1042.86,1738.89,2021-06-18
+PROD-0161,Paper Model 261,Office Supplies,Paper,13.36,19.52,2019-12-22
+PROD-0162,Accessorie Model 262,Electronics,Accessories,114.67,156.73,2021-12-09
+PROD-0163,Accessorie Model 263,Electronics,Accessories,67.83,111.87,2020-12-22
+PROD-0164,Monitor Model 264,Electronics,Monitors,541.69,1001.63,2019-04-20
+PROD-0165,Phone Model 265,Electronics,Phones,901.25,1459.05,2020-02-25
+PROD-0166,Printer Model 266,Office Supplies,Printers,250.56,357.4,2021-02-28
+PROD-0167,Printer Model 267,Office Supplies,Printers,118.14,208.23,2019-08-22
+PROD-0168,Monitor Model 268,Electronics,Monitors,566.05,961.7,2021-12-14
+PROD-0169,Writing Model 269,Office Supplies,Writing,5.51,7.06,2019-10-16
+PROD-0170,Monitor Model 270,Electronics,Monitors,152.66,200.28,2020-05-31
+PROD-0171,Paper Model 271,Office Supplies,Paper,25.14,37.57,2019-07-17
+PROD-0172,Accessorie Model 272,Electronics,Accessories,39.61,52.6,2019-10-27
+PROD-0173,Accessorie Model 273,Electronics,Accessories,113.88,158.31,2020-03-06
+PROD-0174,Desk Model 274,Furniture,Desks,169.53,286.02,2020-11-10
+PROD-0175,Small Appliance Model 275,Home & Kitchen,Small Appliances,112.97,187.27,2021-02-10
+PROD-0176,Paper Model 276,Office Supplies,Paper,9.87,12.49,2020-02-15
+PROD-0177,Desk Model 277,Furniture,Desks,727.82,1159.27,2020-03-18
+PROD-0178,Desk Model 278,Furniture,Desks,462.77,800.61,2021-08-06
+PROD-0179,Decor Model 279,Home & Kitchen,Decor,12.18,21.74,2020-05-02
+PROD-0180,Laptop Model 280,Electronics,Laptops,535.29,876.55,2019-12-12
+PROD-0181,Writing Model 281,Office Supplies,Writing,2.72,3.6,2019-10-27
+PROD-0182,Phone Model 282,Electronics,Phones,1311.79,2216.19,2021-08-22
+PROD-0183,Outdoor Model 283,Sports,Outdoor,301.25,443.56,2019-11-12
+PROD-0184,Table Model 284,Furniture,Tables,345.6,600.38,2020-11-20
+PROD-0185,Monitor Model 285,Electronics,Monitors,596.23,797.67,2021-03-16
+PROD-0186,Writing Model 286,Office Supplies,Writing,13.77,22.71,2021-04-06
+PROD-0187,Accessorie Model 287,Electronics,Accessories,79.08,137.8,2019-06-02
+PROD-0188,Fitnes Model 288,Sports,Fitness,132.0,238.59,2019-04-24
+PROD-0189,Decor Model 289,Home & Kitchen,Decor,60.01,108.93,2019-07-28
+PROD-0190,Storage Model 290,Office Supplies,Storage,13.91,17.77,2021-04-21
+PROD-0191,Writing Model 291,Office Supplies,Writing,23.81,34.66,2021-05-27
+PROD-0192,Printer Model 292,Office Supplies,Printers,450.4,628.97,2021-12-09
+PROD-0193,Desk Model 293,Furniture,Desks,582.46,818.43,2020-12-19
+PROD-0194,Storage Model 294,Office Supplies,Storage,70.61,116.11,2019-04-25
+PROD-0195,Laptop Model 295,Electronics,Laptops,1424.46,2373.67,2021-08-20
+PROD-0196,Writing Model 296,Office Supplies,Writing,3.23,5.35,2021-10-20
+PROD-0197,Cookware Model 297,Home & Kitchen,Cookware,206.8,268.95,2019-09-28
+PROD-0198,Laptop Model 298,Electronics,Laptops,1712.72,2656.22,2021-11-18
+PROD-0199,Paper Model 299,Office Supplies,Paper,7.55,13.92,2019-08-06
+PROD-0200,Writing Model 300,Office Supplies,Writing,18.43,26.6,2020-07-06
+PROD-0201,Table Model 301,Furniture,Tables,345.38,483.81,2019-12-22
+PROD-0202,Phone Model 302,Electronics,Phones,834.18,1052.1,2021-10-21
+PROD-0203,Laptop Model 303,Electronics,Laptops,1806.69,3164.82,2019-12-13
+PROD-0204,Chair Model 304,Furniture,Chairs,211.15,376.28,2021-05-16
+PROD-0205,Table Model 305,Furniture,Tables,182.32,313.85,2021-01-26
+PROD-0206,Laptop Model 306,Electronics,Laptops,734.07,1207.25,2019-12-31
+PROD-0207,Storage Model 307,Office Supplies,Storage,65.73,116.7,2019-10-08
+PROD-0208,Table Model 308,Furniture,Tables,344.63,493.24,2021-11-05
+PROD-0209,Paper Model 309,Office Supplies,Paper,6.94,9.17,2019-05-18
+PROD-0210,Monitor Model 310,Electronics,Monitors,313.18,496.51,2020-03-04
+PROD-0211,Monitor Model 311,Electronics,Monitors,617.86,808.14,2020-10-05
+PROD-0212,Monitor Model 312,Electronics,Monitors,672.58,992.44,2019-08-11
+PROD-0213,Laptop Model 313,Electronics,Laptops,1648.63,2606.95,2021-04-17
+PROD-0214,Decor Model 314,Home & Kitchen,Decor,93.64,169.73,2021-01-28
+PROD-0215,Desk Model 315,Furniture,Desks,411.11,535.04,2019-11-27
+PROD-0216,Team Sport Model 316,Sports,Team Sports,76.99,98.98,2019-12-07
+PROD-0217,Laptop Model 317,Electronics,Laptops,976.05,1354.98,2020-08-28
+PROD-0218,Table Model 318,Furniture,Tables,526.39,692.55,2021-11-14
+PROD-0219,Decor Model 319,Home & Kitchen,Decor,128.5,172.36,2019-06-08
+PROD-0220,Desk Model 320,Furniture,Desks,247.05,319.56,2019-05-07
+PROD-0221,Paper Model 321,Office Supplies,Paper,27.53,48.72,2021-12-14
+PROD-0222,Paper Model 322,Office Supplies,Paper,24.08,34.35,2021-02-26
+PROD-0223,Monitor Model 323,Electronics,Monitors,622.87,1008.42,2021-09-12
+PROD-0224,Outdoor Model 324,Sports,Outdoor,333.15,495.88,2020-05-29
+PROD-0225,Accessorie Model 325,Electronics,Accessories,45.92,82.14,2021-07-15
+PROD-0226,Table Model 326,Furniture,Tables,541.16,684.53,2019-09-03
+PROD-0227,Fitnes Model 327,Sports,Fitness,52.17,96.13,2019-11-19
+PROD-0228,Fitnes Model 328,Sports,Fitness,73.07,92.95,2019-12-18
+PROD-0229,Outdoor Model 329,Sports,Outdoor,175.18,258.84,2019-11-14
+PROD-0230,Shelving Model 330,Furniture,Shelving,112.92,166.27,2021-08-12
+PROD-0231,Phone Model 331,Electronics,Phones,1074.76,1432.43,2020-02-17
+PROD-0232,Chair Model 332,Furniture,Chairs,273.25,352.78,2020-05-20
+PROD-0233,Paper Model 333,Office Supplies,Paper,20.74,30.43,2020-04-10
+PROD-0234,Desk Model 334,Furniture,Desks,175.83,289.08,2020-01-19
+PROD-0235,Printer Model 335,Office Supplies,Printers,187.08,345.74,2021-07-15
+PROD-0236,Small Appliance Model 336,Home & Kitchen,Small Appliances,198.38,277.02,2020-05-20
+PROD-0237,Writing Model 337,Office Supplies,Writing,21.45,27.78,2019-08-29
+PROD-0238,Decor Model 338,Home & Kitchen,Decor,108.53,196.31,2019-09-14
+PROD-0239,Outdoor Model 339,Sports,Outdoor,59.08,99.85,2019-12-05
+PROD-0240,Cookware Model 340,Home & Kitchen,Cookware,66.36,95.99,2021-08-26
+PROD-0241,Small Appliance Model 341,Home & Kitchen,Small Appliances,266.19,336.71,2021-11-03
+PROD-0242,Cleaning Model 342,Home & Kitchen,Cleaning,33.74,50.97,2021-12-20
+PROD-0243,Decor Model 343,Home & Kitchen,Decor,111.53,198.56,2020-05-15
+PROD-0244,Writing Model 344,Office Supplies,Writing,21.08,36.25,2021-10-04
+PROD-0245,Outdoor Model 345,Sports,Outdoor,357.11,497.29,2019-11-10
+PROD-0246,Cookware Model 346,Home & Kitchen,Cookware,110.77,154.59,2021-08-26
+PROD-0247,Cleaning Model 347,Home & Kitchen,Cleaning,43.35,78.58,2020-10-26
+PROD-0248,Monitor Model 348,Electronics,Monitors,394.52,696.72,2020-09-07
+PROD-0249,Storage Model 349,Office Supplies,Storage,55.47,101.6,2020-11-29
+PROD-0250,Printer Model 350,Office Supplies,Printers,115.1,163.12,2020-12-11
+PROD-0251,Monitor Model 351,Electronics,Monitors,675.52,1009.76,2019-11-12
+PROD-0252,Team Sport Model 352,Sports,Team Sports,100.67,174.23,2019-04-13
+PROD-0253,Desk Model 353,Furniture,Desks,665.67,1185.2,2021-08-07
+PROD-0254,Cycling Model 354,Sports,Cycling,127.71,215.38,2020-08-21
+PROD-0255,Desk Model 355,Furniture,Desks,796.15,1432.68,2019-08-20
+PROD-0256,Team Sport Model 356,Sports,Team Sports,47.6,87.06,2020-05-09
+PROD-0257,Outdoor Model 357,Sports,Outdoor,154.52,260.37,2021-07-22
+PROD-0258,Chair Model 358,Furniture,Chairs,270.39,439.95,2021-11-05
+PROD-0259,Desk Model 359,Furniture,Desks,549.61,824.61,2020-02-05
+PROD-0260,Accessorie Model 360,Electronics,Accessories,46.49,73.12,2019-08-22
+PROD-0261,Outdoor Model 361,Sports,Outdoor,174.0,317.27,2019-10-26
+PROD-0262,Decor Model 362,Home & Kitchen,Decor,105.49,152.89,2021-10-24
+PROD-0263,Storage Model 363,Office Supplies,Storage,27.0,38.69,2021-03-19
+PROD-0264,Shelving Model 364,Furniture,Shelving,62.42,86.29,2019-08-16
+PROD-0265,Shelving Model 365,Furniture,Shelving,248.36,323.58,2019-05-18
+PROD-0266,Accessorie Model 366,Electronics,Accessories,28.71,44.44,2021-07-29
+PROD-0267,Outdoor Model 367,Sports,Outdoor,44.79,74.99,2021-12-12
+PROD-0268,Phone Model 368,Electronics,Phones,1429.51,2399.33,2019-06-11
+PROD-0269,Cleaning Model 369,Home & Kitchen,Cleaning,13.61,24.55,2019-10-10
+PROD-0270,Desk Model 370,Furniture,Desks,144.94,227.34,2021-03-27
+PROD-0271,Decor Model 371,Home & Kitchen,Decor,103.91,151.53,2020-10-23
+PROD-0272,Table Model 372,Furniture,Tables,293.54,534.07,2020-11-29
+PROD-0273,Monitor Model 373,Electronics,Monitors,477.31,677.87,2019-04-24
+PROD-0274,Printer Model 374,Office Supplies,Printers,413.46,615.57,2020-03-25
+PROD-0275,Outdoor Model 375,Sports,Outdoor,191.17,251.5,2020-09-27
+PROD-0276,Monitor Model 376,Electronics,Monitors,557.88,1031.23,2021-12-13
+PROD-0277,Monitor Model 377,Electronics,Monitors,356.65,641.21,2021-11-30
+PROD-0278,Paper Model 378,Office Supplies,Paper,16.1,21.89,2019-06-15
+PROD-0279,Decor Model 379,Home & Kitchen,Decor,128.02,206.54,2021-09-02
+PROD-0280,Cookware Model 380,Home & Kitchen,Cookware,236.84,376.99,2019-12-25
+PROD-0281,Cycling Model 381,Sports,Cycling,746.43,1330.47,2021-07-20
+PROD-0282,Team Sport Model 382,Sports,Team Sports,96.49,143.37,2020-06-19
+PROD-0283,Laptop Model 383,Electronics,Laptops,1808.48,2839.68,2021-01-05
+PROD-0284,Cleaning Model 384,Home & Kitchen,Cleaning,19.22,28.07,2020-08-01
+PROD-0285,Decor Model 385,Home & Kitchen,Decor,99.81,130.22,2019-11-02
+PROD-0286,Monitor Model 386,Electronics,Monitors,674.93,1021.7,2019-05-06
+PROD-0287,Decor Model 387,Home & Kitchen,Decor,76.43,126.72,2020-10-18
+PROD-0288,Monitor Model 388,Electronics,Monitors,223.47,311.96,2019-09-07
+PROD-0289,Storage Model 389,Office Supplies,Storage,74.95,95.7,2020-09-24
+PROD-0290,Printer Model 390,Office Supplies,Printers,485.99,746.34,2020-11-03
+PROD-0291,Printer Model 391,Office Supplies,Printers,125.39,217.89,2019-06-16
+PROD-0292,Paper Model 392,Office Supplies,Paper,22.7,34.24,2020-03-10
+PROD-0293,Desk Model 393,Furniture,Desks,161.59,241.11,2020-11-22
+PROD-0294,Small Appliance Model 394,Home & Kitchen,Small Appliances,173.55,233.1,2019-09-08
+PROD-0295,Phone Model 395,Electronics,Phones,514.68,652.15,2021-09-03
+PROD-0296,Storage Model 396,Office Supplies,Storage,26.95,40.45,2020-11-19
+PROD-0297,Accessorie Model 397,Electronics,Accessories,110.11,173.35,2020-03-13
+PROD-0298,Accessorie Model 398,Electronics,Accessories,99.46,138.76,2020-12-09
+PROD-0299,Outdoor Model 399,Sports,Outdoor,363.88,669.9,2021-10-01
+PROD-0300,Desk Model 400,Furniture,Desks,381.17,555.8,2019-11-22
+PROD-0301,Writing Model 401,Office Supplies,Writing,7.24,9.43,2021-05-23
+PROD-0302,Printer Model 402,Office Supplies,Printers,494.84,762.67,2019-06-26
+PROD-0303,Small Appliance Model 403,Home & Kitchen,Small Appliances,134.92,204.43,2020-07-02
+PROD-0304,Shelving Model 404,Furniture,Shelving,234.67,383.08,2020-03-08
+PROD-0305,Decor Model 405,Home & Kitchen,Decor,41.51,74.52,2020-01-21
+PROD-0306,Fitnes Model 406,Sports,Fitness,164.89,243.65,2020-05-02
+PROD-0307,Fitnes Model 407,Sports,Fitness,148.78,250.8,2019-09-01
+PROD-0308,Accessorie Model 408,Electronics,Accessories,15.52,22.75,2020-09-02
+PROD-0309,Storage Model 409,Office Supplies,Storage,35.11,52.94,2021-08-08
+PROD-0310,Chair Model 410,Furniture,Chairs,283.58,455.17,2020-10-28
+PROD-0311,Paper Model 411,Office Supplies,Paper,19.81,36.31,2020-01-04
+PROD-0312,Storage Model 412,Office Supplies,Storage,26.75,35.96,2021-09-08
+PROD-0313,Outdoor Model 413,Sports,Outdoor,236.01,378.36,2019-09-19
+PROD-0314,Cycling Model 414,Sports,Cycling,1103.56,1463.72,2021-07-11
+PROD-0315,Small Appliance Model 415,Home & Kitchen,Small Appliances,53.58,90.81,2021-09-28
+PROD-0316,Team Sport Model 416,Sports,Team Sports,77.84,97.7,2020-02-26
+PROD-0317,Small Appliance Model 417,Home & Kitchen,Small Appliances,105.91,143.27,2021-07-23
+PROD-0318,Writing Model 418,Office Supplies,Writing,3.76,6.25,2021-03-20
+PROD-0319,Paper Model 419,Office Supplies,Paper,20.34,35.39,2020-09-25
+PROD-0320,Cleaning Model 420,Home & Kitchen,Cleaning,22.72,37.12,2020-10-21
+PROD-0321,Outdoor Model 421,Sports,Outdoor,84.61,145.2,2019-08-29
+PROD-0322,Desk Model 422,Furniture,Desks,591.61,872.12,2019-04-19
+PROD-0323,Desk Model 423,Furniture,Desks,155.42,279.71,2021-10-24
+PROD-0324,Cycling Model 424,Sports,Cycling,743.73,971.35,2020-06-19
+PROD-0325,Small Appliance Model 425,Home & Kitchen,Small Appliances,251.21,463.91,2020-01-14
+PROD-0326,Team Sport Model 426,Sports,Team Sports,62.73,102.25,2020-01-22
+PROD-0327,Team Sport Model 427,Sports,Team Sports,27.39,38.43,2020-06-13
+PROD-0328,Printer Model 428,Office Supplies,Printers,137.96,221.75,2021-06-05
+PROD-0329,Accessorie Model 429,Electronics,Accessories,55.87,82.06,2019-11-01
+PROD-0330,Cookware Model 430,Home & Kitchen,Cookware,57.15,92.75,2021-03-30
+PROD-0331,Outdoor Model 431,Sports,Outdoor,275.99,389.86,2020-06-11
+PROD-0332,Team Sport Model 432,Sports,Team Sports,125.61,182.94,2021-12-17
+PROD-0333,Team Sport Model 433,Sports,Team Sports,102.75,154.95,2021-09-01
+PROD-0334,Outdoor Model 434,Sports,Outdoor,351.9,587.39,2019-07-14
+PROD-0335,Paper Model 435,Office Supplies,Paper,7.55,13.7,2020-10-14
+PROD-0336,Fitnes Model 436,Sports,Fitness,87.4,136.76,2021-11-14
+PROD-0337,Table Model 437,Furniture,Tables,596.32,921.69,2020-01-02
+PROD-0338,Cookware Model 438,Home & Kitchen,Cookware,183.88,315.84,2019-08-13
+PROD-0339,Paper Model 439,Office Supplies,Paper,9.58,14.89,2019-05-15
+PROD-0340,Table Model 440,Furniture,Tables,517.89,843.65,2021-03-18
+PROD-0341,Phone Model 441,Electronics,Phones,304.36,469.6,2021-12-05
+PROD-0342,Laptop Model 442,Electronics,Laptops,1402.37,1905.12,2021-08-13
+PROD-0343,Cleaning Model 443,Home & Kitchen,Cleaning,22.93,32.69,2020-09-16
+PROD-0344,Cycling Model 444,Sports,Cycling,426.33,552.63,2021-02-13
+PROD-0345,Chair Model 445,Furniture,Chairs,106.74,142.34,2019-07-05
+PROD-0346,Paper Model 446,Office Supplies,Paper,18.38,28.55,2020-03-22
+PROD-0347,Fitnes Model 447,Sports,Fitness,183.58,327.12,2020-08-01
+PROD-0348,Cookware Model 448,Home & Kitchen,Cookware,140.28,235.02,2020-09-22
+PROD-0349,Accessorie Model 449,Electronics,Accessories,37.87,65.84,2021-12-31
+PROD-0350,Monitor Model 450,Electronics,Monitors,156.63,268.04,2019-06-07
+PROD-0351,Cycling Model 451,Sports,Cycling,121.84,159.02,2021-10-21
+PROD-0352,Table Model 452,Furniture,Tables,490.9,719.0,2021-03-17
+PROD-0353,Desk Model 453,Furniture,Desks,775.86,1303.31,2019-04-18
+PROD-0354,Shelving Model 454,Furniture,Shelving,50.05,87.74,2019-08-07
+PROD-0355,Small Appliance Model 455,Home & Kitchen,Small Appliances,80.31,123.46,2021-01-14
+PROD-0356,Team Sport Model 456,Sports,Team Sports,97.17,157.96,2019-11-17
+PROD-0357,Cycling Model 457,Sports,Cycling,245.55,362.32,2020-02-27
+PROD-0358,Printer Model 458,Office Supplies,Printers,287.27,405.56,2020-02-14
+PROD-0359,Shelving Model 459,Furniture,Shelving,167.28,240.13,2019-07-08
+PROD-0360,Team Sport Model 460,Sports,Team Sports,135.49,181.19,2021-01-11
+PROD-0361,Printer Model 461,Office Supplies,Printers,200.74,287.32,2019-07-18
+PROD-0362,Printer Model 462,Office Supplies,Printers,451.71,764.97,2020-06-22
+PROD-0363,Fitnes Model 463,Sports,Fitness,56.51,89.92,2020-03-15
+PROD-0364,Cleaning Model 464,Home & Kitchen,Cleaning,46.27,73.83,2019-09-14
+PROD-0365,Shelving Model 465,Furniture,Shelving,142.86,217.59,2020-04-01
+PROD-0366,Decor Model 466,Home & Kitchen,Decor,126.11,213.03,2020-10-20
+PROD-0367,Paper Model 467,Office Supplies,Paper,14.92,19.28,2022-01-01
+PROD-0368,Table Model 468,Furniture,Tables,497.13,905.44,2020-07-05
+PROD-0369,Decor Model 469,Home & Kitchen,Decor,36.09,65.92,2020-06-26
+PROD-0370,Decor Model 470,Home & Kitchen,Decor,42.35,70.38,2021-03-06
+PROD-0371,Monitor Model 471,Electronics,Monitors,467.76,737.9,2021-05-19
+PROD-0372,Cycling Model 472,Sports,Cycling,740.42,1313.54,2021-08-27
+PROD-0373,Decor Model 473,Home & Kitchen,Decor,21.03,29.4,2021-02-13
+PROD-0374,Cleaning Model 474,Home & Kitchen,Cleaning,38.87,49.41,2021-06-19
+PROD-0375,Shelving Model 475,Furniture,Shelving,205.39,302.19,2019-05-08
+PROD-0376,Writing Model 476,Office Supplies,Writing,21.42,32.15,2019-10-26
+PROD-0377,Printer Model 477,Office Supplies,Printers,414.4,684.7,2021-10-02
+PROD-0378,Writing Model 478,Office Supplies,Writing,6.4,11.05,2020-08-24
+PROD-0379,Accessorie Model 479,Electronics,Accessories,39.32,53.88,2021-03-12
+PROD-0380,Cycling Model 480,Sports,Cycling,1100.18,1777.91,2020-09-13
+PROD-0381,Desk Model 481,Furniture,Desks,635.32,901.04,2020-02-09
+PROD-0382,Accessorie Model 482,Electronics,Accessories,92.27,126.09,2019-05-18
+PROD-0383,Paper Model 483,Office Supplies,Paper,9.74,14.67,2021-08-30
+PROD-0384,Writing Model 484,Office Supplies,Writing,13.91,19.6,2021-08-19
+PROD-0385,Laptop Model 485,Electronics,Laptops,1191.58,1956.86,2019-05-07
+PROD-0386,Laptop Model 486,Electronics,Laptops,527.72,688.19,2021-05-14
+PROD-0387,Accessorie Model 487,Electronics,Accessories,70.24,105.52,2021-04-04
+PROD-0388,Accessorie Model 488,Electronics,Accessories,23.12,29.93,2021-03-28
+PROD-0389,Laptop Model 489,Electronics,Laptops,1528.49,2232.44,2021-07-26
+PROD-0390,Fitnes Model 490,Sports,Fitness,38.5,49.41,2020-04-30
+PROD-0391,Decor Model 491,Home & Kitchen,Decor,29.97,43.84,2021-10-01
+PROD-0392,Cycling Model 492,Sports,Cycling,1083.96,1948.34,2021-02-09
+PROD-0393,Laptop Model 493,Electronics,Laptops,831.03,1533.63,2021-12-10
+PROD-0394,Shelving Model 494,Furniture,Shelving,234.96,410.2,2020-01-13
+PROD-0395,Team Sport Model 495,Sports,Team Sports,54.2,75.99,2019-06-23
+PROD-0396,Team Sport Model 496,Sports,Team Sports,106.32,159.22,2020-04-08
+PROD-0397,Laptop Model 497,Electronics,Laptops,1604.9,2406.44,2021-07-02
+PROD-0398,Paper Model 498,Office Supplies,Paper,21.07,33.36,2019-04-10
+PROD-0399,Storage Model 499,Office Supplies,Storage,78.04,128.16,2020-11-29
+PROD-0400,Monitor Model 500,Electronics,Monitors,409.46,568.73,2020-08-04
+PROD-0401,Phone Model 501,Electronics,Phones,343.35,457.37,2019-11-11
+PROD-0402,Printer Model 502,Office Supplies,Printers,414.79,734.99,2021-07-31
+PROD-0403,Cleaning Model 503,Home & Kitchen,Cleaning,33.05,47.67,2019-06-11
+PROD-0404,Cookware Model 504,Home & Kitchen,Cookware,118.27,155.41,2021-04-26
+PROD-0405,Chair Model 505,Furniture,Chairs,433.51,625.75,2021-11-15
+PROD-0406,Cleaning Model 506,Home & Kitchen,Cleaning,31.94,46.16,2020-07-14
+PROD-0407,Cookware Model 507,Home & Kitchen,Cookware,247.81,312.5,2020-02-20
+PROD-0408,Cleaning Model 508,Home & Kitchen,Cleaning,41.64,73.66,2020-10-14
+PROD-0409,Team Sport Model 509,Sports,Team Sports,94.25,122.12,2020-04-01
+PROD-0410,Desk Model 510,Furniture,Desks,724.21,1162.85,2020-03-05
+PROD-0411,Cookware Model 511,Home & Kitchen,Cookware,189.25,238.93,2020-07-27
+PROD-0412,Cookware Model 512,Home & Kitchen,Cookware,168.42,293.92,2021-12-30
+PROD-0413,Cycling Model 513,Sports,Cycling,237.66,399.3,2021-05-11
+PROD-0414,Shelving Model 514,Furniture,Shelving,252.21,355.11,2021-03-31
+PROD-0415,Team Sport Model 515,Sports,Team Sports,107.51,192.4,2019-06-24
+PROD-0416,Desk Model 516,Furniture,Desks,527.13,925.4,2020-11-19
+PROD-0417,Table Model 517,Furniture,Tables,597.32,986.78,2019-12-04
+PROD-0418,Storage Model 518,Office Supplies,Storage,29.86,54.14,2020-12-23
+PROD-0419,Cycling Model 519,Sports,Cycling,312.61,425.01,2021-07-29
+PROD-0420,Accessorie Model 520,Electronics,Accessories,87.62,137.11,2019-04-21
+PROD-0421,Paper Model 521,Office Supplies,Paper,28.38,50.66,2020-02-16
+PROD-0422,Paper Model 522,Office Supplies,Paper,17.16,23.42,2019-08-23
+PROD-0423,Printer Model 523,Office Supplies,Printers,381.99,540.89,2019-10-14
+PROD-0424,Cookware Model 524,Home & Kitchen,Cookware,143.58,262.33,2021-10-16
+PROD-0425,Fitnes Model 525,Sports,Fitness,111.74,143.96,2021-06-12
+PROD-0426,Desk Model 526,Furniture,Desks,357.52,567.97,2020-05-30
+PROD-0427,Desk Model 527,Furniture,Desks,358.09,569.54,2019-05-26
+PROD-0428,Shelving Model 528,Furniture,Shelving,106.98,184.3,2020-08-26
+PROD-0429,Team Sport Model 529,Sports,Team Sports,121.04,215.88,2021-02-01
+PROD-0430,Writing Model 530,Office Supplies,Writing,16.55,26.08,2020-12-13
+PROD-0431,Accessorie Model 531,Electronics,Accessories,82.93,133.78,2019-08-04
+PROD-0432,Laptop Model 532,Electronics,Laptops,1521.94,2352.65,2020-02-06
+PROD-0433,Cycling Model 533,Sports,Cycling,856.96,1373.73,2020-07-24
+PROD-0434,Accessorie Model 534,Electronics,Accessories,110.77,140.3,2020-02-08
+PROD-0435,Writing Model 535,Office Supplies,Writing,18.27,32.38,2020-10-28
+PROD-0436,Printer Model 536,Office Supplies,Printers,212.13,369.46,2021-11-08
+PROD-0437,Laptop Model 537,Electronics,Laptops,1809.4,2909.22,2019-05-29
+PROD-0438,Table Model 538,Furniture,Tables,233.61,357.64,2019-08-26
+PROD-0439,Cycling Model 539,Sports,Cycling,548.72,850.59,2021-02-18
+PROD-0440,Writing Model 540,Office Supplies,Writing,3.44,6.36,2021-07-14
+PROD-0441,Monitor Model 541,Electronics,Monitors,539.99,831.29,2020-05-22
+PROD-0442,Shelving Model 542,Furniture,Shelving,185.91,312.06,2019-08-31
+PROD-0443,Small Appliance Model 543,Home & Kitchen,Small Appliances,347.96,550.07,2021-04-28
+PROD-0444,Shelving Model 544,Furniture,Shelving,56.39,78.1,2020-01-24
+PROD-0445,Accessorie Model 545,Electronics,Accessories,103.01,159.08,2019-09-25
+PROD-0446,Monitor Model 546,Electronics,Monitors,328.59,472.8,2019-06-12
+PROD-0447,Phone Model 547,Electronics,Phones,916.64,1364.49,2019-08-18
+PROD-0448,Fitnes Model 548,Sports,Fitness,174.7,281.47,2019-10-20
+PROD-0449,Desk Model 549,Furniture,Desks,257.37,352.09,2020-11-16
+PROD-0450,Storage Model 550,Office Supplies,Storage,39.29,71.14,2020-02-20
+PROD-0451,Phone Model 551,Electronics,Phones,664.16,855.7,2021-01-10
+PROD-0452,Table Model 552,Furniture,Tables,169.44,221.29,2020-10-22
+PROD-0453,Cleaning Model 553,Home & Kitchen,Cleaning,19.29,24.21,2021-06-05
+PROD-0454,Decor Model 554,Home & Kitchen,Decor,57.63,89.23,2020-11-07
+PROD-0455,Monitor Model 555,Electronics,Monitors,475.74,718.03,2021-02-16
+PROD-0456,Small Appliance Model 556,Home & Kitchen,Small Appliances,268.69,477.75,2019-12-14
+PROD-0457,Phone Model 557,Electronics,Phones,925.35,1290.87,2020-05-14
+PROD-0458,Small Appliance Model 558,Home & Kitchen,Small Appliances,101.09,149.42,2020-01-22
+PROD-0459,Monitor Model 559,Electronics,Monitors,247.69,423.4,2019-04-28
+PROD-0460,Accessorie Model 560,Electronics,Accessories,105.55,173.11,2021-12-22
+PROD-0461,Cookware Model 561,Home & Kitchen,Cookware,46.39,82.01,2019-09-20
+PROD-0462,Shelving Model 562,Furniture,Shelving,86.63,146.87,2020-01-05
+PROD-0463,Phone Model 563,Electronics,Phones,948.81,1456.32,2020-06-06
+PROD-0464,Laptop Model 564,Electronics,Laptops,1709.38,3150.89,2021-12-12
+PROD-0465,Accessorie Model 565,Electronics,Accessories,34.98,50.47,2021-07-15
+PROD-0466,Cookware Model 566,Home & Kitchen,Cookware,211.2,321.36,2020-03-04
+PROD-0467,Desk Model 567,Furniture,Desks,218.95,325.46,2021-07-13
+PROD-0468,Laptop Model 568,Electronics,Laptops,795.05,1174.32,2020-08-01
+PROD-0469,Storage Model 569,Office Supplies,Storage,15.12,22.71,2019-09-12
+PROD-0470,Printer Model 570,Office Supplies,Printers,101.59,157.24,2019-10-09
+PROD-0471,Laptop Model 571,Electronics,Laptops,1654.63,2625.52,2021-10-15
+PROD-0472,Printer Model 572,Office Supplies,Printers,406.61,523.28,2021-05-31
+PROD-0473,Decor Model 573,Home & Kitchen,Decor,119.18,198.99,2020-01-17
+PROD-0474,Printer Model 574,Office Supplies,Printers,222.17,309.93,2019-06-08
+PROD-0475,Cleaning Model 575,Home & Kitchen,Cleaning,11.45,17.41,2021-03-11
+PROD-0476,Shelving Model 576,Furniture,Shelving,74.96,130.53,2021-05-09
+PROD-0477,Printer Model 577,Office Supplies,Printers,351.73,447.98,2021-03-07
+PROD-0478,Cycling Model 578,Sports,Cycling,621.61,1002.47,2020-09-19
+PROD-0479,Printer Model 579,Office Supplies,Printers,250.46,450.08,2019-10-31
+PROD-0480,Small Appliance Model 580,Home & Kitchen,Small Appliances,276.7,422.79,2020-12-04
+PROD-0481,Cookware Model 581,Home & Kitchen,Cookware,123.47,183.95,2021-08-04
+PROD-0482,Outdoor Model 582,Sports,Outdoor,210.51,287.35,2021-03-12
+PROD-0483,Storage Model 583,Office Supplies,Storage,49.68,88.68,2019-06-29
+PROD-0484,Laptop Model 584,Electronics,Laptops,709.86,935.07,2020-02-08
+PROD-0485,Paper Model 585,Office Supplies,Paper,29.88,45.31,2019-04-30
+PROD-0486,Cycling Model 586,Sports,Cycling,392.15,585.61,2021-03-06
+PROD-0487,Storage Model 587,Office Supplies,Storage,78.59,119.61,2021-10-04
+PROD-0488,Paper Model 588,Office Supplies,Paper,6.21,11.34,2021-11-18
+PROD-0489,Laptop Model 589,Electronics,Laptops,1556.32,2220.27,2020-03-28
+PROD-0490,Cookware Model 590,Home & Kitchen,Cookware,63.36,105.56,2019-06-21
+PROD-0491,Chair Model 591,Furniture,Chairs,356.56,633.15,2020-09-14
+PROD-0492,Cleaning Model 592,Home & Kitchen,Cleaning,49.55,72.0,2019-05-15
+PROD-0493,Storage Model 593,Office Supplies,Storage,71.81,105.63,2019-07-19
+PROD-0494,Team Sport Model 594,Sports,Team Sports,99.57,169.7,2019-10-20
+PROD-0495,Laptop Model 595,Electronics,Laptops,1846.41,3053.85,2020-09-19
+PROD-0496,Desk Model 596,Furniture,Desks,620.4,1020.02,2021-05-04
+PROD-0497,Paper Model 597,Office Supplies,Paper,28.72,49.63,2021-08-04
+PROD-0498,Cycling Model 598,Sports,Cycling,700.4,1251.42,2020-06-02
+PROD-0499,Outdoor Model 599,Sports,Outdoor,209.47,350.7,2021-04-02
+PROD-0500,Team Sport Model 600,Sports,Team Sports,24.89,36.77,2019-07-15
+PROD-0501,Paper Model 601,Office Supplies,Paper,8.28,12.17,2020-07-07
+PROD-0502,Storage Model 602,Office Supplies,Storage,23.3,32.04,2020-04-05
+PROD-0503,Phone Model 603,Electronics,Phones,1447.96,2340.61,2020-10-18
+PROD-0504,Cleaning Model 604,Home & Kitchen,Cleaning,42.83,67.59,2021-12-31
+PROD-0505,Cookware Model 605,Home & Kitchen,Cookware,228.45,313.7,2020-12-19
+PROD-0506,Team Sport Model 606,Sports,Team Sports,81.82,145.43,2020-04-12
+PROD-0507,Cycling Model 607,Sports,Cycling,1070.08,1893.32,2020-07-28
+PROD-0508,Shelving Model 608,Furniture,Shelving,52.97,70.63,2021-10-04
+PROD-0509,Monitor Model 609,Electronics,Monitors,697.65,972.07,2020-03-12
+PROD-0510,Desk Model 610,Furniture,Desks,406.26,713.74,2021-12-03
+PROD-0511,Writing Model 611,Office Supplies,Writing,20.81,26.93,2021-09-08
+PROD-0512,Writing Model 612,Office Supplies,Writing,17.89,32.76,2020-01-19
+PROD-0513,Cookware Model 613,Home & Kitchen,Cookware,202.65,352.82,2019-09-29
+PROD-0514,Laptop Model 614,Electronics,Laptops,606.33,881.69,2021-07-14
+PROD-0515,Chair Model 615,Furniture,Chairs,85.83,138.25,2020-08-24
+PROD-0516,Laptop Model 616,Electronics,Laptops,1810.92,2858.81,2020-03-21
+PROD-0517,Fitnes Model 617,Sports,Fitness,186.06,306.99,2020-06-19
+PROD-0518,Monitor Model 618,Electronics,Monitors,326.3,572.66,2021-03-28
+PROD-0519,Outdoor Model 619,Sports,Outdoor,260.66,431.44,2020-01-30
+PROD-0520,Team Sport Model 620,Sports,Team Sports,140.5,258.22,2020-06-06
+PROD-0521,Laptop Model 621,Electronics,Laptops,1267.55,2096.75,2020-07-20
+PROD-0522,Laptop Model 622,Electronics,Laptops,1844.47,3036.88,2019-04-12
+PROD-0523,Laptop Model 623,Electronics,Laptops,812.82,1182.67,2021-01-16
+PROD-0524,Accessorie Model 624,Electronics,Accessories,106.77,137.39,2020-12-05
+PROD-0525,Fitnes Model 625,Sports,Fitness,49.03,67.31,2019-12-14
+PROD-0526,Small Appliance Model 626,Home & Kitchen,Small Appliances,249.82,419.35,2020-02-05
+PROD-0527,Laptop Model 627,Electronics,Laptops,774.1,1152.86,2019-11-04
+PROD-0528,Cycling Model 628,Sports,Cycling,692.7,997.12,2021-01-21
+PROD-0529,Chair Model 629,Furniture,Chairs,93.1,160.68,2020-03-30
+PROD-0530,Team Sport Model 630,Sports,Team Sports,149.92,262.88,2019-04-09
+PROD-0531,Decor Model 631,Home & Kitchen,Decor,32.23,49.74,2019-07-09
+PROD-0532,Paper Model 632,Office Supplies,Paper,16.76,25.01,2019-10-23
+PROD-0533,Accessorie Model 633,Electronics,Accessories,79.49,106.31,2020-04-11
+PROD-0534,Phone Model 634,Electronics,Phones,1337.75,2276.68,2020-08-02
+PROD-0535,Chair Model 635,Furniture,Chairs,308.56,461.41,2020-01-31
+PROD-0536,Chair Model 636,Furniture,Chairs,358.75,625.13,2019-10-16
+PROD-0537,Desk Model 637,Furniture,Desks,213.63,373.04,2019-08-11
+PROD-0538,Outdoor Model 638,Sports,Outdoor,385.2,589.17,2021-06-01
+PROD-0539,Outdoor Model 639,Sports,Outdoor,305.3,442.0,2021-06-10
+PROD-0540,Paper Model 640,Office Supplies,Paper,19.15,26.67,2021-10-06
+PROD-0541,Paper Model 641,Office Supplies,Paper,28.24,39.73,2021-09-19
+PROD-0542,Writing Model 642,Office Supplies,Writing,3.97,5.53,2019-12-23
+PROD-0543,Fitnes Model 643,Sports,Fitness,81.59,134.21,2019-10-08
+PROD-0544,Cycling Model 644,Sports,Cycling,1193.74,1819.14,2019-09-15
+PROD-0545,Outdoor Model 645,Sports,Outdoor,131.45,192.31,2020-01-31
+PROD-0546,Phone Model 646,Electronics,Phones,590.3,837.13,2021-01-27
+PROD-0547,Printer Model 647,Office Supplies,Printers,221.44,376.8,2020-03-11
+PROD-0548,Writing Model 648,Office Supplies,Writing,24.42,37.47,2021-05-24
+PROD-0549,Paper Model 649,Office Supplies,Paper,20.73,36.87,2021-10-23
+PROD-0550,Monitor Model 650,Electronics,Monitors,626.95,1067.07,2021-05-18
+PROD-0551,Cookware Model 651,Home & Kitchen,Cookware,237.73,328.37,2021-05-08
+PROD-0552,Storage Model 652,Office Supplies,Storage,39.54,57.7,2021-11-16
+PROD-0553,Printer Model 653,Office Supplies,Printers,416.36,724.07,2020-01-20
+PROD-0554,Table Model 654,Furniture,Tables,370.2,645.95,2021-03-23
+PROD-0555,Team Sport Model 655,Sports,Team Sports,104.26,163.88,2020-03-16
+PROD-0556,Small Appliance Model 656,Home & Kitchen,Small Appliances,208.54,382.38,2021-10-06
+PROD-0557,Chair Model 657,Furniture,Chairs,182.84,308.16,2021-09-05
+PROD-0558,Accessorie Model 658,Electronics,Accessories,112.09,147.97,2019-11-10
+PROD-0559,Shelving Model 659,Furniture,Shelving,186.83,332.42,2019-04-13
+PROD-0560,Writing Model 660,Office Supplies,Writing,22.04,38.04,2020-12-16
+PROD-0561,Chair Model 661,Furniture,Chairs,447.54,613.16,2020-07-06
+PROD-0562,Storage Model 662,Office Supplies,Storage,34.92,60.53,2020-07-22
+PROD-0563,Phone Model 663,Electronics,Phones,791.28,1226.48,2020-12-14
+PROD-0564,Small Appliance Model 664,Home & Kitchen,Small Appliances,181.77,252.07,2021-05-22
+PROD-0565,Table Model 665,Furniture,Tables,464.28,645.77,2020-12-19
+PROD-0566,Printer Model 666,Office Supplies,Printers,246.79,437.03,2019-06-08
+PROD-0567,Paper Model 667,Office Supplies,Paper,18.85,25.23,2019-11-01
+PROD-0568,Table Model 668,Furniture,Tables,277.87,445.03,2020-12-26
+PROD-0569,Shelving Model 669,Furniture,Shelving,155.81,261.8,2021-03-25
+PROD-0570,Printer Model 670,Office Supplies,Printers,406.11,616.51,2020-09-04
+PROD-0571,Table Model 671,Furniture,Tables,268.57,378.99,2020-10-30
+PROD-0572,Accessorie Model 672,Electronics,Accessories,93.43,150.21,2021-02-17
+PROD-0573,Laptop Model 673,Electronics,Laptops,1789.93,2686.29,2021-11-03
+PROD-0574,Phone Model 674,Electronics,Phones,1000.75,1776.99,2021-09-06
+PROD-0575,Desk Model 675,Furniture,Desks,225.59,412.23,2019-09-06
+PROD-0576,Printer Model 676,Office Supplies,Printers,443.71,571.89,2021-06-24
+PROD-0577,Shelving Model 677,Furniture,Shelving,131.58,225.86,2019-10-01
+PROD-0578,Monitor Model 678,Electronics,Monitors,429.62,742.26,2020-04-07
+PROD-0579,Team Sport Model 679,Sports,Team Sports,31.87,56.31,2021-09-16
+PROD-0580,Chair Model 680,Furniture,Chairs,155.87,235.19,2019-08-21
+PROD-0581,Accessorie Model 681,Electronics,Accessories,16.78,24.08,2019-06-20
+PROD-0582,Printer Model 682,Office Supplies,Printers,215.65,390.84,2019-09-29
+PROD-0583,Cycling Model 683,Sports,Cycling,571.29,1008.67,2021-06-18
+PROD-0584,Fitnes Model 684,Sports,Fitness,112.9,205.4,2021-01-18
+PROD-0585,Phone Model 685,Electronics,Phones,1333.46,2108.09,2020-06-01
+PROD-0586,Cookware Model 686,Home & Kitchen,Cookware,73.55,134.01,2021-04-26
+PROD-0587,Shelving Model 687,Furniture,Shelving,145.25,193.19,2020-05-02
+PROD-0588,Laptop Model 688,Electronics,Laptops,886.94,1189.58,2021-07-04
+PROD-0589,Cleaning Model 689,Home & Kitchen,Cleaning,45.25,73.39,2021-06-06
+PROD-0590,Desk Model 690,Furniture,Desks,330.92,560.96,2021-08-03
+PROD-0591,Accessorie Model 691,Electronics,Accessories,54.26,73.71,2019-10-11
+PROD-0592,Decor Model 692,Home & Kitchen,Decor,129.43,189.26,2020-12-24
+PROD-0593,Small Appliance Model 693,Home & Kitchen,Small Appliances,143.23,235.71,2021-08-05
+PROD-0594,Phone Model 694,Electronics,Phones,842.56,1516.1,2019-05-16
+PROD-0595,Writing Model 695,Office Supplies,Writing,13.59,24.85,2020-05-11
+PROD-0596,Paper Model 696,Office Supplies,Paper,19.7,34.61,2019-05-04
+PROD-0597,Paper Model 697,Office Supplies,Paper,20.1,25.63,2019-12-07
+PROD-0598,Accessorie Model 698,Electronics,Accessories,62.13,109.8,2021-01-04
+PROD-0599,Small Appliance Model 699,Home & Kitchen,Small Appliances,348.89,603.7,2021-09-21
+PROD-0600,Small Appliance Model 700,Home & Kitchen,Small Appliances,98.55,155.18,2020-09-22
+PROD-0601,Accessorie Model 701,Electronics,Accessories,17.18,27.31,2021-05-30
+PROD-0602,Cleaning Model 702,Home & Kitchen,Cleaning,16.1,23.82,2021-01-11
+PROD-0603,Team Sport Model 703,Sports,Team Sports,141.22,181.04,2019-12-03
+PROD-0604,Paper Model 704,Office Supplies,Paper,29.26,50.08,2019-05-17
+PROD-0605,Accessorie Model 705,Electronics,Accessories,92.36,166.08,2019-05-03
+PROD-0606,Team Sport Model 706,Sports,Team Sports,98.18,167.87,2019-04-23
+PROD-0607,Table Model 707,Furniture,Tables,347.65,467.35,2021-11-13
+PROD-0608,Storage Model 708,Office Supplies,Storage,47.11,68.52,2019-07-11
+PROD-0609,Writing Model 709,Office Supplies,Writing,22.65,41.42,2021-10-12
+PROD-0610,Writing Model 710,Office Supplies,Writing,5.32,8.21,2019-09-14
+PROD-0611,Monitor Model 711,Electronics,Monitors,648.74,900.16,2020-01-27
+PROD-0612,Cycling Model 712,Sports,Cycling,196.65,346.83,2020-11-21
+PROD-0613,Fitnes Model 713,Sports,Fitness,99.71,127.16,2020-05-28
+PROD-0614,Outdoor Model 714,Sports,Outdoor,271.18,416.69,2021-11-14
+PROD-0615,Accessorie Model 715,Electronics,Accessories,83.59,135.99,2021-12-27
+PROD-0616,Storage Model 716,Office Supplies,Storage,75.24,123.52,2020-07-18
+PROD-0617,Storage Model 717,Office Supplies,Storage,62.69,96.57,2021-12-26
+PROD-0618,Paper Model 718,Office Supplies,Paper,8.41,14.27,2021-03-26
+PROD-0619,Storage Model 719,Office Supplies,Storage,43.27,73.28,2019-07-25
+PROD-0620,Team Sport Model 720,Sports,Team Sports,72.23,128.14,2019-06-14
+PROD-0621,Cycling Model 721,Sports,Cycling,1174.43,2150.2,2020-04-23
+PROD-0622,Accessorie Model 722,Electronics,Accessories,78.62,121.69,2020-06-09
+PROD-0623,Shelving Model 723,Furniture,Shelving,257.3,335.75,2020-12-10
+PROD-0624,Desk Model 724,Furniture,Desks,616.31,872.43,2020-05-18
+PROD-0625,Laptop Model 725,Electronics,Laptops,1109.41,1545.62,2020-01-19
+PROD-0626,Accessorie Model 726,Electronics,Accessories,50.94,73.76,2021-01-14
+PROD-0627,Accessorie Model 727,Electronics,Accessories,19.14,28.77,2021-09-09
+PROD-0628,Cleaning Model 728,Home & Kitchen,Cleaning,8.72,15.29,2021-03-29
+PROD-0629,Printer Model 729,Office Supplies,Printers,293.32,512.12,2019-11-20
+PROD-0630,Shelving Model 730,Furniture,Shelving,167.23,241.02,2020-10-04
+PROD-0631,Printer Model 731,Office Supplies,Printers,248.06,346.24,2019-05-22
+PROD-0632,Cleaning Model 732,Home & Kitchen,Cleaning,38.8,59.71,2019-06-11
+PROD-0633,Accessorie Model 733,Electronics,Accessories,38.0,68.19,2020-02-06
+PROD-0634,Monitor Model 734,Electronics,Monitors,448.94,676.98,2021-05-29
+PROD-0635,Printer Model 735,Office Supplies,Printers,189.67,310.4,2021-10-26
+PROD-0636,Paper Model 736,Office Supplies,Paper,20.93,29.92,2020-12-10
+PROD-0637,Phone Model 737,Electronics,Phones,1105.93,2010.63,2020-09-08
+PROD-0638,Small Appliance Model 738,Home & Kitchen,Small Appliances,144.86,186.99,2020-11-07
+PROD-0639,Table Model 739,Furniture,Tables,175.94,294.41,2020-12-29
+PROD-0640,Decor Model 740,Home & Kitchen,Decor,94.36,142.28,2020-06-15
+PROD-0641,Paper Model 741,Office Supplies,Paper,8.73,15.43,2019-06-15
+PROD-0642,Shelving Model 742,Furniture,Shelving,134.69,239.9,2021-09-04
+PROD-0643,Accessorie Model 743,Electronics,Accessories,17.17,21.52,2021-08-22
+PROD-0644,Small Appliance Model 744,Home & Kitchen,Small Appliances,152.44,219.63,2019-05-27
+PROD-0645,Phone Model 745,Electronics,Phones,1328.5,1926.9,2019-10-03
+PROD-0646,Writing Model 746,Office Supplies,Writing,2.76,3.73,2019-05-28
+PROD-0647,Writing Model 747,Office Supplies,Writing,4.16,6.29,2019-12-14
+PROD-0648,Storage Model 748,Office Supplies,Storage,21.32,27.92,2020-05-07
+PROD-0649,Phone Model 749,Electronics,Phones,585.12,741.05,2020-07-28
+PROD-0650,Cleaning Model 750,Home & Kitchen,Cleaning,5.93,8.57,2021-10-04
+PROD-0651,Paper Model 751,Office Supplies,Paper,21.06,28.21,2021-04-08
+PROD-0652,Cleaning Model 752,Home & Kitchen,Cleaning,32.3,58.89,2019-10-28
+PROD-0653,Laptop Model 753,Electronics,Laptops,1324.0,2120.12,2021-04-06
+PROD-0654,Printer Model 754,Office Supplies,Printers,161.7,285.65,2021-07-12
+PROD-0655,Paper Model 755,Office Supplies,Paper,14.32,24.31,2020-12-16
+PROD-0656,Printer Model 756,Office Supplies,Printers,205.84,314.09,2021-10-22
+PROD-0657,Cycling Model 757,Sports,Cycling,886.23,1343.88,2021-09-10
+PROD-0658,Paper Model 758,Office Supplies,Paper,7.76,13.17,2020-07-12
+PROD-0659,Desk Model 759,Furniture,Desks,387.7,552.82,2020-11-05
+PROD-0660,Outdoor Model 760,Sports,Outdoor,225.79,312.39,2021-06-19
+PROD-0661,Phone Model 761,Electronics,Phones,334.04,468.99,2021-08-27
+PROD-0662,Writing Model 762,Office Supplies,Writing,24.21,37.13,2020-10-24
+PROD-0663,Accessorie Model 763,Electronics,Accessories,118.97,203.05,2020-02-15
+PROD-0664,Printer Model 764,Office Supplies,Printers,382.05,482.77,2020-11-25
+PROD-0665,Accessorie Model 765,Electronics,Accessories,16.21,27.57,2021-04-16
+PROD-0666,Writing Model 766,Office Supplies,Writing,16.66,23.53,2019-05-16
+PROD-0667,Storage Model 767,Office Supplies,Storage,71.09,104.24,2020-03-10
+PROD-0668,Team Sport Model 768,Sports,Team Sports,140.45,236.41,2021-11-25
+PROD-0669,Laptop Model 769,Electronics,Laptops,1440.96,2094.42,2020-05-09
+PROD-0670,Storage Model 770,Office Supplies,Storage,19.98,31.09,2019-10-31
+PROD-0671,Chair Model 771,Furniture,Chairs,377.11,666.1,2019-04-12
+PROD-0672,Shelving Model 772,Furniture,Shelving,237.5,417.69,2020-09-01
+PROD-0673,Storage Model 773,Office Supplies,Storage,56.89,75.06,2021-01-26
+PROD-0674,Paper Model 774,Office Supplies,Paper,12.33,15.96,2019-12-05
+PROD-0675,Paper Model 775,Office Supplies,Paper,28.95,48.62,2021-12-25
+PROD-0676,Phone Model 776,Electronics,Phones,975.97,1765.04,2021-11-23
+PROD-0677,Writing Model 777,Office Supplies,Writing,12.45,16.89,2019-04-10
+PROD-0678,Table Model 778,Furniture,Tables,465.18,838.0,2021-03-27
+PROD-0679,Team Sport Model 779,Sports,Team Sports,43.18,78.16,2020-01-21
+PROD-0680,Chair Model 780,Furniture,Chairs,390.99,519.01,2019-06-30
+PROD-0681,Outdoor Model 781,Sports,Outdoor,342.75,455.1,2020-11-14
+PROD-0682,Laptop Model 782,Electronics,Laptops,1075.28,1684.59,2019-07-03
+PROD-0683,Cleaning Model 783,Home & Kitchen,Cleaning,36.06,59.03,2020-08-27
+PROD-0684,Printer Model 784,Office Supplies,Printers,371.42,503.26,2020-01-01
+PROD-0685,Table Model 785,Furniture,Tables,227.73,375.22,2021-11-01
+PROD-0686,Printer Model 786,Office Supplies,Printers,407.39,513.5,2021-05-28
+PROD-0687,Printer Model 787,Office Supplies,Printers,298.77,483.54,2021-04-12
+PROD-0688,Storage Model 788,Office Supplies,Storage,43.94,77.02,2020-05-26
+PROD-0689,Table Model 789,Furniture,Tables,431.46,756.46,2021-06-30
+PROD-0690,Desk Model 790,Furniture,Desks,679.99,897.45,2019-10-16
+PROD-0691,Shelving Model 791,Furniture,Shelving,296.22,539.82,2020-04-13
+PROD-0692,Storage Model 792,Office Supplies,Storage,79.3,124.52,2021-11-23
+PROD-0693,Small Appliance Model 793,Home & Kitchen,Small Appliances,170.44,264.96,2021-05-22
+PROD-0694,Cleaning Model 794,Home & Kitchen,Cleaning,28.25,37.77,2020-10-01
+PROD-0695,Small Appliance Model 795,Home & Kitchen,Small Appliances,139.98,203.54,2021-02-18
+PROD-0696,Laptop Model 796,Electronics,Laptops,1315.2,2422.32,2021-04-29
+PROD-0697,Printer Model 797,Office Supplies,Printers,287.23,478.77,2019-04-16
+PROD-0698,Outdoor Model 798,Sports,Outdoor,216.02,277.33,2020-02-17
+PROD-0699,Storage Model 799,Office Supplies,Storage,39.14,52.98,2019-11-12
+PROD-0700,Shelving Model 800,Furniture,Shelving,212.42,333.26,2021-08-09
+PROD-0701,Small Appliance Model 801,Home & Kitchen,Small Appliances,108.04,195.84,2020-03-31
+PROD-0702,Team Sport Model 802,Sports,Team Sports,114.94,158.07,2021-02-16
+PROD-0703,Team Sport Model 803,Sports,Team Sports,43.47,76.29,2020-09-05
+PROD-0704,Printer Model 804,Office Supplies,Printers,222.63,333.74,2021-02-05
+PROD-0705,Monitor Model 805,Electronics,Monitors,264.65,436.59,2021-06-05
+PROD-0706,Desk Model 806,Furniture,Desks,700.9,1038.71,2020-11-03
+PROD-0707,Shelving Model 807,Furniture,Shelving,211.22,311.79,2020-03-04
+PROD-0708,Cleaning Model 808,Home & Kitchen,Cleaning,41.31,55.26,2021-11-05
+PROD-0709,Table Model 809,Furniture,Tables,275.22,400.83,2021-12-14
+PROD-0710,Accessorie Model 810,Electronics,Accessories,57.94,95.66,2019-10-09
+PROD-0711,Printer Model 811,Office Supplies,Printers,315.17,430.92,2019-09-26
+PROD-0712,Phone Model 812,Electronics,Phones,720.21,1055.82,2021-10-16
+PROD-0713,Cookware Model 813,Home & Kitchen,Cookware,31.85,53.16,2021-03-15
+PROD-0714,Laptop Model 814,Electronics,Laptops,987.11,1391.99,2020-08-08
+PROD-0715,Table Model 815,Furniture,Tables,517.04,883.91,2021-07-02
+PROD-0716,Storage Model 816,Office Supplies,Storage,53.64,76.96,2020-09-18
+PROD-0717,Writing Model 817,Office Supplies,Writing,12.3,16.8,2019-11-02
+PROD-0718,Printer Model 818,Office Supplies,Printers,373.75,628.92,2020-11-15
+PROD-0719,Small Appliance Model 819,Home & Kitchen,Small Appliances,245.74,375.67,2020-06-05
+PROD-0720,Paper Model 820,Office Supplies,Paper,11.22,15.52,2020-05-27
+PROD-0721,Small Appliance Model 821,Home & Kitchen,Small Appliances,122.0,170.71,2020-11-26
+PROD-0722,Writing Model 822,Office Supplies,Writing,20.64,34.63,2019-08-13
+PROD-0723,Writing Model 823,Office Supplies,Writing,8.51,11.31,2021-06-23
+PROD-0724,Desk Model 824,Furniture,Desks,589.85,928.9,2020-11-20
+PROD-0725,Storage Model 825,Office Supplies,Storage,62.97,95.69,2021-04-01
+PROD-0726,Shelving Model 826,Furniture,Shelving,280.03,405.26,2021-02-12
+PROD-0727,Fitnes Model 827,Sports,Fitness,97.55,124.27,2019-05-05
+PROD-0728,Writing Model 828,Office Supplies,Writing,7.78,14.23,2021-04-07
+PROD-0729,Cookware Model 829,Home & Kitchen,Cookware,150.2,216.89,2020-06-17
+PROD-0730,Outdoor Model 830,Sports,Outdoor,259.92,327.14,2021-05-01
+PROD-0731,Phone Model 831,Electronics,Phones,324.87,439.87,2020-03-19
+PROD-0732,Desk Model 832,Furniture,Desks,440.03,807.99,2020-06-05
+PROD-0733,Laptop Model 833,Electronics,Laptops,509.75,798.06,2020-09-15
+PROD-0734,Small Appliance Model 834,Home & Kitchen,Small Appliances,94.52,168.26,2021-03-26
+PROD-0735,Writing Model 835,Office Supplies,Writing,16.33,26.67,2020-06-25
+PROD-0736,Desk Model 836,Furniture,Desks,471.18,765.32,2021-09-01
+PROD-0737,Desk Model 837,Furniture,Desks,638.03,1062.97,2020-06-16
+PROD-0738,Table Model 838,Furniture,Tables,425.09,546.6,2021-09-22
+PROD-0739,Team Sport Model 839,Sports,Team Sports,135.84,240.65,2020-08-03
+PROD-0740,Table Model 840,Furniture,Tables,126.17,220.03,2019-09-18
+PROD-0741,Small Appliance Model 841,Home & Kitchen,Small Appliances,229.2,291.25,2019-11-21
+PROD-0742,Fitnes Model 842,Sports,Fitness,143.39,186.51,2021-04-03
+PROD-0743,Small Appliance Model 843,Home & Kitchen,Small Appliances,155.67,211.84,2020-01-31
+PROD-0744,Cleaning Model 844,Home & Kitchen,Cleaning,39.9,52.21,2021-01-05
+PROD-0745,Phone Model 845,Electronics,Phones,950.96,1351.02,2020-05-15
+PROD-0746,Laptop Model 846,Electronics,Laptops,941.89,1696.0,2020-10-24
+PROD-0747,Shelving Model 847,Furniture,Shelving,186.03,310.4,2021-03-27
+PROD-0748,Outdoor Model 848,Sports,Outdoor,299.17,498.85,2021-04-23
+PROD-0749,Laptop Model 849,Electronics,Laptops,1205.76,2104.01,2020-12-17
+PROD-0750,Small Appliance Model 850,Home & Kitchen,Small Appliances,152.43,257.82,2021-02-22
+PROD-0751,Accessorie Model 851,Electronics,Accessories,108.16,176.72,2019-05-24
+PROD-0752,Printer Model 852,Office Supplies,Printers,270.84,351.81,2020-04-28
+PROD-0753,Cookware Model 853,Home & Kitchen,Cookware,235.41,325.02,2019-07-23
+PROD-0754,Laptop Model 854,Electronics,Laptops,895.23,1287.94,2020-09-27
+PROD-0755,Chair Model 855,Furniture,Chairs,406.78,640.52,2021-03-03
+PROD-0756,Decor Model 856,Home & Kitchen,Decor,47.34,86.91,2019-08-13
+PROD-0757,Desk Model 857,Furniture,Desks,645.38,944.7,2019-08-11
+PROD-0758,Phone Model 858,Electronics,Phones,1055.3,1933.38,2021-09-20
+PROD-0759,Table Model 859,Furniture,Tables,171.81,257.43,2020-02-20
+PROD-0760,Laptop Model 860,Electronics,Laptops,1880.55,2789.71,2019-10-09
+PROD-0761,Phone Model 861,Electronics,Phones,1205.54,1857.22,2019-09-30
+PROD-0762,Storage Model 862,Office Supplies,Storage,25.77,32.81,2020-11-14
+PROD-0763,Decor Model 863,Home & Kitchen,Decor,60.81,93.91,2019-09-01
+PROD-0764,Phone Model 864,Electronics,Phones,507.93,772.88,2021-04-03
+PROD-0765,Writing Model 865,Office Supplies,Writing,5.14,9.06,2021-09-09
+PROD-0766,Fitnes Model 866,Sports,Fitness,177.93,264.84,2019-05-08
+PROD-0767,Storage Model 867,Office Supplies,Storage,53.73,76.84,2020-09-17
+PROD-0768,Writing Model 868,Office Supplies,Writing,18.15,26.4,2019-08-26
+PROD-0769,Paper Model 869,Office Supplies,Paper,23.11,33.46,2021-09-12
+PROD-0770,Outdoor Model 870,Sports,Outdoor,235.29,397.35,2019-09-14
+PROD-0771,Accessorie Model 871,Electronics,Accessories,107.42,149.49,2019-04-23
+PROD-0772,Storage Model 872,Office Supplies,Storage,71.46,130.99,2020-10-16
+PROD-0773,Cleaning Model 873,Home & Kitchen,Cleaning,24.57,32.5,2020-03-17
+PROD-0774,Paper Model 874,Office Supplies,Paper,10.0,13.35,2020-10-16
+PROD-0775,Cookware Model 875,Home & Kitchen,Cookware,96.96,148.15,2021-12-22
+PROD-0776,Chair Model 876,Furniture,Chairs,263.52,486.89,2019-06-02
+PROD-0777,Printer Model 877,Office Supplies,Printers,214.52,281.52,2021-06-25
+PROD-0778,Fitnes Model 878,Sports,Fitness,39.9,59.56,2020-07-30
+PROD-0779,Printer Model 879,Office Supplies,Printers,292.96,528.43,2020-06-09
+PROD-0780,Cycling Model 880,Sports,Cycling,108.46,155.72,2020-05-27
+PROD-0781,Laptop Model 881,Electronics,Laptops,1026.52,1740.61,2020-06-21
+PROD-0782,Accessorie Model 882,Electronics,Accessories,102.85,154.29,2019-10-07
+PROD-0783,Phone Model 883,Electronics,Phones,361.98,477.26,2020-01-30
+PROD-0784,Laptop Model 884,Electronics,Laptops,819.36,1067.46,2021-06-26
+PROD-0785,Laptop Model 885,Electronics,Laptops,1582.04,2774.96,2021-11-30
+PROD-0786,Storage Model 886,Office Supplies,Storage,67.27,98.57,2020-12-29
+PROD-0787,Small Appliance Model 887,Home & Kitchen,Small Appliances,200.49,276.49,2020-08-05
+PROD-0788,Storage Model 888,Office Supplies,Storage,18.43,25.61,2020-01-28
+PROD-0789,Phone Model 889,Electronics,Phones,825.39,1373.39,2021-11-27
+PROD-0790,Accessorie Model 890,Electronics,Accessories,43.08,76.38,2020-04-18
+PROD-0791,Chair Model 891,Furniture,Chairs,381.43,580.84,2021-09-02
+PROD-0792,Accessorie Model 892,Electronics,Accessories,117.23,166.15,2019-11-06
+PROD-0793,Writing Model 893,Office Supplies,Writing,8.35,14.85,2021-12-09
+PROD-0794,Monitor Model 894,Electronics,Monitors,593.55,801.36,2019-08-25
+PROD-0795,Storage Model 895,Office Supplies,Storage,27.13,42.86,2020-12-24
+PROD-0796,Team Sport Model 896,Sports,Team Sports,42.97,70.27,2021-08-27
+PROD-0797,Cycling Model 897,Sports,Cycling,643.02,1146.18,2019-10-23
+PROD-0798,Decor Model 898,Home & Kitchen,Decor,103.12,162.77,2019-07-16
+PROD-0799,Phone Model 899,Electronics,Phones,392.55,654.64,2021-09-19
+PROD-0800,Fitnes Model 900,Sports,Fitness,198.61,319.33,2020-09-22
+PROD-0801,Accessorie Model 901,Electronics,Accessories,32.26,53.13,2021-06-28
+PROD-0802,Table Model 902,Furniture,Tables,214.1,349.39,2019-12-26
+PROD-0803,Fitnes Model 903,Sports,Fitness,104.31,139.47,2019-05-16
+PROD-0804,Storage Model 904,Office Supplies,Storage,70.38,100.53,2020-02-19
+PROD-0805,Phone Model 905,Electronics,Phones,927.58,1391.91,2020-03-21
+PROD-0806,Table Model 906,Furniture,Tables,240.33,332.98,2020-09-30
+PROD-0807,Small Appliance Model 907,Home & Kitchen,Small Appliances,215.57,320.62,2020-10-13
+PROD-0808,Table Model 908,Furniture,Tables,254.62,318.69,2019-08-06
+PROD-0809,Storage Model 909,Office Supplies,Storage,48.54,89.73,2019-04-26
+PROD-0810,Accessorie Model 910,Electronics,Accessories,41.11,73.95,2019-07-24
+PROD-0811,Storage Model 911,Office Supplies,Storage,66.78,98.37,2021-06-01
+PROD-0812,Accessorie Model 912,Electronics,Accessories,55.82,74.06,2019-10-17
+PROD-0813,Outdoor Model 913,Sports,Outdoor,164.0,295.18,2020-01-31
+PROD-0814,Storage Model 914,Office Supplies,Storage,31.3,45.53,2020-03-16
+PROD-0815,Fitnes Model 915,Sports,Fitness,193.27,272.3,2019-12-15
+PROD-0816,Table Model 916,Furniture,Tables,239.54,442.95,2020-02-27
+PROD-0817,Table Model 917,Furniture,Tables,157.5,272.3,2020-04-08
+PROD-0818,Outdoor Model 918,Sports,Outdoor,68.55,90.78,2020-12-26
+PROD-0819,Team Sport Model 919,Sports,Team Sports,41.07,57.52,2021-07-18
+PROD-0820,Fitnes Model 920,Sports,Fitness,110.96,151.26,2021-10-20
+PROD-0821,Storage Model 921,Office Supplies,Storage,38.64,59.89,2021-12-06
+PROD-0822,Chair Model 922,Furniture,Chairs,375.01,522.82,2021-04-10
+PROD-0823,Printer Model 923,Office Supplies,Printers,459.56,610.04,2019-05-24
+PROD-0824,Table Model 924,Furniture,Tables,186.57,261.83,2020-12-28
+PROD-0825,Desk Model 925,Furniture,Desks,756.66,1183.84,2020-06-05
+PROD-0826,Monitor Model 926,Electronics,Monitors,693.21,991.28,2020-01-23
+PROD-0827,Team Sport Model 927,Sports,Team Sports,140.97,192.37,2020-12-26
+PROD-0828,Paper Model 928,Office Supplies,Paper,21.13,27.08,2020-05-28
+PROD-0829,Writing Model 929,Office Supplies,Writing,19.38,32.38,2020-03-18
+PROD-0830,Paper Model 930,Office Supplies,Paper,11.11,14.01,2019-09-06
+PROD-0831,Writing Model 931,Office Supplies,Writing,15.35,21.33,2021-10-29
+PROD-0832,Printer Model 932,Office Supplies,Printers,286.5,426.43,2019-07-21
+PROD-0833,Shelving Model 933,Furniture,Shelving,106.24,143.47,2021-06-13
+PROD-0834,Paper Model 934,Office Supplies,Paper,16.79,21.97,2021-05-08
+PROD-0835,Monitor Model 935,Electronics,Monitors,414.87,741.17,2021-03-24
+PROD-0836,Storage Model 936,Office Supplies,Storage,16.02,20.74,2019-06-09
+PROD-0837,Paper Model 937,Office Supplies,Paper,6.32,9.72,2019-09-14
+PROD-0838,Desk Model 938,Furniture,Desks,768.7,1049.78,2021-05-03
+PROD-0839,Cookware Model 939,Home & Kitchen,Cookware,184.46,242.67,2021-08-09
+PROD-0840,Small Appliance Model 940,Home & Kitchen,Small Appliances,180.06,238.53,2021-12-21
+PROD-0841,Outdoor Model 941,Sports,Outdoor,338.38,552.28,2020-09-28
+PROD-0842,Phone Model 942,Electronics,Phones,1401.42,1789.61,2019-12-24
+PROD-0843,Desk Model 943,Furniture,Desks,267.08,416.84,2020-08-26
+PROD-0844,Desk Model 944,Furniture,Desks,436.79,742.01,2019-04-26
+PROD-0845,Desk Model 945,Furniture,Desks,755.86,958.81,2019-04-19
+PROD-0846,Desk Model 946,Furniture,Desks,790.77,1293.67,2021-07-23
+PROD-0847,Team Sport Model 947,Sports,Team Sports,50.67,73.91,2020-05-06
+PROD-0848,Accessorie Model 948,Electronics,Accessories,76.78,116.34,2020-07-27
+PROD-0849,Storage Model 949,Office Supplies,Storage,73.63,124.26,2020-04-04
+PROD-0850,Table Model 950,Furniture,Tables,134.19,204.56,2020-01-28
+PROD-0851,Chair Model 951,Furniture,Chairs,321.9,525.24,2019-07-25
+PROD-0852,Monitor Model 952,Electronics,Monitors,621.36,1130.83,2020-12-21
+PROD-0853,Table Model 953,Furniture,Tables,337.61,521.81,2021-02-25
+PROD-0854,Table Model 954,Furniture,Tables,599.01,763.09,2020-01-30
+PROD-0855,Printer Model 955,Office Supplies,Printers,472.99,763.15,2020-01-11
+PROD-0856,Team Sport Model 956,Sports,Team Sports,126.48,180.65,2020-09-25
+PROD-0857,Desk Model 957,Furniture,Desks,528.12,793.0,2019-08-06
+PROD-0858,Chair Model 958,Furniture,Chairs,94.79,142.62,2019-06-26
+PROD-0859,Laptop Model 959,Electronics,Laptops,608.32,982.52,2020-03-06
+PROD-0860,Team Sport Model 960,Sports,Team Sports,59.2,76.56,2020-08-20
+PROD-0861,Paper Model 961,Office Supplies,Paper,16.48,23.18,2019-07-08
+PROD-0862,Phone Model 962,Electronics,Phones,1012.86,1675.73,2020-08-18
+PROD-0863,Accessorie Model 963,Electronics,Accessories,84.85,123.22,2019-08-14
+PROD-0864,Printer Model 964,Office Supplies,Printers,326.52,566.63,2021-05-19
+PROD-0865,Accessorie Model 965,Electronics,Accessories,42.2,75.15,2020-07-18
+PROD-0866,Laptop Model 966,Electronics,Laptops,1068.29,1449.78,2020-08-01
+PROD-0867,Table Model 967,Furniture,Tables,135.39,236.26,2019-07-16
+PROD-0868,Printer Model 968,Office Supplies,Printers,105.33,168.6,2021-06-04
+PROD-0869,Writing Model 969,Office Supplies,Writing,23.61,43.43,2020-12-05
+PROD-0870,Outdoor Model 970,Sports,Outdoor,125.94,168.42,2021-06-17
+PROD-0871,Desk Model 971,Furniture,Desks,705.43,901.3,2021-04-19
+PROD-0872,Writing Model 972,Office Supplies,Writing,14.47,26.58,2021-12-16
+PROD-0873,Printer Model 973,Office Supplies,Printers,304.73,551.53,2020-11-03
+PROD-0874,Outdoor Model 974,Sports,Outdoor,326.82,496.29,2020-08-05
+PROD-0875,Paper Model 975,Office Supplies,Paper,22.02,33.06,2020-09-09
+PROD-0876,Storage Model 976,Office Supplies,Storage,32.99,49.92,2020-03-07
+PROD-0877,Writing Model 977,Office Supplies,Writing,21.29,27.04,2019-09-14
+PROD-0878,Paper Model 978,Office Supplies,Paper,19.65,29.98,2021-11-25
+PROD-0879,Decor Model 979,Home & Kitchen,Decor,122.04,183.54,2021-04-03
+PROD-0880,Cleaning Model 980,Home & Kitchen,Cleaning,12.83,16.54,2020-01-24
+PROD-0881,Monitor Model 981,Electronics,Monitors,392.21,503.95,2021-03-14
+PROD-0882,Team Sport Model 982,Sports,Team Sports,146.69,245.5,2020-09-02
+PROD-0883,Printer Model 983,Office Supplies,Printers,202.95,264.02,2021-08-07
+PROD-0884,Cookware Model 984,Home & Kitchen,Cookware,130.44,193.06,2021-05-27
+PROD-0885,Chair Model 985,Furniture,Chairs,380.99,681.66,2019-06-23
+PROD-0886,Accessorie Model 986,Electronics,Accessories,81.66,121.59,2020-12-16
+PROD-0887,Fitnes Model 987,Sports,Fitness,137.21,207.29,2021-03-02
+PROD-0888,Shelving Model 988,Furniture,Shelving,277.68,360.59,2020-11-19
+PROD-0889,Table Model 989,Furniture,Tables,373.35,633.23,2020-05-10
+PROD-0890,Chair Model 990,Furniture,Chairs,300.73,495.62,2019-09-03
+PROD-0891,Chair Model 991,Furniture,Chairs,260.88,358.18,2019-06-28
+PROD-0892,Accessorie Model 992,Electronics,Accessories,63.64,116.38,2019-09-09
+PROD-0893,Cookware Model 993,Home & Kitchen,Cookware,243.0,441.87,2021-03-19
+PROD-0894,Paper Model 994,Office Supplies,Paper,28.26,48.99,2019-05-31
+PROD-0895,Paper Model 995,Office Supplies,Paper,29.14,51.86,2021-08-03
+PROD-0896,Laptop Model 996,Electronics,Laptops,1821.85,2730.22,2021-07-18
+PROD-0897,Phone Model 997,Electronics,Phones,570.57,900.88,2019-11-22
+PROD-0898,Decor Model 998,Home & Kitchen,Decor,10.28,14.81,2020-04-09
+PROD-0899,Writing Model 999,Office Supplies,Writing,19.33,35.63,2019-05-25
+PROD-0900,Small Appliance Model 1000,Home & Kitchen,Small Appliances,80.49,102.29,2021-01-02
+PROD-0901,Writing Model 1001,Office Supplies,Writing,19.51,33.33,2021-10-15
+PROD-0902,Fitnes Model 1002,Sports,Fitness,34.93,61.52,2021-07-12
+PROD-0903,Writing Model 1003,Office Supplies,Writing,12.96,20.61,2020-04-23
+PROD-0904,Writing Model 1004,Office Supplies,Writing,6.66,8.82,2020-01-10
+PROD-0905,Cookware Model 1005,Home & Kitchen,Cookware,160.12,206.83,2019-04-25
+PROD-0906,Chair Model 1006,Furniture,Chairs,219.12,314.2,2019-06-03
+PROD-0907,Chair Model 1007,Furniture,Chairs,196.49,255.57,2021-04-15
+PROD-0908,Small Appliance Model 1008,Home & Kitchen,Small Appliances,154.02,246.72,2019-04-11
+PROD-0909,Outdoor Model 1009,Sports,Outdoor,252.45,431.68,2021-02-26
+PROD-0910,Writing Model 1010,Office Supplies,Writing,19.44,32.19,2019-07-06
+PROD-0911,Chair Model 1011,Furniture,Chairs,334.85,441.65,2021-01-30
+PROD-0912,Paper Model 1012,Office Supplies,Paper,29.15,51.66,2020-03-18
+PROD-0913,Printer Model 1013,Office Supplies,Printers,108.76,185.73,2019-10-30
+PROD-0914,Monitor Model 1014,Electronics,Monitors,627.87,938.65,2019-09-15
+PROD-0915,Storage Model 1015,Office Supplies,Storage,51.41,74.66,2021-01-01
+PROD-0916,Monitor Model 1016,Electronics,Monitors,573.01,868.03,2021-05-24
+PROD-0917,Shelving Model 1017,Furniture,Shelving,51.27,71.46,2021-08-27
+PROD-0918,Accessorie Model 1018,Electronics,Accessories,112.76,144.73,2020-11-05
+PROD-0919,Accessorie Model 1019,Electronics,Accessories,73.95,102.42,2020-08-13
+PROD-0920,Table Model 1020,Furniture,Tables,127.35,222.61,2020-02-20
+PROD-0921,Paper Model 1021,Office Supplies,Paper,20.47,27.91,2021-07-02
+PROD-0922,Printer Model 1022,Office Supplies,Printers,441.89,616.57,2019-11-09
+PROD-0923,Shelving Model 1023,Furniture,Shelving,56.47,86.82,2020-12-30
+PROD-0924,Phone Model 1024,Electronics,Phones,1389.56,2324.6,2020-07-16
+PROD-0925,Accessorie Model 1025,Electronics,Accessories,62.99,86.69,2021-04-16
+PROD-0926,Phone Model 1026,Electronics,Phones,545.34,774.88,2021-01-11
+PROD-0927,Team Sport Model 1027,Sports,Team Sports,120.35,192.35,2019-10-12
+PROD-0928,Cleaning Model 1028,Home & Kitchen,Cleaning,45.87,61.38,2019-05-24
+PROD-0929,Printer Model 1029,Office Supplies,Printers,370.83,616.46,2019-05-27
+PROD-0930,Printer Model 1030,Office Supplies,Printers,374.62,636.22,2021-09-05
+PROD-0931,Desk Model 1031,Furniture,Desks,392.21,619.87,2020-02-12
+PROD-0932,Laptop Model 1032,Electronics,Laptops,681.27,1051.07,2021-10-02
+PROD-0933,Team Sport Model 1033,Sports,Team Sports,123.98,164.02,2019-07-04
+PROD-0934,Table Model 1034,Furniture,Tables,458.79,667.78,2021-01-09
+PROD-0935,Cycling Model 1035,Sports,Cycling,655.65,1124.98,2019-04-13
+PROD-0936,Fitnes Model 1036,Sports,Fitness,158.62,203.9,2021-09-23
+PROD-0937,Desk Model 1037,Furniture,Desks,180.61,308.21,2021-07-29
+PROD-0938,Paper Model 1038,Office Supplies,Paper,21.38,36.37,2020-05-08
+PROD-0939,Paper Model 1039,Office Supplies,Paper,11.45,20.57,2021-11-30
+PROD-0940,Decor Model 1040,Home & Kitchen,Decor,99.68,161.18,2021-03-27
+PROD-0941,Cycling Model 1041,Sports,Cycling,433.84,682.51,2020-11-28
+PROD-0942,Accessorie Model 1042,Electronics,Accessories,88.47,134.19,2019-09-20
+PROD-0943,Small Appliance Model 1043,Home & Kitchen,Small Appliances,89.07,139.07,2019-09-26
+PROD-0944,Accessorie Model 1044,Electronics,Accessories,67.74,102.92,2020-07-09
+PROD-0945,Monitor Model 1045,Electronics,Monitors,239.9,363.51,2020-12-14
+PROD-0946,Storage Model 1046,Office Supplies,Storage,14.66,20.1,2021-03-07
+PROD-0947,Chair Model 1047,Furniture,Chairs,313.51,540.2,2020-11-16
+PROD-0948,Phone Model 1048,Electronics,Phones,346.9,539.15,2021-07-21
+PROD-0949,Paper Model 1049,Office Supplies,Paper,20.22,29.77,2021-07-04
+PROD-0950,Chair Model 1050,Furniture,Chairs,259.48,421.59,2021-10-29
+PROD-0951,Cookware Model 1051,Home & Kitchen,Cookware,83.67,152.31,2021-05-09
+PROD-0952,Storage Model 1052,Office Supplies,Storage,18.0,32.85,2021-08-12
+PROD-0953,Paper Model 1053,Office Supplies,Paper,7.9,13.64,2021-05-30
+PROD-0954,Desk Model 1054,Furniture,Desks,330.16,554.72,2019-05-15
+PROD-0955,Writing Model 1055,Office Supplies,Writing,24.14,40.96,2020-01-09
+PROD-0956,Fitnes Model 1056,Sports,Fitness,94.16,142.33,2021-06-11
+PROD-0957,Storage Model 1057,Office Supplies,Storage,14.47,24.78,2020-02-15
+PROD-0958,Small Appliance Model 1058,Home & Kitchen,Small Appliances,300.97,386.83,2020-08-05
+PROD-0959,Chair Model 1059,Furniture,Chairs,133.89,203.47,2021-06-25
+PROD-0960,Shelving Model 1060,Furniture,Shelving,149.48,244.0,2020-08-10
+PROD-0961,Storage Model 1061,Office Supplies,Storage,17.13,22.47,2021-11-09
+PROD-0962,Outdoor Model 1062,Sports,Outdoor,251.22,437.87,2020-07-08
+PROD-0963,Small Appliance Model 1063,Home & Kitchen,Small Appliances,49.6,76.68,2020-10-26
+PROD-0964,Desk Model 1064,Furniture,Desks,555.22,806.14,2019-11-17
+PROD-0965,Printer Model 1065,Office Supplies,Printers,196.75,304.6,2021-07-31
+PROD-0966,Shelving Model 1066,Furniture,Shelving,245.03,400.03,2020-01-11
+PROD-0967,Phone Model 1067,Electronics,Phones,1065.42,1561.03,2019-06-03
+PROD-0968,Table Model 1068,Furniture,Tables,409.43,548.32,2021-03-21
+PROD-0969,Desk Model 1069,Furniture,Desks,435.43,616.88,2019-09-23
+PROD-0970,Outdoor Model 1070,Sports,Outdoor,39.63,64.72,2019-08-04
+PROD-0971,Decor Model 1071,Home & Kitchen,Decor,89.3,139.54,2019-08-18
+PROD-0972,Monitor Model 1072,Electronics,Monitors,352.4,520.28,2021-06-23
+PROD-0973,Laptop Model 1073,Electronics,Laptops,552.57,1021.77,2020-09-11
+PROD-0974,Paper Model 1074,Office Supplies,Paper,18.39,26.69,2019-12-09
+PROD-0975,Storage Model 1075,Office Supplies,Storage,78.64,143.7,2021-07-12
+PROD-0976,Monitor Model 1076,Electronics,Monitors,435.85,627.64,2021-07-16
+PROD-0977,Cycling Model 1077,Sports,Cycling,536.71,883.49,2021-10-24
+PROD-0978,Chair Model 1078,Furniture,Chairs,128.21,235.45,2020-02-02
+PROD-0979,Outdoor Model 1079,Sports,Outdoor,201.81,319.49,2019-06-18
+PROD-0980,Paper Model 1080,Office Supplies,Paper,29.74,37.72,2020-07-12
+PROD-0981,Cookware Model 1081,Home & Kitchen,Cookware,60.64,85.37,2020-08-12
+PROD-0982,Chair Model 1082,Furniture,Chairs,183.97,280.19,2020-09-04
+PROD-0983,Laptop Model 1083,Electronics,Laptops,1934.12,2673.0,2021-10-25
+PROD-0984,Printer Model 1084,Office Supplies,Printers,392.59,716.67,2020-10-07
+PROD-0985,Printer Model 1085,Office Supplies,Printers,355.12,518.22,2021-10-15
+PROD-0986,Laptop Model 1086,Electronics,Laptops,1195.58,2131.71,2020-09-27
+PROD-0987,Printer Model 1087,Office Supplies,Printers,286.0,430.93,2021-03-02
+PROD-0988,Desk Model 1088,Furniture,Desks,160.0,234.64,2021-03-16
+PROD-0989,Phone Model 1089,Electronics,Phones,912.87,1646.09,2020-10-09
+PROD-0990,Paper Model 1090,Office Supplies,Paper,10.57,13.53,2020-08-30
+PROD-0991,Cycling Model 1091,Sports,Cycling,579.69,1071.11,2020-02-11
+PROD-0992,Printer Model 1092,Office Supplies,Printers,194.8,342.69,2020-08-25
+PROD-0993,Cookware Model 1093,Home & Kitchen,Cookware,224.72,314.08,2020-04-17
+PROD-0994,Storage Model 1094,Office Supplies,Storage,37.17,64.56,2020-07-20
+PROD-0995,Chair Model 1095,Furniture,Chairs,370.99,662.47,2019-08-21
+PROD-0996,Chair Model 1096,Furniture,Chairs,156.65,271.24,2021-10-22
+PROD-0997,Writing Model 1097,Office Supplies,Writing,3.99,7.35,2020-06-20
+PROD-0998,Storage Model 1098,Office Supplies,Storage,67.62,96.79,2021-06-29
+PROD-0999,Small Appliance Model 1099,Home & Kitchen,Small Appliances,136.8,207.18,2021-06-23
+PROD-1000,Cleaning Model 1100,Home & Kitchen,Cleaning,8.97,14.27,2021-10-31
+PROD-1001,Team Sport Model 1101,Sports,Team Sports,33.77,48.43,2021-06-14
+PROD-1002,Monitor Model 1102,Electronics,Monitors,425.6,685.48,2021-04-08
+PROD-1003,Table Model 1103,Furniture,Tables,474.24,662.96,2020-05-13
+PROD-1004,Laptop Model 1104,Electronics,Laptops,1048.73,1758.73,2020-06-03
+PROD-1005,Accessorie Model 1105,Electronics,Accessories,89.3,116.82,2019-06-05
+PROD-1006,Accessorie Model 1106,Electronics,Accessories,71.43,102.2,2020-03-29
+PROD-1007,Cookware Model 1107,Home & Kitchen,Cookware,127.83,178.22,2021-04-20
+PROD-1008,Shelving Model 1108,Furniture,Shelving,173.37,253.9,2020-12-24
+PROD-1009,Table Model 1109,Furniture,Tables,273.55,359.28,2019-08-03
+PROD-1010,Printer Model 1110,Office Supplies,Printers,272.78,502.42,2021-11-18
+PROD-1011,Accessorie Model 1111,Electronics,Accessories,53.1,78.12,2021-12-14
+PROD-1012,Small Appliance Model 1112,Home & Kitchen,Small Appliances,348.07,614.41,2020-02-05
+PROD-1013,Decor Model 1113,Home & Kitchen,Decor,115.65,193.09,2021-08-30
+PROD-1014,Decor Model 1114,Home & Kitchen,Decor,37.8,54.99,2020-10-04
+PROD-1015,Team Sport Model 1115,Sports,Team Sports,83.21,151.24,2019-05-25
+PROD-1016,Cookware Model 1116,Home & Kitchen,Cookware,186.86,283.44,2021-10-31
+PROD-1017,Storage Model 1117,Office Supplies,Storage,12.2,19.2,2021-12-24
+PROD-1018,Phone Model 1118,Electronics,Phones,399.56,736.88,2021-10-05
+PROD-1019,Writing Model 1119,Office Supplies,Writing,5.6,10.1,2021-02-25
+PROD-1020,Cleaning Model 1120,Home & Kitchen,Cleaning,32.86,51.67,2020-06-01
+PROD-1021,Monitor Model 1121,Electronics,Monitors,421.61,727.73,2020-07-02
+PROD-1022,Cookware Model 1122,Home & Kitchen,Cookware,95.57,127.11,2020-11-30
+PROD-1023,Fitnes Model 1123,Sports,Fitness,94.53,138.58,2020-07-17
+PROD-1024,Phone Model 1124,Electronics,Phones,749.34,1089.93,2021-10-18
+PROD-1025,Desk Model 1125,Furniture,Desks,386.5,495.26,2019-06-03
+PROD-1026,Monitor Model 1126,Electronics,Monitors,378.27,671.67,2021-12-23
+PROD-1027,Team Sport Model 1127,Sports,Team Sports,140.53,237.83,2021-07-30
+PROD-1028,Fitnes Model 1128,Sports,Fitness,28.97,44.32,2021-12-23
+PROD-1029,Writing Model 1129,Office Supplies,Writing,21.51,36.4,2019-12-15
+PROD-1030,Accessorie Model 1130,Electronics,Accessories,16.7,30.52,2020-06-10
+PROD-1031,Laptop Model 1131,Electronics,Laptops,639.96,910.05,2021-02-19
+PROD-1032,Storage Model 1132,Office Supplies,Storage,20.69,28.61,2019-08-06
+PROD-1033,Fitnes Model 1133,Sports,Fitness,46.62,59.98,2019-10-17
+PROD-1034,Small Appliance Model 1134,Home & Kitchen,Small Appliances,292.89,475.08,2020-05-02
+PROD-1035,Storage Model 1135,Office Supplies,Storage,76.36,99.02,2020-12-07
+PROD-1036,Phone Model 1136,Electronics,Phones,1213.96,1629.03,2021-02-11
+PROD-1037,Phone Model 1137,Electronics,Phones,834.5,1195.62,2019-06-30
+PROD-1038,Storage Model 1138,Office Supplies,Storage,43.22,75.74,2020-12-07
+PROD-1039,Decor Model 1139,Home & Kitchen,Decor,109.02,142.86,2021-02-20
+PROD-1040,Writing Model 1140,Office Supplies,Writing,24.71,42.65,2020-12-13
+PROD-1041,Printer Model 1141,Office Supplies,Printers,459.79,766.34,2021-06-24
+PROD-1042,Paper Model 1142,Office Supplies,Paper,10.2,17.04,2020-11-11
+PROD-1043,Accessorie Model 1143,Electronics,Accessories,25.81,38.18,2020-07-14
+PROD-1044,Cookware Model 1144,Home & Kitchen,Cookware,105.94,170.32,2019-08-02
+PROD-1045,Decor Model 1145,Home & Kitchen,Decor,109.44,160.37,2019-10-13
+PROD-1046,Printer Model 1146,Office Supplies,Printers,451.8,719.38,2019-12-18
+PROD-1047,Monitor Model 1147,Electronics,Monitors,358.69,542.88,2019-06-27
+PROD-1048,Decor Model 1148,Home & Kitchen,Decor,88.87,119.81,2020-04-24
+PROD-1049,Team Sport Model 1149,Sports,Team Sports,30.06,50.06,2020-12-06
+PROD-1050,Monitor Model 1150,Electronics,Monitors,477.16,690.09,2019-10-27
+PROD-1051,Monitor Model 1151,Electronics,Monitors,264.2,372.83,2021-02-02
+PROD-1052,Table Model 1152,Furniture,Tables,216.15,378.19,2019-04-18
+PROD-1053,Printer Model 1153,Office Supplies,Printers,161.62,244.89,2019-11-17
+PROD-1054,Phone Model 1154,Electronics,Phones,1197.1,2002.64,2021-05-31
+PROD-1055,Chair Model 1155,Furniture,Chairs,206.26,376.89,2022-01-01
+PROD-1056,Monitor Model 1156,Electronics,Monitors,695.32,1037.3,2019-07-01
+PROD-1057,Printer Model 1157,Office Supplies,Printers,182.01,289.33,2019-10-20
+PROD-1058,Monitor Model 1158,Electronics,Monitors,654.37,1150.81,2021-03-22
+PROD-1059,Writing Model 1159,Office Supplies,Writing,11.47,17.64,2021-11-03
+PROD-1060,Outdoor Model 1160,Sports,Outdoor,290.97,497.38,2020-04-02
+PROD-1061,Writing Model 1161,Office Supplies,Writing,24.54,39.83,2020-12-31
+PROD-1062,Printer Model 1162,Office Supplies,Printers,143.33,214.87,2020-12-21
+PROD-1063,Paper Model 1163,Office Supplies,Paper,28.35,49.38,2021-09-14
+PROD-1064,Shelving Model 1164,Furniture,Shelving,85.39,119.22,2019-12-24
+PROD-1065,Laptop Model 1165,Electronics,Laptops,1380.16,2106.61,2020-10-19
+PROD-1066,Small Appliance Model 1166,Home & Kitchen,Small Appliances,249.24,420.3,2021-01-21
+PROD-1067,Paper Model 1167,Office Supplies,Paper,21.34,31.43,2020-09-27
+PROD-1068,Cleaning Model 1168,Home & Kitchen,Cleaning,31.98,55.83,2019-12-08
+PROD-1069,Laptop Model 1169,Electronics,Laptops,1804.62,3054.05,2019-04-10
+PROD-1070,Paper Model 1170,Office Supplies,Paper,14.49,24.4,2019-05-12
+PROD-1071,Outdoor Model 1171,Sports,Outdoor,110.54,182.67,2020-09-25
+PROD-1072,Phone Model 1172,Electronics,Phones,307.45,465.67,2019-08-30
+PROD-1073,Desk Model 1173,Furniture,Desks,782.43,1428.49,2020-04-27
+PROD-1074,Printer Model 1174,Office Supplies,Printers,276.89,506.03,2019-07-18
+PROD-1075,Table Model 1175,Furniture,Tables,554.56,978.47,2020-08-08
+PROD-1076,Accessorie Model 1176,Electronics,Accessories,24.65,34.53,2019-09-08
+PROD-1077,Decor Model 1177,Home & Kitchen,Decor,93.26,117.54,2021-03-09
+PROD-1078,Shelving Model 1178,Furniture,Shelving,210.3,295.44,2020-09-08
+PROD-1079,Outdoor Model 1179,Sports,Outdoor,154.36,284.99,2021-01-22
+PROD-1080,Small Appliance Model 1180,Home & Kitchen,Small Appliances,90.19,142.91,2020-11-04
+PROD-1081,Laptop Model 1181,Electronics,Laptops,1273.37,2127.44,2021-02-24
+PROD-1082,Outdoor Model 1182,Sports,Outdoor,335.84,535.57,2021-10-24
+PROD-1083,Paper Model 1183,Office Supplies,Paper,21.4,28.58,2021-12-06
+PROD-1084,Paper Model 1184,Office Supplies,Paper,11.14,15.44,2021-09-26
+PROD-1085,Phone Model 1185,Electronics,Phones,1455.47,2446.62,2021-10-01
+PROD-1086,Phone Model 1186,Electronics,Phones,996.44,1748.76,2019-07-03
+PROD-1087,Storage Model 1187,Office Supplies,Storage,78.48,129.03,2021-07-02
+PROD-1088,Cookware Model 1188,Home & Kitchen,Cookware,56.38,75.36,2020-01-23
+PROD-1089,Paper Model 1189,Office Supplies,Paper,22.51,39.93,2019-10-24
+PROD-1090,Printer Model 1190,Office Supplies,Printers,176.09,308.92,2021-11-14
+PROD-1091,Cycling Model 1191,Sports,Cycling,295.49,425.31,2020-10-07
+PROD-1092,Laptop Model 1192,Electronics,Laptops,1946.2,2772.02,2019-10-28
+PROD-1093,Printer Model 1193,Office Supplies,Printers,322.27,521.45,2020-02-01
+PROD-1094,Writing Model 1194,Office Supplies,Writing,6.16,9.99,2020-05-29
+PROD-1095,Laptop Model 1195,Electronics,Laptops,1217.84,1945.67,2021-02-06
+PROD-1096,Cycling Model 1196,Sports,Cycling,815.41,1440.22,2021-03-12
+PROD-1097,Chair Model 1197,Furniture,Chairs,254.02,461.74,2020-08-08
+PROD-1098,Laptop Model 1198,Electronics,Laptops,1616.81,2814.7,2021-06-10
+PROD-1099,Monitor Model 1199,Electronics,Monitors,187.21,273.54,2019-05-24
+PROD-1100,Cycling Model 1200,Sports,Cycling,1048.3,1476.23,2019-11-06
+PROD-1101,Laptop Model 1201,Electronics,Laptops,696.31,1238.38,2020-12-24
+PROD-1102,Outdoor Model 1202,Sports,Outdoor,51.14,80.72,2019-10-03
+PROD-1103,Phone Model 1203,Electronics,Phones,345.68,538.73,2019-10-24
+PROD-1104,Cycling Model 1204,Sports,Cycling,846.27,1487.16,2020-12-04
+PROD-1105,Table Model 1205,Furniture,Tables,192.84,293.95,2021-08-29
+PROD-1106,Cycling Model 1206,Sports,Cycling,529.39,683.16,2020-08-20
+PROD-1107,Desk Model 1207,Furniture,Desks,407.4,657.25,2020-07-28
+PROD-1108,Cookware Model 1208,Home & Kitchen,Cookware,159.38,269.24,2021-07-23
+PROD-1109,Printer Model 1209,Office Supplies,Printers,255.74,376.91,2020-09-03
+PROD-1110,Monitor Model 1210,Electronics,Monitors,473.64,699.05,2019-05-22
+PROD-1111,Accessorie Model 1211,Electronics,Accessories,44.9,58.85,2021-03-17
+PROD-1112,Storage Model 1212,Office Supplies,Storage,38.17,50.26,2019-07-30
+PROD-1113,Storage Model 1213,Office Supplies,Storage,74.1,119.85,2020-07-12
+PROD-1114,Paper Model 1214,Office Supplies,Paper,16.19,26.75,2019-11-12
+PROD-1115,Team Sport Model 1215,Sports,Team Sports,21.75,32.14,2020-01-26
+PROD-1116,Monitor Model 1216,Electronics,Monitors,199.53,276.18,2020-10-18
+PROD-1117,Monitor Model 1217,Electronics,Monitors,341.41,539.1,2019-12-08
+PROD-1118,Laptop Model 1218,Electronics,Laptops,1295.83,1697.75,2020-03-12
+PROD-1119,Cleaning Model 1219,Home & Kitchen,Cleaning,49.81,73.76,2020-06-13
+PROD-1120,Shelving Model 1220,Furniture,Shelving,146.87,269.44,2020-11-03
+PROD-1121,Laptop Model 1221,Electronics,Laptops,1658.69,2622.46,2021-01-29
+PROD-1122,Laptop Model 1222,Electronics,Laptops,1595.5,2512.81,2020-12-19
+PROD-1123,Phone Model 1223,Electronics,Phones,524.43,797.33,2021-01-01
+PROD-1124,Monitor Model 1224,Electronics,Monitors,198.59,250.11,2019-12-29
+PROD-1125,Cookware Model 1225,Home & Kitchen,Cookware,206.36,337.76,2020-08-21
+PROD-1126,Team Sport Model 1226,Sports,Team Sports,30.83,48.8,2021-10-05
+PROD-1127,Fitnes Model 1227,Sports,Fitness,116.1,175.09,2019-07-30
+PROD-1128,Storage Model 1228,Office Supplies,Storage,14.39,19.84,2019-06-24
+PROD-1129,Decor Model 1229,Home & Kitchen,Decor,78.07,100.55,2019-11-24
+PROD-1130,Cookware Model 1230,Home & Kitchen,Cookware,171.61,264.68,2021-07-16
+PROD-1131,Phone Model 1231,Electronics,Phones,789.99,1376.46,2019-08-27
+PROD-1132,Outdoor Model 1232,Sports,Outdoor,341.35,622.68,2021-11-10
+PROD-1133,Desk Model 1233,Furniture,Desks,241.38,337.85,2019-07-01
+PROD-1134,Storage Model 1234,Office Supplies,Storage,72.49,113.61,2021-10-19
+PROD-1135,Chair Model 1235,Furniture,Chairs,153.25,204.62,2020-02-13
+PROD-1136,Monitor Model 1236,Electronics,Monitors,400.27,523.3,2021-07-14
+PROD-1137,Phone Model 1237,Electronics,Phones,356.8,610.52,2020-01-17
+PROD-1138,Paper Model 1238,Office Supplies,Paper,24.25,41.02,2019-12-02
+PROD-1139,Chair Model 1239,Furniture,Chairs,422.85,720.99,2021-08-03
+PROD-1140,Monitor Model 1240,Electronics,Monitors,564.13,869.79,2020-11-30
+PROD-1141,Monitor Model 1241,Electronics,Monitors,562.5,1028.96,2020-05-25
+PROD-1142,Fitnes Model 1242,Sports,Fitness,52.75,77.25,2021-09-11
+PROD-1143,Writing Model 1243,Office Supplies,Writing,2.04,3.15,2021-01-06
+PROD-1144,Phone Model 1244,Electronics,Phones,553.25,804.26,2020-09-21
+PROD-1145,Laptop Model 1245,Electronics,Laptops,1937.9,3346.96,2019-08-18
+PROD-1146,Printer Model 1246,Office Supplies,Printers,179.36,245.43,2021-09-11
+PROD-1147,Decor Model 1247,Home & Kitchen,Decor,37.66,56.97,2021-05-23
+PROD-1148,Printer Model 1248,Office Supplies,Printers,471.75,870.32,2020-04-15
+PROD-1149,Cookware Model 1249,Home & Kitchen,Cookware,249.39,359.74,2019-05-31
+PROD-1150,Printer Model 1250,Office Supplies,Printers,344.19,445.43,2020-11-17
+PROD-1151,Printer Model 1251,Office Supplies,Printers,147.41,196.14,2021-05-15
+PROD-1152,Phone Model 1252,Electronics,Phones,992.16,1796.83,2021-07-14
+PROD-1153,Decor Model 1253,Home & Kitchen,Decor,110.06,197.34,2019-08-31
+PROD-1154,Cookware Model 1254,Home & Kitchen,Cookware,126.11,173.3,2020-07-17
+PROD-1155,Writing Model 1255,Office Supplies,Writing,16.63,29.77,2021-01-25
+PROD-1156,Cookware Model 1256,Home & Kitchen,Cookware,141.77,209.57,2020-10-30
+PROD-1157,Writing Model 1257,Office Supplies,Writing,12.13,15.51,2020-05-25
+PROD-1158,Paper Model 1258,Office Supplies,Paper,25.2,42.5,2020-06-22
+PROD-1159,Outdoor Model 1259,Sports,Outdoor,165.36,291.78,2020-12-02
+PROD-1160,Laptop Model 1260,Electronics,Laptops,835.4,1165.05,2019-08-14
+PROD-1161,Storage Model 1261,Office Supplies,Storage,11.15,14.53,2020-04-30
+PROD-1162,Accessorie Model 1262,Electronics,Accessories,28.53,38.95,2020-04-30
+PROD-1163,Writing Model 1263,Office Supplies,Writing,19.85,35.14,2020-03-29
+PROD-1164,Shelving Model 1264,Furniture,Shelving,252.7,387.74,2020-09-28
+PROD-1165,Decor Model 1265,Home & Kitchen,Decor,141.35,248.49,2020-11-23
+PROD-1166,Printer Model 1266,Office Supplies,Printers,482.9,788.44,2019-08-16
+PROD-1167,Decor Model 1267,Home & Kitchen,Decor,50.32,70.66,2019-09-04
+PROD-1168,Laptop Model 1268,Electronics,Laptops,768.1,1048.94,2020-10-31
+PROD-1169,Phone Model 1269,Electronics,Phones,805.42,1328.27,2019-12-14
+PROD-1170,Chair Model 1270,Furniture,Chairs,114.04,208.18,2021-10-08
+PROD-1171,Phone Model 1271,Electronics,Phones,542.4,699.78,2020-11-07
+PROD-1172,Chair Model 1272,Furniture,Chairs,142.59,228.65,2020-11-02
+PROD-1173,Cookware Model 1273,Home & Kitchen,Cookware,238.74,305.19,2020-02-24
+PROD-1174,Cookware Model 1274,Home & Kitchen,Cookware,152.6,264.18,2020-03-17
+PROD-1175,Cleaning Model 1275,Home & Kitchen,Cleaning,33.91,59.23,2021-06-02
+PROD-1176,Team Sport Model 1276,Sports,Team Sports,59.18,85.05,2021-05-22
+PROD-1177,Chair Model 1277,Furniture,Chairs,449.47,721.03,2021-08-28
+PROD-1178,Small Appliance Model 1278,Home & Kitchen,Small Appliances,243.04,391.72,2019-09-09
+PROD-1179,Cookware Model 1279,Home & Kitchen,Cookware,123.96,201.13,2021-04-11
+PROD-1180,Chair Model 1280,Furniture,Chairs,264.56,425.73,2020-05-18
+PROD-1181,Fitnes Model 1281,Sports,Fitness,159.86,271.66,2021-01-31
+PROD-1182,Printer Model 1282,Office Supplies,Printers,485.36,719.02,2019-04-22
+PROD-1183,Phone Model 1283,Electronics,Phones,367.45,542.15,2019-06-17
+PROD-1184,Printer Model 1284,Office Supplies,Printers,330.03,541.24,2019-05-04
+PROD-1185,Storage Model 1285,Office Supplies,Storage,77.36,107.12,2019-06-09
+PROD-1186,Decor Model 1286,Home & Kitchen,Decor,114.16,207.09,2020-11-07
+PROD-1187,Table Model 1287,Furniture,Tables,550.83,749.36,2020-02-27
+PROD-1188,Cycling Model 1288,Sports,Cycling,756.61,972.88,2021-09-27
+PROD-1189,Outdoor Model 1289,Sports,Outdoor,255.66,359.45,2020-12-09
+PROD-1190,Writing Model 1290,Office Supplies,Writing,8.49,13.77,2020-07-01
+PROD-1191,Storage Model 1291,Office Supplies,Storage,75.56,122.5,2019-11-15
+PROD-1192,Cycling Model 1292,Sports,Cycling,1167.22,2072.44,2020-04-16
+PROD-1193,Printer Model 1293,Office Supplies,Printers,222.27,408.1,2019-10-17
+PROD-1194,Outdoor Model 1294,Sports,Outdoor,56.57,97.53,2021-02-22
+PROD-1195,Laptop Model 1295,Electronics,Laptops,892.31,1304.13,2020-12-17
+PROD-1196,Team Sport Model 1296,Sports,Team Sports,25.42,40.3,2020-02-09
+PROD-1197,Writing Model 1297,Office Supplies,Writing,3.22,4.86,2021-01-28
+PROD-1198,Desk Model 1298,Furniture,Desks,459.61,645.4,2021-05-05
+PROD-1199,Fitnes Model 1299,Sports,Fitness,60.8,77.98,2021-02-10
+PROD-1200,Desk Model 1300,Furniture,Desks,239.07,395.1,2021-12-02
+PROD-1201,Cleaning Model 1301,Home & Kitchen,Cleaning,37.28,56.07,2019-09-06
+PROD-1202,Monitor Model 1302,Electronics,Monitors,212.62,386.22,2021-09-20
+PROD-1203,Table Model 1303,Furniture,Tables,272.37,394.46,2021-07-21
+PROD-1204,Paper Model 1304,Office Supplies,Paper,28.7,37.43,2020-12-03
+PROD-1205,Writing Model 1305,Office Supplies,Writing,13.13,17.4,2020-10-26
+PROD-1206,Laptop Model 1306,Electronics,Laptops,1123.14,2028.81,2020-11-03
+PROD-1207,Decor Model 1307,Home & Kitchen,Decor,132.47,237.33,2021-04-05
+PROD-1208,Team Sport Model 1308,Sports,Team Sports,110.97,203.35,2019-11-19
+PROD-1209,Desk Model 1309,Furniture,Desks,224.39,312.73,2021-07-25
+PROD-1210,Phone Model 1310,Electronics,Phones,1486.66,2264.72,2019-10-12
+PROD-1211,Chair Model 1311,Furniture,Chairs,381.76,556.39,2019-10-18
+PROD-1212,Fitnes Model 1312,Sports,Fitness,176.47,322.4,2020-02-27
+PROD-1213,Cookware Model 1313,Home & Kitchen,Cookware,68.85,93.53,2021-10-12
+PROD-1214,Printer Model 1314,Office Supplies,Printers,223.39,327.46,2021-11-17
+PROD-1215,Fitnes Model 1315,Sports,Fitness,65.81,95.09,2020-08-18
+PROD-1216,Cycling Model 1316,Sports,Cycling,389.96,714.35,2021-03-10
+PROD-1217,Small Appliance Model 1317,Home & Kitchen,Small Appliances,48.51,69.49,2021-06-21
+PROD-1218,Team Sport Model 1318,Sports,Team Sports,139.96,184.25,2019-06-19
+PROD-1219,Decor Model 1319,Home & Kitchen,Decor,78.38,125.25,2019-08-25
+PROD-1220,Cycling Model 1320,Sports,Cycling,274.21,380.65,2019-07-24
+PROD-1221,Small Appliance Model 1321,Home & Kitchen,Small Appliances,42.83,57.38,2020-11-13
+PROD-1222,Laptop Model 1322,Electronics,Laptops,992.34,1519.81,2021-09-03
+PROD-1223,Laptop Model 1323,Electronics,Laptops,1236.92,2080.01,2021-09-25
+PROD-1224,Phone Model 1324,Electronics,Phones,720.16,1266.01,2019-09-10
+PROD-1225,Monitor Model 1325,Electronics,Monitors,538.72,817.44,2021-03-11
+PROD-1226,Desk Model 1326,Furniture,Desks,595.65,1099.6,2020-06-01
+PROD-1227,Shelving Model 1327,Furniture,Shelving,88.66,112.71,2021-04-22
+PROD-1228,Monitor Model 1328,Electronics,Monitors,485.63,773.73,2019-06-09
+PROD-1229,Phone Model 1329,Electronics,Phones,360.72,611.88,2020-01-19
+PROD-1230,Desk Model 1330,Furniture,Desks,635.3,894.83,2020-11-24
+PROD-1231,Accessorie Model 1331,Electronics,Accessories,43.08,58.01,2019-11-30
+PROD-1232,Cookware Model 1332,Home & Kitchen,Cookware,247.92,404.3,2021-07-28
+PROD-1233,Monitor Model 1333,Electronics,Monitors,662.95,984.62,2020-09-15
+PROD-1234,Fitnes Model 1334,Sports,Fitness,100.26,141.6,2020-05-07
+PROD-1235,Laptop Model 1335,Electronics,Laptops,589.64,869.17,2021-04-27
+PROD-1236,Laptop Model 1336,Electronics,Laptops,1240.25,2223.61,2020-10-30
+PROD-1237,Shelving Model 1337,Furniture,Shelving,290.94,490.98,2021-01-13
+PROD-1238,Decor Model 1338,Home & Kitchen,Decor,14.43,19.84,2021-10-31
+PROD-1239,Outdoor Model 1339,Sports,Outdoor,384.62,708.39,2021-01-22
+PROD-1240,Small Appliance Model 1340,Home & Kitchen,Small Appliances,179.63,291.81,2020-08-19
+PROD-1241,Storage Model 1341,Office Supplies,Storage,69.43,123.03,2020-02-29
+PROD-1242,Accessorie Model 1342,Electronics,Accessories,39.11,61.82,2019-11-17
+PROD-1243,Writing Model 1343,Office Supplies,Writing,21.17,27.78,2019-09-07
+PROD-1244,Monitor Model 1344,Electronics,Monitors,533.42,741.3,2019-07-12
+PROD-1245,Cookware Model 1345,Home & Kitchen,Cookware,65.09,83.89,2021-12-18
+PROD-1246,Shelving Model 1346,Furniture,Shelving,255.4,360.68,2021-02-16
+PROD-1247,Table Model 1347,Furniture,Tables,116.55,168.03,2020-07-30
+PROD-1248,Accessorie Model 1348,Electronics,Accessories,68.09,119.17,2019-06-01
+PROD-1249,Team Sport Model 1349,Sports,Team Sports,125.96,202.04,2019-06-29
+PROD-1250,Printer Model 1350,Office Supplies,Printers,237.42,354.14,2019-05-30
+PROD-1251,Decor Model 1351,Home & Kitchen,Decor,71.4,103.16,2021-06-09
+PROD-1252,Decor Model 1352,Home & Kitchen,Decor,91.56,122.03,2020-05-09
+PROD-1253,Printer Model 1353,Office Supplies,Printers,301.72,462.02,2021-04-20
+PROD-1254,Laptop Model 1354,Electronics,Laptops,1256.51,1686.91,2021-03-12
+PROD-1255,Chair Model 1355,Furniture,Chairs,233.39,318.96,2020-10-04
+PROD-1256,Writing Model 1356,Office Supplies,Writing,12.32,21.41,2020-01-19
+PROD-1257,Fitnes Model 1357,Sports,Fitness,111.68,182.75,2019-04-08
+PROD-1258,Cycling Model 1358,Sports,Cycling,711.81,1176.83,2019-08-30
+PROD-1259,Cleaning Model 1359,Home & Kitchen,Cleaning,28.25,48.19,2019-10-22
+PROD-1260,Laptop Model 1360,Electronics,Laptops,1530.59,1914.11,2019-06-12
+PROD-1261,Cookware Model 1361,Home & Kitchen,Cookware,63.45,79.81,2021-10-04
+PROD-1262,Chair Model 1362,Furniture,Chairs,177.43,313.22,2021-12-24
+PROD-1263,Shelving Model 1363,Furniture,Shelving,267.14,479.14,2021-11-13
+PROD-1264,Printer Model 1364,Office Supplies,Printers,174.6,218.63,2019-10-22
+PROD-1265,Table Model 1365,Furniture,Tables,225.29,411.24,2021-11-27
+PROD-1266,Writing Model 1366,Office Supplies,Writing,11.29,20.55,2020-10-05
+PROD-1267,Chair Model 1367,Furniture,Chairs,371.01,612.25,2021-07-17
+PROD-1268,Chair Model 1368,Furniture,Chairs,329.37,437.61,2020-05-27
+PROD-1269,Desk Model 1369,Furniture,Desks,296.53,467.29,2019-07-28
+PROD-1270,Paper Model 1370,Office Supplies,Paper,9.01,12.35,2020-11-22
+PROD-1271,Laptop Model 1371,Electronics,Laptops,1455.68,2181.99,2020-04-19
+PROD-1272,Writing Model 1372,Office Supplies,Writing,10.82,17.05,2020-07-17
+PROD-1273,Team Sport Model 1373,Sports,Team Sports,25.57,33.86,2020-10-01
+PROD-1274,Table Model 1374,Furniture,Tables,443.49,739.04,2021-12-25
+PROD-1275,Laptop Model 1375,Electronics,Laptops,852.88,1100.37,2021-09-07
+PROD-1276,Storage Model 1376,Office Supplies,Storage,68.61,109.36,2019-08-21
+PROD-1277,Chair Model 1377,Furniture,Chairs,216.75,331.82,2020-05-03
+PROD-1278,Printer Model 1378,Office Supplies,Printers,178.19,278.73,2020-03-07
+PROD-1279,Monitor Model 1379,Electronics,Monitors,324.33,572.43,2020-04-08
+PROD-1280,Desk Model 1380,Furniture,Desks,431.58,546.04,2020-05-11
+PROD-1281,Chair Model 1381,Furniture,Chairs,206.49,355.04,2021-05-24
+PROD-1282,Storage Model 1382,Office Supplies,Storage,55.32,72.36,2019-05-29
+PROD-1283,Phone Model 1383,Electronics,Phones,1008.4,1603.69,2020-05-18
+PROD-1284,Cookware Model 1384,Home & Kitchen,Cookware,175.12,266.58,2019-09-29
+PROD-1285,Cleaning Model 1385,Home & Kitchen,Cleaning,49.4,85.87,2020-03-01
+PROD-1286,Writing Model 1386,Office Supplies,Writing,3.28,5.78,2020-03-19
+PROD-1287,Laptop Model 1387,Electronics,Laptops,854.12,1272.72,2020-02-16
+PROD-1288,Desk Model 1388,Furniture,Desks,693.22,923.6,2020-01-30
+PROD-1289,Fitnes Model 1389,Sports,Fitness,123.12,204.09,2020-12-05
+PROD-1290,Printer Model 1390,Office Supplies,Printers,220.19,370.22,2020-07-02
+PROD-1291,Table Model 1391,Furniture,Tables,411.45,694.65,2020-05-29
+PROD-1292,Table Model 1392,Furniture,Tables,454.45,655.74,2021-07-07
+PROD-1293,Accessorie Model 1393,Electronics,Accessories,29.14,39.74,2020-09-27
+PROD-1294,Writing Model 1394,Office Supplies,Writing,19.74,30.77,2019-11-07
+PROD-1295,Fitnes Model 1395,Sports,Fitness,103.67,157.63,2021-05-01
+PROD-1296,Chair Model 1396,Furniture,Chairs,142.87,208.48,2021-12-16
+PROD-1297,Laptop Model 1397,Electronics,Laptops,553.7,797.28,2019-06-06
+PROD-1298,Monitor Model 1398,Electronics,Monitors,640.59,1073.6,2020-05-14
+PROD-1299,Accessorie Model 1399,Electronics,Accessories,60.98,80.05,2019-05-29
+PROD-1300,Table Model 1400,Furniture,Tables,240.14,372.26,2020-09-07
+PROD-1301,Monitor Model 1401,Electronics,Monitors,400.9,701.21,2019-05-10
+PROD-1302,Decor Model 1402,Home & Kitchen,Decor,31.42,56.21,2019-12-20
+PROD-1303,Storage Model 1403,Office Supplies,Storage,52.99,68.36,2019-06-10
+PROD-1304,Writing Model 1404,Office Supplies,Writing,20.48,36.32,2019-06-03
+PROD-1305,Paper Model 1405,Office Supplies,Paper,14.39,20.2,2020-05-01
+PROD-1306,Chair Model 1406,Furniture,Chairs,80.92,106.29,2020-05-26
+PROD-1307,Team Sport Model 1407,Sports,Team Sports,67.61,115.93,2019-05-25
+PROD-1308,Fitnes Model 1408,Sports,Fitness,97.11,136.02,2019-05-08
+PROD-1309,Accessorie Model 1409,Electronics,Accessories,37.26,52.19,2020-04-25
+PROD-1310,Outdoor Model 1410,Sports,Outdoor,84.37,143.94,2021-03-02
+PROD-1311,Desk Model 1411,Furniture,Desks,375.56,516.09,2021-12-31
+PROD-1312,Decor Model 1412,Home & Kitchen,Decor,63.18,87.97,2020-06-16
+PROD-1313,Chair Model 1413,Furniture,Chairs,179.27,263.04,2021-02-10
+PROD-1314,Shelving Model 1414,Furniture,Shelving,181.77,283.89,2021-07-30
+PROD-1315,Printer Model 1415,Office Supplies,Printers,495.09,698.5,2020-01-12
+PROD-1316,Storage Model 1416,Office Supplies,Storage,34.1,45.74,2020-08-11
+PROD-1317,Shelving Model 1417,Furniture,Shelving,288.06,389.01,2021-05-22
+PROD-1318,Printer Model 1418,Office Supplies,Printers,433.86,771.13,2020-05-23
+PROD-1319,Printer Model 1419,Office Supplies,Printers,466.77,590.09,2019-12-01
+PROD-1320,Cleaning Model 1420,Home & Kitchen,Cleaning,8.86,15.38,2021-05-26
+PROD-1321,Cleaning Model 1421,Home & Kitchen,Cleaning,20.06,34.63,2019-05-23
+PROD-1322,Paper Model 1422,Office Supplies,Paper,13.45,19.4,2020-04-28
+PROD-1323,Phone Model 1423,Electronics,Phones,1150.92,2048.29,2019-07-31
+PROD-1324,Accessorie Model 1424,Electronics,Accessories,71.15,121.67,2021-04-15
+PROD-1325,Outdoor Model 1425,Sports,Outdoor,263.36,407.8,2021-07-02
+PROD-1326,Storage Model 1426,Office Supplies,Storage,68.67,103.02,2020-01-10
+PROD-1327,Chair Model 1427,Furniture,Chairs,283.53,374.89,2019-12-10
+PROD-1328,Small Appliance Model 1428,Home & Kitchen,Small Appliances,237.93,352.11,2020-01-09
+PROD-1329,Laptop Model 1429,Electronics,Laptops,801.82,1248.07,2019-08-13
+PROD-1330,Desk Model 1430,Furniture,Desks,699.49,1027.06,2021-09-01
+PROD-1331,Laptop Model 1431,Electronics,Laptops,1759.73,2619.9,2020-05-03
+PROD-1332,Accessorie Model 1432,Electronics,Accessories,83.06,150.91,2019-11-04
+PROD-1333,Printer Model 1433,Office Supplies,Printers,412.03,585.43,2021-12-25
+PROD-1334,Printer Model 1434,Office Supplies,Printers,273.79,465.43,2019-11-24
+PROD-1335,Accessorie Model 1435,Electronics,Accessories,94.04,124.77,2021-10-31
+PROD-1336,Paper Model 1436,Office Supplies,Paper,20.65,26.23,2019-11-06
+PROD-1337,Desk Model 1437,Furniture,Desks,423.49,686.16,2019-07-11
+PROD-1338,Cycling Model 1438,Sports,Cycling,466.32,723.78,2020-07-09
+PROD-1339,Cookware Model 1439,Home & Kitchen,Cookware,212.57,285.28,2021-07-26
+PROD-1340,Chair Model 1440,Furniture,Chairs,260.33,378.88,2020-10-07
+PROD-1341,Shelving Model 1441,Furniture,Shelving,240.1,330.72,2021-07-27
+PROD-1342,Desk Model 1442,Furniture,Desks,402.13,511.07,2020-05-25
+PROD-1343,Storage Model 1443,Office Supplies,Storage,70.94,100.85,2021-10-17
+PROD-1344,Decor Model 1444,Home & Kitchen,Decor,149.11,220.38,2020-01-25
+PROD-1345,Chair Model 1445,Furniture,Chairs,97.61,149.29,2019-12-26
+PROD-1346,Printer Model 1446,Office Supplies,Printers,322.94,491.48,2019-10-02
+PROD-1347,Accessorie Model 1447,Electronics,Accessories,16.15,27.97,2020-03-11
+PROD-1348,Fitnes Model 1448,Sports,Fitness,30.91,42.11,2021-11-23
+PROD-1349,Phone Model 1449,Electronics,Phones,1239.85,2212.08,2021-02-07
+PROD-1350,Monitor Model 1450,Electronics,Monitors,156.67,275.76,2019-06-04
+PROD-1351,Laptop Model 1451,Electronics,Laptops,1172.54,1946.45,2021-06-05
+PROD-1352,Outdoor Model 1452,Sports,Outdoor,248.82,321.91,2019-12-30
+PROD-1353,Accessorie Model 1453,Electronics,Accessories,17.54,24.5,2021-06-20
+PROD-1354,Team Sport Model 1454,Sports,Team Sports,15.61,24.48,2021-01-25
+PROD-1355,Laptop Model 1455,Electronics,Laptops,1752.82,2711.13,2021-05-20
+PROD-1356,Small Appliance Model 1456,Home & Kitchen,Small Appliances,257.75,422.36,2019-12-09
+PROD-1357,Monitor Model 1457,Electronics,Monitors,247.63,319.22,2019-05-22
+PROD-1358,Desk Model 1458,Furniture,Desks,295.36,504.41,2020-03-08
+PROD-1359,Writing Model 1459,Office Supplies,Writing,18.62,28.72,2019-11-07
+PROD-1360,Accessorie Model 1460,Electronics,Accessories,92.19,152.09,2019-08-14
+PROD-1361,Writing Model 1461,Office Supplies,Writing,13.99,19.06,2021-09-25
+PROD-1362,Phone Model 1462,Electronics,Phones,1042.44,1398.35,2021-06-22
+PROD-1363,Accessorie Model 1463,Electronics,Accessories,45.96,61.02,2021-12-14
+PROD-1364,Chair Model 1464,Furniture,Chairs,266.76,362.42,2019-06-13
+PROD-1365,Cleaning Model 1465,Home & Kitchen,Cleaning,29.75,37.92,2021-07-23
+PROD-1366,Printer Model 1466,Office Supplies,Printers,153.79,262.86,2019-09-04
+PROD-1367,Storage Model 1467,Office Supplies,Storage,76.97,133.75,2020-03-30
+PROD-1368,Writing Model 1468,Office Supplies,Writing,15.51,24.76,2021-08-03
+PROD-1369,Paper Model 1469,Office Supplies,Paper,20.91,36.57,2021-01-22
+PROD-1370,Phone Model 1470,Electronics,Phones,422.98,721.79,2019-09-10
+PROD-1371,Team Sport Model 1471,Sports,Team Sports,48.7,63.88,2019-05-21
+PROD-1372,Desk Model 1472,Furniture,Desks,734.85,1200.85,2021-09-07
+PROD-1373,Small Appliance Model 1473,Home & Kitchen,Small Appliances,85.6,128.24,2021-08-24
+PROD-1374,Paper Model 1474,Office Supplies,Paper,12.81,20.3,2021-08-30
+PROD-1375,Cookware Model 1475,Home & Kitchen,Cookware,190.83,308.77,2019-11-20
+PROD-1376,Shelving Model 1476,Furniture,Shelving,273.68,503.81,2019-09-23
+PROD-1377,Decor Model 1477,Home & Kitchen,Decor,115.78,158.64,2019-10-24
+PROD-1378,Laptop Model 1478,Electronics,Laptops,1734.02,2938.44,2020-12-31
+PROD-1379,Accessorie Model 1479,Electronics,Accessories,88.23,142.51,2020-11-02
+PROD-1380,Desk Model 1480,Furniture,Desks,237.74,408.0,2021-02-12
+PROD-1381,Printer Model 1481,Office Supplies,Printers,166.91,255.53,2020-07-12
+PROD-1382,Decor Model 1482,Home & Kitchen,Decor,93.5,162.08,2021-03-21
+PROD-1383,Phone Model 1483,Electronics,Phones,703.56,919.86,2020-03-22
+PROD-1384,Printer Model 1484,Office Supplies,Printers,308.96,472.44,2021-05-24
+PROD-1385,Writing Model 1485,Office Supplies,Writing,4.01,6.91,2020-06-22
+PROD-1386,Outdoor Model 1486,Sports,Outdoor,389.26,668.43,2021-01-15
+PROD-1387,Monitor Model 1487,Electronics,Monitors,681.96,935.91,2020-01-02
+PROD-1388,Cleaning Model 1488,Home & Kitchen,Cleaning,31.74,45.31,2021-08-17
+PROD-1389,Cycling Model 1489,Sports,Cycling,297.78,514.24,2019-05-16
+PROD-1390,Decor Model 1490,Home & Kitchen,Decor,14.65,20.35,2020-10-13
+PROD-1391,Shelving Model 1491,Furniture,Shelving,131.72,238.05,2020-09-02
+PROD-1392,Chair Model 1492,Furniture,Chairs,205.98,327.3,2021-02-27
+PROD-1393,Accessorie Model 1493,Electronics,Accessories,24.82,45.03,2021-01-01
+PROD-1394,Writing Model 1494,Office Supplies,Writing,13.04,22.62,2019-12-16
+PROD-1395,Table Model 1495,Furniture,Tables,267.95,451.55,2021-09-11
+PROD-1396,Printer Model 1496,Office Supplies,Printers,380.95,590.9,2021-05-27
+PROD-1397,Laptop Model 1497,Electronics,Laptops,1889.3,3043.33,2019-12-11
+PROD-1398,Laptop Model 1498,Electronics,Laptops,1378.91,1829.44,2020-05-29
+PROD-1399,Storage Model 1499,Office Supplies,Storage,73.86,96.24,2021-02-01
+PROD-1400,Chair Model 1500,Furniture,Chairs,382.67,533.6,2019-04-10
+PROD-1401,Phone Model 1501,Electronics,Phones,1295.45,1886.42,2021-08-23
+PROD-1402,Storage Model 1502,Office Supplies,Storage,39.64,52.91,2021-08-05
+PROD-1403,Paper Model 1503,Office Supplies,Paper,24.64,31.49,2021-04-25
+PROD-1404,Desk Model 1504,Furniture,Desks,748.09,1125.19,2021-06-12
+PROD-1405,Storage Model 1505,Office Supplies,Storage,17.17,26.93,2021-06-14
+PROD-1406,Chair Model 1506,Furniture,Chairs,346.3,497.16,2021-08-09
+PROD-1407,Phone Model 1507,Electronics,Phones,555.78,909.66,2021-06-12
+PROD-1408,Paper Model 1508,Office Supplies,Paper,13.39,18.82,2019-10-22
+PROD-1409,Paper Model 1509,Office Supplies,Paper,19.04,29.26,2019-10-26
+PROD-1410,Printer Model 1510,Office Supplies,Printers,300.34,391.93,2020-05-08
+PROD-1411,Monitor Model 1511,Electronics,Monitors,622.07,972.58,2021-02-27
+PROD-1412,Team Sport Model 1512,Sports,Team Sports,119.1,198.37,2021-09-23
+PROD-1413,Chair Model 1513,Furniture,Chairs,224.54,343.06,2020-09-25
+PROD-1414,Monitor Model 1514,Electronics,Monitors,252.99,351.65,2020-08-05
+PROD-1415,Laptop Model 1515,Electronics,Laptops,1819.25,2902.36,2021-01-11
+PROD-1416,Table Model 1516,Furniture,Tables,172.49,234.97,2021-06-18
+PROD-1417,Printer Model 1517,Office Supplies,Printers,358.5,656.99,2021-11-20
+PROD-1418,Chair Model 1518,Furniture,Chairs,378.73,537.16,2021-04-30
+PROD-1419,Small Appliance Model 1519,Home & Kitchen,Small Appliances,267.15,400.2,2019-04-24
+PROD-1420,Laptop Model 1520,Electronics,Laptops,1160.05,1642.61,2019-10-23
+PROD-1421,Desk Model 1521,Furniture,Desks,589.52,1070.96,2021-10-19
+PROD-1422,Printer Model 1522,Office Supplies,Printers,224.68,349.24,2019-09-10
+PROD-1423,Monitor Model 1523,Electronics,Monitors,437.03,780.97,2021-06-11
+PROD-1424,Printer Model 1524,Office Supplies,Printers,320.27,492.55,2019-12-03
+PROD-1425,Accessorie Model 1525,Electronics,Accessories,53.18,96.99,2021-03-27
+PROD-1426,Cycling Model 1526,Sports,Cycling,168.49,295.25,2019-04-14
+PROD-1427,Phone Model 1527,Electronics,Phones,553.11,866.12,2019-11-19
+PROD-1428,Cookware Model 1528,Home & Kitchen,Cookware,42.89,64.88,2020-05-09
+PROD-1429,Paper Model 1529,Office Supplies,Paper,26.4,34.41,2019-09-10
+PROD-1430,Writing Model 1530,Office Supplies,Writing,23.5,40.45,2019-09-24
+PROD-1431,Table Model 1531,Furniture,Tables,528.86,824.46,2020-09-14
+PROD-1432,Cycling Model 1532,Sports,Cycling,345.46,508.06,2021-07-25
+PROD-1433,Chair Model 1533,Furniture,Chairs,256.4,335.86,2020-07-17
+PROD-1434,Cleaning Model 1534,Home & Kitchen,Cleaning,17.17,23.23,2019-10-22
+PROD-1435,Cookware Model 1535,Home & Kitchen,Cookware,138.59,197.85,2021-06-02
+PROD-1436,Table Model 1536,Furniture,Tables,568.79,943.54,2019-04-29
+PROD-1437,Desk Model 1537,Furniture,Desks,411.93,703.87,2020-04-13
+PROD-1438,Fitnes Model 1538,Sports,Fitness,168.72,227.29,2020-04-07
+PROD-1439,Phone Model 1539,Electronics,Phones,1284.53,2127.29,2020-09-28
+PROD-1440,Chair Model 1540,Furniture,Chairs,187.48,309.75,2019-07-20
+PROD-1441,Desk Model 1541,Furniture,Desks,659.46,1205.51,2020-09-27
+PROD-1442,Writing Model 1542,Office Supplies,Writing,7.76,13.27,2020-06-09
+PROD-1443,Small Appliance Model 1543,Home & Kitchen,Small Appliances,335.17,563.53,2019-09-23
+PROD-1444,Storage Model 1544,Office Supplies,Storage,19.32,25.68,2019-12-14
+PROD-1445,Cookware Model 1545,Home & Kitchen,Cookware,171.18,224.27,2020-02-14
+PROD-1446,Fitnes Model 1546,Sports,Fitness,126.46,188.95,2019-06-02
+PROD-1447,Desk Model 1547,Furniture,Desks,759.27,1340.1,2020-10-16
+PROD-1448,Cleaning Model 1548,Home & Kitchen,Cleaning,14.99,19.59,2019-11-27
+PROD-1449,Storage Model 1549,Office Supplies,Storage,23.81,39.06,2019-11-19
+PROD-1450,Phone Model 1550,Electronics,Phones,711.29,946.12,2019-06-10
+PROD-1451,Shelving Model 1551,Furniture,Shelving,258.67,381.65,2021-05-27
+PROD-1452,Printer Model 1552,Office Supplies,Printers,432.41,711.83,2020-08-13
+PROD-1453,Printer Model 1553,Office Supplies,Printers,233.5,406.98,2021-03-01
+PROD-1454,Monitor Model 1554,Electronics,Monitors,172.91,222.4,2021-06-05
+PROD-1455,Outdoor Model 1555,Sports,Outdoor,280.44,373.16,2021-10-24
+PROD-1456,Phone Model 1556,Electronics,Phones,1441.29,1914.61,2021-07-11
+PROD-1457,Paper Model 1557,Office Supplies,Paper,14.06,21.7,2021-01-17
+PROD-1458,Storage Model 1558,Office Supplies,Storage,77.61,117.44,2019-12-30
+PROD-1459,Cleaning Model 1559,Home & Kitchen,Cleaning,30.17,46.5,2020-08-11
+PROD-1460,Desk Model 1560,Furniture,Desks,778.84,1202.03,2020-11-01
+PROD-1461,Phone Model 1561,Electronics,Phones,637.68,1069.39,2021-03-17
+PROD-1462,Accessorie Model 1562,Electronics,Accessories,44.34,63.21,2020-10-12
+PROD-1463,Shelving Model 1563,Furniture,Shelving,218.19,311.61,2021-11-28
+PROD-1464,Accessorie Model 1564,Electronics,Accessories,40.48,64.78,2021-10-19
+PROD-1465,Table Model 1565,Furniture,Tables,418.06,531.88,2020-12-11
+PROD-1466,Laptop Model 1566,Electronics,Laptops,1470.89,2674.3,2021-07-11
+PROD-1467,Monitor Model 1567,Electronics,Monitors,279.09,515.59,2019-05-23
+PROD-1468,Accessorie Model 1568,Electronics,Accessories,83.39,138.09,2020-01-06
+PROD-1469,Decor Model 1569,Home & Kitchen,Decor,60.81,82.2,2020-01-10
+PROD-1470,Paper Model 1570,Office Supplies,Paper,16.99,24.33,2021-11-25
+PROD-1471,Laptop Model 1571,Electronics,Laptops,1355.68,2171.53,2021-05-09
+PROD-1472,Phone Model 1572,Electronics,Phones,1181.09,1546.59,2021-10-12
+PROD-1473,Paper Model 1573,Office Supplies,Paper,14.84,24.77,2019-05-02
+PROD-1474,Chair Model 1574,Furniture,Chairs,249.04,403.01,2020-03-07
+PROD-1475,Shelving Model 1575,Furniture,Shelving,166.85,262.61,2021-10-05
+PROD-1476,Laptop Model 1576,Electronics,Laptops,530.6,953.42,2021-12-09
+PROD-1477,Printer Model 1577,Office Supplies,Printers,103.67,151.56,2019-06-10
+PROD-1478,Paper Model 1578,Office Supplies,Paper,9.75,18.02,2021-06-17
+PROD-1479,Writing Model 1579,Office Supplies,Writing,21.52,35.81,2019-09-04
+PROD-1480,Outdoor Model 1580,Sports,Outdoor,228.66,370.89,2020-09-30
+PROD-1481,Storage Model 1581,Office Supplies,Storage,54.55,96.09,2021-06-05
+PROD-1482,Desk Model 1582,Furniture,Desks,213.38,362.06,2021-09-11
+PROD-1483,Cycling Model 1583,Sports,Cycling,433.57,705.98,2021-02-27
+PROD-1484,Phone Model 1584,Electronics,Phones,1434.02,2172.86,2021-10-23
+PROD-1485,Decor Model 1585,Home & Kitchen,Decor,109.96,200.73,2020-01-28
+PROD-1486,Chair Model 1586,Furniture,Chairs,440.15,587.07,2021-08-16
+PROD-1487,Outdoor Model 1587,Sports,Outdoor,86.37,125.64,2019-12-08
+PROD-1488,Writing Model 1588,Office Supplies,Writing,20.13,30.68,2021-01-13
+PROD-1489,Outdoor Model 1589,Sports,Outdoor,82.74,137.58,2021-07-22
+PROD-1490,Storage Model 1590,Office Supplies,Storage,65.86,111.59,2021-02-07
+PROD-1491,Accessorie Model 1591,Electronics,Accessories,38.47,66.83,2019-07-15
+PROD-1492,Cleaning Model 1592,Home & Kitchen,Cleaning,26.15,45.0,2019-07-14
+PROD-1493,Phone Model 1593,Electronics,Phones,1325.22,2098.9,2021-10-01
+PROD-1494,Cycling Model 1594,Sports,Cycling,1184.74,1543.73,2019-10-17
+PROD-1495,Accessorie Model 1595,Electronics,Accessories,46.13,58.05,2019-11-14
+PROD-1496,Decor Model 1596,Home & Kitchen,Decor,86.77,149.0,2019-06-21
+PROD-1497,Monitor Model 1597,Electronics,Monitors,414.38,672.56,2020-05-24
+PROD-1498,Chair Model 1598,Furniture,Chairs,310.28,470.02,2021-01-29
+PROD-1499,Accessorie Model 1599,Electronics,Accessories,38.5,70.69,2020-10-10
+PROD-1500,Chair Model 1600,Furniture,Chairs,121.27,175.83,2020-11-29
+PROD-1501,Shelving Model 1601,Furniture,Shelving,155.81,269.86,2021-06-19
+PROD-1502,Accessorie Model 1602,Electronics,Accessories,108.26,163.82,2019-04-15
+PROD-1503,Accessorie Model 1603,Electronics,Accessories,89.82,138.8,2021-08-26
+PROD-1504,Decor Model 1604,Home & Kitchen,Decor,69.02,91.75,2020-10-22
+PROD-1505,Table Model 1605,Furniture,Tables,173.37,275.26,2020-08-14
+PROD-1506,Printer Model 1606,Office Supplies,Printers,438.62,555.67,2020-06-14
+PROD-1507,Phone Model 1607,Electronics,Phones,340.39,581.89,2020-04-15
+PROD-1508,Table Model 1608,Furniture,Tables,241.74,382.04,2019-12-16
+PROD-1509,Shelving Model 1609,Furniture,Shelving,251.12,436.13,2019-06-29
+PROD-1510,Printer Model 1610,Office Supplies,Printers,249.24,440.88,2020-04-18
+PROD-1511,Team Sport Model 1611,Sports,Team Sports,24.1,31.17,2019-08-29
+PROD-1512,Printer Model 1612,Office Supplies,Printers,120.56,201.71,2020-01-08
+PROD-1513,Table Model 1613,Furniture,Tables,194.24,358.21,2021-02-24
+PROD-1514,Team Sport Model 1614,Sports,Team Sports,66.18,108.18,2020-08-02
+PROD-1515,Cycling Model 1615,Sports,Cycling,384.06,621.08,2021-12-30
+PROD-1516,Cycling Model 1616,Sports,Cycling,612.46,849.85,2020-02-16
+PROD-1517,Table Model 1617,Furniture,Tables,111.89,203.48,2019-06-05
+PROD-1518,Phone Model 1618,Electronics,Phones,556.87,818.66,2019-07-15
+PROD-1519,Team Sport Model 1619,Sports,Team Sports,63.85,100.06,2021-12-24
+PROD-1520,Cycling Model 1620,Sports,Cycling,865.92,1524.09,2021-11-15
+PROD-1521,Monitor Model 1621,Electronics,Monitors,646.51,965.16,2020-12-02
+PROD-1522,Cycling Model 1622,Sports,Cycling,877.74,1242.49,2021-02-12
+PROD-1523,Outdoor Model 1623,Sports,Outdoor,155.84,227.19,2020-08-07
+PROD-1524,Paper Model 1624,Office Supplies,Paper,23.32,36.25,2019-10-16
+PROD-1525,Small Appliance Model 1625,Home & Kitchen,Small Appliances,237.91,433.77,2020-07-12
+PROD-1526,Team Sport Model 1626,Sports,Team Sports,36.0,46.05,2021-07-18
+PROD-1527,Printer Model 1627,Office Supplies,Printers,315.86,535.94,2019-06-07
+PROD-1528,Paper Model 1628,Office Supplies,Paper,17.38,26.57,2021-09-12
+PROD-1529,Phone Model 1629,Electronics,Phones,598.22,748.05,2021-12-12
+PROD-1530,Paper Model 1630,Office Supplies,Paper,16.21,26.37,2021-07-18
+PROD-1531,Fitnes Model 1631,Sports,Fitness,29.56,53.64,2020-07-07
+PROD-1532,Monitor Model 1632,Electronics,Monitors,426.2,757.53,2021-04-28
+PROD-1533,Fitnes Model 1633,Sports,Fitness,41.49,65.04,2020-05-23
+PROD-1534,Desk Model 1634,Furniture,Desks,572.36,715.78,2019-10-06
+PROD-1535,Cleaning Model 1635,Home & Kitchen,Cleaning,32.89,57.17,2019-11-25
+PROD-1536,Printer Model 1636,Office Supplies,Printers,243.17,374.26,2019-07-27
+PROD-1537,Accessorie Model 1637,Electronics,Accessories,118.17,203.17,2019-10-03
+PROD-1538,Storage Model 1638,Office Supplies,Storage,31.46,51.04,2019-11-24
+PROD-1539,Printer Model 1639,Office Supplies,Printers,322.82,551.36,2019-06-27
+PROD-1540,Table Model 1640,Furniture,Tables,517.25,928.08,2021-10-17
+PROD-1541,Accessorie Model 1641,Electronics,Accessories,66.37,111.02,2021-07-10
+PROD-1542,Fitnes Model 1642,Sports,Fitness,144.66,244.99,2019-09-22
+PROD-1543,Storage Model 1643,Office Supplies,Storage,65.44,115.62,2020-04-29
+PROD-1544,Desk Model 1644,Furniture,Desks,711.74,1179.1,2021-04-17
+PROD-1545,Shelving Model 1645,Furniture,Shelving,95.83,132.47,2021-09-01
+PROD-1546,Paper Model 1646,Office Supplies,Paper,9.63,13.31,2021-12-24
+PROD-1547,Team Sport Model 1647,Sports,Team Sports,65.07,111.01,2021-09-22
+PROD-1548,Writing Model 1648,Office Supplies,Writing,22.95,32.19,2021-01-13
+PROD-1549,Cookware Model 1649,Home & Kitchen,Cookware,157.76,267.24,2021-07-08
+PROD-1550,Monitor Model 1650,Electronics,Monitors,385.88,499.56,2019-04-27
+PROD-1551,Accessorie Model 1651,Electronics,Accessories,17.55,24.77,2020-02-28
+PROD-1552,Accessorie Model 1652,Electronics,Accessories,32.97,50.97,2021-02-05
+PROD-1553,Storage Model 1653,Office Supplies,Storage,54.02,77.81,2021-03-06
+PROD-1554,Cleaning Model 1654,Home & Kitchen,Cleaning,32.96,54.52,2019-05-09
+PROD-1555,Monitor Model 1655,Electronics,Monitors,397.35,726.52,2019-05-14
+PROD-1556,Printer Model 1656,Office Supplies,Printers,109.9,167.04,2021-09-20
+PROD-1557,Monitor Model 1657,Electronics,Monitors,500.35,725.19,2019-08-08
+PROD-1558,Laptop Model 1658,Electronics,Laptops,1970.83,3360.15,2019-07-18
+PROD-1559,Accessorie Model 1659,Electronics,Accessories,93.01,154.96,2020-07-09
+PROD-1560,Chair Model 1660,Furniture,Chairs,88.97,131.34,2021-10-14
+PROD-1561,Monitor Model 1661,Electronics,Monitors,503.55,800.61,2020-01-29
+PROD-1562,Storage Model 1662,Office Supplies,Storage,68.3,124.57,2019-09-27
+PROD-1563,Printer Model 1663,Office Supplies,Printers,317.06,410.57,2021-03-31
+PROD-1564,Laptop Model 1664,Electronics,Laptops,1228.05,2149.01,2019-05-26
+PROD-1565,Writing Model 1665,Office Supplies,Writing,24.46,43.1,2021-10-27
+PROD-1566,Monitor Model 1666,Electronics,Monitors,684.17,1071.4,2020-02-22
+PROD-1567,Small Appliance Model 1667,Home & Kitchen,Small Appliances,40.73,61.47,2020-09-17
+PROD-1568,Printer Model 1668,Office Supplies,Printers,255.15,324.75,2020-02-02
+PROD-1569,Desk Model 1669,Furniture,Desks,509.69,770.47,2019-10-13
+PROD-1570,Phone Model 1670,Electronics,Phones,1192.47,1765.04,2021-08-05
+PROD-1571,Phone Model 1671,Electronics,Phones,1144.08,2108.01,2020-01-03
+PROD-1572,Writing Model 1672,Office Supplies,Writing,7.33,13.43,2019-11-29
+PROD-1573,Shelving Model 1673,Furniture,Shelving,198.59,258.7,2020-09-19
+PROD-1574,Printer Model 1674,Office Supplies,Printers,467.99,851.44,2021-04-07
+PROD-1575,Small Appliance Model 1675,Home & Kitchen,Small Appliances,228.83,318.48,2020-04-05
+PROD-1576,Desk Model 1676,Furniture,Desks,139.37,192.12,2020-12-12
+PROD-1577,Cleaning Model 1677,Home & Kitchen,Cleaning,26.28,47.0,2020-04-03
+PROD-1578,Cycling Model 1678,Sports,Cycling,970.36,1441.12,2020-05-31
+PROD-1579,Storage Model 1679,Office Supplies,Storage,44.37,57.27,2020-04-19
+PROD-1580,Monitor Model 1680,Electronics,Monitors,599.52,931.26,2020-02-19
+PROD-1581,Phone Model 1681,Electronics,Phones,933.17,1630.97,2020-11-05
+PROD-1582,Monitor Model 1682,Electronics,Monitors,332.73,570.95,2019-09-18
+PROD-1583,Monitor Model 1683,Electronics,Monitors,699.85,1132.61,2021-01-17
+PROD-1584,Storage Model 1684,Office Supplies,Storage,30.61,45.25,2021-04-03
+PROD-1585,Shelving Model 1685,Furniture,Shelving,225.77,302.44,2021-05-30
+PROD-1586,Cookware Model 1686,Home & Kitchen,Cookware,104.23,143.76,2021-10-21
+PROD-1587,Laptop Model 1687,Electronics,Laptops,1468.78,2652.81,2020-09-10
+PROD-1588,Desk Model 1688,Furniture,Desks,657.77,1022.56,2019-11-24
+PROD-1589,Fitnes Model 1689,Sports,Fitness,54.47,96.26,2020-04-20
+PROD-1590,Cleaning Model 1690,Home & Kitchen,Cleaning,18.59,29.36,2019-12-25
+PROD-1591,Laptop Model 1691,Electronics,Laptops,1414.12,1775.44,2019-05-06
+PROD-1592,Table Model 1692,Furniture,Tables,239.72,424.99,2019-10-25
+PROD-1593,Storage Model 1693,Office Supplies,Storage,33.31,50.52,2020-05-08
+PROD-1594,Writing Model 1694,Office Supplies,Writing,11.07,13.85,2020-06-11
+PROD-1595,Chair Model 1695,Furniture,Chairs,281.5,507.79,2019-06-19
+PROD-1596,Phone Model 1696,Electronics,Phones,832.95,1421.98,2019-09-22
+PROD-1597,Storage Model 1697,Office Supplies,Storage,59.75,99.98,2020-08-17
+PROD-1598,Storage Model 1698,Office Supplies,Storage,18.69,28.64,2020-05-25
+PROD-1599,Printer Model 1699,Office Supplies,Printers,467.92,783.18,2021-06-28
+PROD-1600,Phone Model 1700,Electronics,Phones,806.34,1316.42,2021-03-07
+PROD-1601,Printer Model 1701,Office Supplies,Printers,430.67,780.76,2020-03-17
+PROD-1602,Decor Model 1702,Home & Kitchen,Decor,61.03,109.11,2021-01-23
+PROD-1603,Cleaning Model 1703,Home & Kitchen,Cleaning,49.08,78.96,2020-03-01
+PROD-1604,Printer Model 1704,Office Supplies,Printers,187.27,344.82,2020-01-28
+PROD-1605,Phone Model 1705,Electronics,Phones,1196.98,1526.46,2021-02-23
+PROD-1606,Table Model 1706,Furniture,Tables,145.26,220.62,2020-02-27
+PROD-1607,Table Model 1707,Furniture,Tables,209.78,362.41,2020-11-27
+PROD-1608,Outdoor Model 1708,Sports,Outdoor,35.48,47.38,2020-11-22
+PROD-1609,Decor Model 1709,Home & Kitchen,Decor,27.59,41.04,2021-09-19
+PROD-1610,Cleaning Model 1710,Home & Kitchen,Cleaning,20.49,37.84,2021-02-15
+PROD-1611,Fitnes Model 1711,Sports,Fitness,164.08,272.09,2021-03-04
+PROD-1612,Monitor Model 1712,Electronics,Monitors,351.14,533.68,2019-07-24
+PROD-1613,Desk Model 1713,Furniture,Desks,719.5,1221.16,2020-02-23
+PROD-1614,Fitnes Model 1714,Sports,Fitness,95.91,121.39,2019-05-15
+PROD-1615,Desk Model 1715,Furniture,Desks,539.64,734.84,2020-12-10
+PROD-1616,Team Sport Model 1716,Sports,Team Sports,97.69,155.84,2019-11-06
+PROD-1617,Team Sport Model 1717,Sports,Team Sports,31.13,45.01,2019-10-29
+PROD-1618,Accessorie Model 1718,Electronics,Accessories,87.49,114.46,2020-12-13
+PROD-1619,Team Sport Model 1719,Sports,Team Sports,64.8,86.85,2021-02-09
+PROD-1620,Laptop Model 1720,Electronics,Laptops,1661.76,2932.31,2021-06-26
+PROD-1621,Storage Model 1721,Office Supplies,Storage,27.42,46.01,2019-10-19
+PROD-1622,Cleaning Model 1722,Home & Kitchen,Cleaning,14.15,21.49,2021-09-30
+PROD-1623,Phone Model 1723,Electronics,Phones,420.43,734.4,2019-10-06
+PROD-1624,Printer Model 1724,Office Supplies,Printers,380.44,633.07,2021-03-02
+PROD-1625,Monitor Model 1725,Electronics,Monitors,502.86,691.26,2020-10-04
+PROD-1626,Decor Model 1726,Home & Kitchen,Decor,17.96,28.59,2020-07-19
+PROD-1627,Outdoor Model 1727,Sports,Outdoor,250.27,403.85,2019-08-31
+PROD-1628,Cleaning Model 1728,Home & Kitchen,Cleaning,40.99,52.36,2021-04-05
+PROD-1629,Desk Model 1729,Furniture,Desks,743.37,1273.21,2019-11-05
+PROD-1630,Cookware Model 1730,Home & Kitchen,Cookware,63.64,113.68,2021-02-27
+PROD-1631,Fitnes Model 1731,Sports,Fitness,73.6,131.58,2021-06-30
+PROD-1632,Printer Model 1732,Office Supplies,Printers,169.13,300.53,2021-06-23
+PROD-1633,Team Sport Model 1733,Sports,Team Sports,20.95,30.24,2021-09-10
+PROD-1634,Fitnes Model 1734,Sports,Fitness,47.66,84.21,2020-10-13
+PROD-1635,Laptop Model 1735,Electronics,Laptops,1335.02,1765.29,2021-08-10
+PROD-1636,Cycling Model 1736,Sports,Cycling,1047.79,1571.03,2020-07-03
+PROD-1637,Monitor Model 1737,Electronics,Monitors,661.9,833.6,2020-06-20
+PROD-1638,Storage Model 1738,Office Supplies,Storage,59.48,106.95,2020-06-03
+PROD-1639,Desk Model 1739,Furniture,Desks,570.88,1012.91,2019-08-31
+PROD-1640,Laptop Model 1740,Electronics,Laptops,940.53,1429.62,2019-11-21
+PROD-1641,Team Sport Model 1741,Sports,Team Sports,65.94,97.86,2021-06-29
+PROD-1642,Small Appliance Model 1742,Home & Kitchen,Small Appliances,289.29,382.52,2019-05-06
+PROD-1643,Printer Model 1743,Office Supplies,Printers,403.01,569.61,2020-12-27
+PROD-1644,Decor Model 1744,Home & Kitchen,Decor,28.89,37.24,2020-02-21
+PROD-1645,Decor Model 1745,Home & Kitchen,Decor,36.88,63.85,2019-09-29
+PROD-1646,Storage Model 1746,Office Supplies,Storage,16.92,22.33,2020-02-03
+PROD-1647,Monitor Model 1747,Electronics,Monitors,185.23,274.67,2019-06-17
+PROD-1648,Chair Model 1748,Furniture,Chairs,371.22,639.01,2021-01-30
+PROD-1649,Small Appliance Model 1749,Home & Kitchen,Small Appliances,143.02,214.33,2019-11-30
+PROD-1650,Outdoor Model 1750,Sports,Outdoor,136.33,216.46,2020-07-18
+PROD-1651,Monitor Model 1751,Electronics,Monitors,684.2,1249.92,2021-02-12
+PROD-1652,Storage Model 1752,Office Supplies,Storage,53.6,81.5,2021-09-07
+PROD-1653,Shelving Model 1753,Furniture,Shelving,52.97,79.72,2021-02-21
+PROD-1654,Storage Model 1754,Office Supplies,Storage,21.9,31.48,2020-08-29
+PROD-1655,Monitor Model 1755,Electronics,Monitors,188.05,306.74,2020-03-07
+PROD-1656,Chair Model 1756,Furniture,Chairs,320.94,449.26,2020-06-09
+PROD-1657,Team Sport Model 1757,Sports,Team Sports,106.88,149.77,2020-08-27
+PROD-1658,Outdoor Model 1758,Sports,Outdoor,374.49,483.59,2019-08-29
+PROD-1659,Team Sport Model 1759,Sports,Team Sports,139.19,217.71,2021-06-27
+PROD-1660,Storage Model 1760,Office Supplies,Storage,73.02,110.07,2020-07-13
+PROD-1661,Phone Model 1761,Electronics,Phones,1137.38,2025.05,2020-08-22
+PROD-1662,Decor Model 1762,Home & Kitchen,Decor,118.77,188.9,2021-11-22
+PROD-1663,Shelving Model 1763,Furniture,Shelving,164.35,229.18,2019-04-24
+PROD-1664,Decor Model 1764,Home & Kitchen,Decor,78.9,114.76,2019-09-28
+PROD-1665,Paper Model 1765,Office Supplies,Paper,21.37,30.66,2020-11-17
+PROD-1666,Phone Model 1766,Electronics,Phones,341.32,605.88,2020-09-28
+PROD-1667,Small Appliance Model 1767,Home & Kitchen,Small Appliances,317.37,519.26,2020-06-21
+PROD-1668,Writing Model 1768,Office Supplies,Writing,22.33,32.24,2020-10-24
+PROD-1669,Shelving Model 1769,Furniture,Shelving,166.31,219.69,2019-09-02
+PROD-1670,Cycling Model 1770,Sports,Cycling,400.46,642.87,2020-02-05
+PROD-1671,Printer Model 1771,Office Supplies,Printers,431.65,708.05,2020-07-02
+PROD-1672,Small Appliance Model 1772,Home & Kitchen,Small Appliances,253.41,394.35,2019-07-04
+PROD-1673,Paper Model 1773,Office Supplies,Paper,25.84,38.79,2019-10-17
+PROD-1674,Table Model 1774,Furniture,Tables,567.48,870.88,2021-05-30
+PROD-1675,Decor Model 1775,Home & Kitchen,Decor,33.12,45.58,2019-06-01
+PROD-1676,Printer Model 1776,Office Supplies,Printers,120.8,189.77,2020-03-23
+PROD-1677,Small Appliance Model 1777,Home & Kitchen,Small Appliances,266.78,355.11,2020-03-01
+PROD-1678,Monitor Model 1778,Electronics,Monitors,490.55,650.11,2020-11-29
+PROD-1679,Writing Model 1779,Office Supplies,Writing,7.88,10.25,2021-01-02
+PROD-1680,Paper Model 1780,Office Supplies,Paper,22.48,40.25,2020-07-10
+PROD-1681,Phone Model 1781,Electronics,Phones,836.16,1194.7,2019-11-19
+PROD-1682,Accessorie Model 1782,Electronics,Accessories,45.6,68.9,2020-10-12
+PROD-1683,Accessorie Model 1783,Electronics,Accessories,26.63,40.35,2020-09-15
+PROD-1684,Shelving Model 1784,Furniture,Shelving,258.71,431.42,2020-05-01
+PROD-1685,Chair Model 1785,Furniture,Chairs,275.47,415.03,2020-05-18
+PROD-1686,Printer Model 1786,Office Supplies,Printers,154.58,260.92,2020-07-13
+PROD-1687,Storage Model 1787,Office Supplies,Storage,38.7,65.92,2021-09-26
+PROD-1688,Chair Model 1788,Furniture,Chairs,292.71,419.78,2020-01-27
+PROD-1689,Team Sport Model 1789,Sports,Team Sports,104.2,163.85,2019-04-22
+PROD-1690,Paper Model 1790,Office Supplies,Paper,6.81,12.46,2020-01-31
+PROD-1691,Fitnes Model 1791,Sports,Fitness,40.41,61.49,2021-11-14
+PROD-1692,Storage Model 1792,Office Supplies,Storage,27.13,48.99,2019-06-23
+PROD-1693,Paper Model 1793,Office Supplies,Paper,17.04,21.57,2021-10-04
+PROD-1694,Chair Model 1794,Furniture,Chairs,302.42,504.21,2021-06-24
+PROD-1695,Printer Model 1795,Office Supplies,Printers,155.32,268.14,2021-11-08
+PROD-1696,Paper Model 1796,Office Supplies,Paper,17.82,24.56,2021-11-29
+PROD-1697,Cycling Model 1797,Sports,Cycling,996.26,1475.01,2021-04-22
+PROD-1698,Storage Model 1798,Office Supplies,Storage,78.77,144.44,2019-12-19
+PROD-1699,Laptop Model 1799,Electronics,Laptops,1430.85,2199.82,2021-11-07
+PROD-1700,Storage Model 1800,Office Supplies,Storage,69.19,89.02,2019-05-11
+PROD-1701,Printer Model 1801,Office Supplies,Printers,275.53,409.19,2020-09-04
+PROD-1702,Chair Model 1802,Furniture,Chairs,410.29,731.05,2020-11-22
+PROD-1703,Table Model 1803,Furniture,Tables,361.05,613.4,2021-05-17
+PROD-1704,Laptop Model 1804,Electronics,Laptops,1473.38,2320.97,2019-12-31
+PROD-1705,Cookware Model 1805,Home & Kitchen,Cookware,54.65,96.19,2021-12-09
+PROD-1706,Writing Model 1806,Office Supplies,Writing,20.13,25.37,2019-04-13
+PROD-1707,Shelving Model 1807,Furniture,Shelving,158.75,276.36,2020-08-29
+PROD-1708,Laptop Model 1808,Electronics,Laptops,1110.14,2016.59,2021-08-23
+PROD-1709,Paper Model 1809,Office Supplies,Paper,5.02,7.21,2021-01-14
+PROD-1710,Writing Model 1810,Office Supplies,Writing,12.43,18.74,2021-01-15
+PROD-1711,Phone Model 1811,Electronics,Phones,587.86,819.12,2021-08-11
+PROD-1712,Monitor Model 1812,Electronics,Monitors,570.39,1043.26,2019-04-24
+PROD-1713,Storage Model 1813,Office Supplies,Storage,57.83,88.06,2019-12-19
+PROD-1714,Laptop Model 1814,Electronics,Laptops,676.39,862.61,2020-07-13
+PROD-1715,Paper Model 1815,Office Supplies,Paper,29.63,53.62,2019-12-19
+PROD-1716,Cycling Model 1816,Sports,Cycling,507.36,823.39,2020-01-31
+PROD-1717,Desk Model 1817,Furniture,Desks,168.81,308.96,2021-07-26
+PROD-1718,Desk Model 1818,Furniture,Desks,730.89,1184.83,2020-12-02
+PROD-1719,Small Appliance Model 1819,Home & Kitchen,Small Appliances,188.91,270.65,2021-06-29
+PROD-1720,Laptop Model 1820,Electronics,Laptops,1543.98,2309.8,2019-11-12
+PROD-1721,Fitnes Model 1821,Sports,Fitness,20.3,36.85,2021-08-08
+PROD-1722,Phone Model 1822,Electronics,Phones,791.42,1141.99,2020-06-21
+PROD-1723,Writing Model 1823,Office Supplies,Writing,5.41,7.64,2021-08-09
+PROD-1724,Cycling Model 1824,Sports,Cycling,774.75,979.58,2020-04-10
+PROD-1725,Printer Model 1825,Office Supplies,Printers,498.73,907.19,2020-11-10
+PROD-1726,Accessorie Model 1826,Electronics,Accessories,24.16,32.32,2021-01-02
+PROD-1727,Writing Model 1827,Office Supplies,Writing,24.58,39.35,2019-06-19
+PROD-1728,Accessorie Model 1828,Electronics,Accessories,96.54,147.22,2021-07-01
+PROD-1729,Decor Model 1829,Home & Kitchen,Decor,110.66,162.53,2019-12-27
+PROD-1730,Cycling Model 1830,Sports,Cycling,1185.62,1724.1,2020-01-31
+PROD-1731,Cycling Model 1831,Sports,Cycling,298.56,446.52,2020-02-06
+PROD-1732,Laptop Model 1832,Electronics,Laptops,919.16,1237.57,2020-05-28
+PROD-1733,Cycling Model 1833,Sports,Cycling,901.1,1322.97,2019-07-23
+PROD-1734,Cookware Model 1834,Home & Kitchen,Cookware,125.41,160.82,2020-04-29
+PROD-1735,Small Appliance Model 1835,Home & Kitchen,Small Appliances,331.64,511.85,2021-08-02
+PROD-1736,Shelving Model 1836,Furniture,Shelving,299.51,553.72,2020-02-16
+PROD-1737,Writing Model 1837,Office Supplies,Writing,13.77,23.52,2019-06-18
+PROD-1738,Storage Model 1838,Office Supplies,Storage,46.42,78.63,2021-05-05
+PROD-1739,Writing Model 1839,Office Supplies,Writing,13.21,18.45,2020-01-25
+PROD-1740,Cookware Model 1840,Home & Kitchen,Cookware,96.49,129.12,2021-05-12
+PROD-1741,Printer Model 1841,Office Supplies,Printers,135.52,201.87,2019-10-11
+PROD-1742,Fitnes Model 1842,Sports,Fitness,175.03,249.47,2019-09-12
+PROD-1743,Monitor Model 1843,Electronics,Monitors,168.04,235.53,2021-02-17
+PROD-1744,Accessorie Model 1844,Electronics,Accessories,43.85,72.0,2019-05-28
+PROD-1745,Shelving Model 1845,Furniture,Shelving,210.25,381.92,2020-12-03
+PROD-1746,Cycling Model 1846,Sports,Cycling,791.26,1274.16,2020-02-13
+PROD-1747,Decor Model 1847,Home & Kitchen,Decor,134.06,216.43,2019-06-30
+PROD-1748,Monitor Model 1848,Electronics,Monitors,580.03,1058.52,2021-08-06
+PROD-1749,Accessorie Model 1849,Electronics,Accessories,95.69,159.92,2021-03-01
+PROD-1750,Laptop Model 1850,Electronics,Laptops,1184.98,1588.86,2019-12-06
+PROD-1751,Cookware Model 1851,Home & Kitchen,Cookware,46.78,73.3,2021-02-22
+PROD-1752,Storage Model 1852,Office Supplies,Storage,58.67,92.06,2021-08-13
+PROD-1753,Writing Model 1853,Office Supplies,Writing,21.59,33.68,2021-08-14
+PROD-1754,Outdoor Model 1854,Sports,Outdoor,136.93,217.23,2021-03-18
+PROD-1755,Shelving Model 1855,Furniture,Shelving,106.33,133.79,2021-09-27
+PROD-1756,Fitnes Model 1856,Sports,Fitness,178.79,326.65,2019-07-04
+PROD-1757,Phone Model 1857,Electronics,Phones,1246.52,1674.68,2021-03-08
+PROD-1758,Cookware Model 1858,Home & Kitchen,Cookware,201.89,369.31,2021-02-08
+PROD-1759,Accessorie Model 1859,Electronics,Accessories,118.32,209.04,2019-08-29
+PROD-1760,Chair Model 1860,Furniture,Chairs,267.31,362.07,2019-11-09
+PROD-1761,Storage Model 1861,Office Supplies,Storage,70.96,110.91,2021-01-21
+PROD-1762,Monitor Model 1862,Electronics,Monitors,567.3,1008.4,2021-10-25
+PROD-1763,Accessorie Model 1863,Electronics,Accessories,92.22,144.2,2021-12-12
+PROD-1764,Fitnes Model 1864,Sports,Fitness,132.24,185.62,2020-01-13
+PROD-1765,Cleaning Model 1865,Home & Kitchen,Cleaning,28.31,47.65,2021-12-15
+PROD-1766,Cleaning Model 1866,Home & Kitchen,Cleaning,37.03,51.33,2019-05-24
+PROD-1767,Monitor Model 1867,Electronics,Monitors,262.28,399.75,2020-01-25
+PROD-1768,Cookware Model 1868,Home & Kitchen,Cookware,81.75,113.05,2019-06-10
+PROD-1769,Laptop Model 1869,Electronics,Laptops,643.51,1182.25,2019-07-10
+PROD-1770,Printer Model 1870,Office Supplies,Printers,497.79,747.48,2019-09-11
+PROD-1771,Writing Model 1871,Office Supplies,Writing,22.64,38.49,2019-08-29
+PROD-1772,Storage Model 1872,Office Supplies,Storage,66.95,121.33,2020-06-08
+PROD-1773,Laptop Model 1873,Electronics,Laptops,549.73,768.78,2021-05-04
+PROD-1774,Cycling Model 1874,Sports,Cycling,643.29,865.9,2021-09-22
+PROD-1775,Phone Model 1875,Electronics,Phones,1126.24,2068.95,2020-09-15
+PROD-1776,Desk Model 1876,Furniture,Desks,650.26,1169.18,2021-03-19
+PROD-1777,Cookware Model 1877,Home & Kitchen,Cookware,165.27,304.1,2020-05-04
+PROD-1778,Printer Model 1878,Office Supplies,Printers,317.71,553.18,2019-04-21
+PROD-1779,Storage Model 1879,Office Supplies,Storage,35.41,53.77,2020-10-02
+PROD-1780,Monitor Model 1880,Electronics,Monitors,611.87,1034.26,2021-09-10
+PROD-1781,Paper Model 1881,Office Supplies,Paper,14.14,24.17,2019-08-28
+PROD-1782,Writing Model 1882,Office Supplies,Writing,4.06,7.19,2019-07-22
+PROD-1783,Accessorie Model 1883,Electronics,Accessories,83.8,143.88,2021-04-10
+PROD-1784,Writing Model 1884,Office Supplies,Writing,7.74,11.61,2021-02-15
+PROD-1785,Cycling Model 1885,Sports,Cycling,691.02,1006.78,2020-03-10
+PROD-1786,Chair Model 1886,Furniture,Chairs,209.19,340.64,2020-08-06
+PROD-1787,Accessorie Model 1887,Electronics,Accessories,38.49,66.3,2021-07-30
+PROD-1788,Shelving Model 1888,Furniture,Shelving,289.36,493.13,2019-12-12
+PROD-1789,Printer Model 1889,Office Supplies,Printers,320.25,427.92,2019-04-26
+PROD-1790,Fitnes Model 1890,Sports,Fitness,81.54,145.89,2020-05-10
+PROD-1791,Fitnes Model 1891,Sports,Fitness,163.74,239.94,2021-02-17
+PROD-1792,Desk Model 1892,Furniture,Desks,301.38,545.15,2020-12-19
+PROD-1793,Phone Model 1893,Electronics,Phones,807.15,1139.56,2019-11-04
+PROD-1794,Phone Model 1894,Electronics,Phones,700.35,1029.85,2021-01-18
+PROD-1795,Decor Model 1895,Home & Kitchen,Decor,58.55,94.25,2020-04-08
+PROD-1796,Chair Model 1896,Furniture,Chairs,236.51,405.92,2020-06-17
+PROD-1797,Accessorie Model 1897,Electronics,Accessories,35.21,56.97,2020-03-28
+PROD-1798,Phone Model 1898,Electronics,Phones,442.55,683.63,2019-05-04
+PROD-1799,Paper Model 1899,Office Supplies,Paper,6.92,9.01,2019-12-07
+PROD-1800,Fitnes Model 1900,Sports,Fitness,172.95,237.56,2020-01-23
+PROD-1801,Table Model 1901,Furniture,Tables,498.83,857.29,2020-06-30
+PROD-1802,Printer Model 1902,Office Supplies,Printers,266.54,385.44,2020-02-27
+PROD-1803,Laptop Model 1903,Electronics,Laptops,1153.27,1735.97,2021-02-28
+PROD-1804,Monitor Model 1904,Electronics,Monitors,317.9,502.84,2020-03-19
+PROD-1805,Writing Model 1905,Office Supplies,Writing,10.51,14.05,2021-10-12
+PROD-1806,Small Appliance Model 1906,Home & Kitchen,Small Appliances,264.74,364.22,2019-05-06
+PROD-1807,Writing Model 1907,Office Supplies,Writing,22.87,41.13,2019-08-20
+PROD-1808,Printer Model 1908,Office Supplies,Printers,451.44,624.04,2020-04-20
+PROD-1809,Writing Model 1909,Office Supplies,Writing,13.13,16.41,2021-01-14
+PROD-1810,Paper Model 1910,Office Supplies,Paper,23.85,31.71,2020-10-16
+PROD-1811,Table Model 1911,Furniture,Tables,476.48,678.62,2020-07-25
+PROD-1812,Cleaning Model 1912,Home & Kitchen,Cleaning,21.81,36.36,2019-06-24
+PROD-1813,Outdoor Model 1913,Sports,Outdoor,238.56,315.39,2020-11-26
+PROD-1814,Cycling Model 1914,Sports,Cycling,366.57,475.74,2021-11-23
+PROD-1815,Shelving Model 1915,Furniture,Shelving,185.64,235.64,2020-08-05
+PROD-1816,Desk Model 1916,Furniture,Desks,264.77,479.8,2021-03-01
+PROD-1817,Storage Model 1917,Office Supplies,Storage,24.05,43.24,2021-04-07
+PROD-1818,Outdoor Model 1918,Sports,Outdoor,56.55,101.38,2020-06-09
+PROD-1819,Fitnes Model 1919,Sports,Fitness,173.07,286.51,2019-07-14
+PROD-1820,Accessorie Model 1920,Electronics,Accessories,57.31,74.27,2021-08-03
+PROD-1821,Storage Model 1921,Office Supplies,Storage,72.48,129.03,2020-10-10
+PROD-1822,Paper Model 1922,Office Supplies,Paper,15.72,22.39,2020-12-24
+PROD-1823,Writing Model 1923,Office Supplies,Writing,24.33,32.6,2019-08-02
+PROD-1824,Storage Model 1924,Office Supplies,Storage,79.34,121.03,2021-01-17
+PROD-1825,Printer Model 1925,Office Supplies,Printers,165.99,262.27,2021-04-17
+PROD-1826,Cookware Model 1926,Home & Kitchen,Cookware,109.79,196.19,2019-10-29
+PROD-1827,Team Sport Model 1927,Sports,Team Sports,41.9,73.23,2019-12-12
+PROD-1828,Table Model 1928,Furniture,Tables,281.08,386.53,2021-06-14
+PROD-1829,Printer Model 1929,Office Supplies,Printers,477.9,694.72,2020-12-15
+PROD-1830,Chair Model 1930,Furniture,Chairs,291.61,409.88,2021-01-17
+PROD-1831,Phone Model 1931,Electronics,Phones,1182.55,1822.36,2019-06-01
+PROD-1832,Writing Model 1932,Office Supplies,Writing,9.57,14.27,2021-02-20
+PROD-1833,Table Model 1933,Furniture,Tables,409.21,522.82,2020-05-16
+PROD-1834,Cycling Model 1934,Sports,Cycling,550.95,775.4,2020-11-11
+PROD-1835,Writing Model 1935,Office Supplies,Writing,12.61,17.11,2020-11-22
+PROD-1836,Accessorie Model 1936,Electronics,Accessories,87.39,148.22,2020-09-20
+PROD-1837,Monitor Model 1937,Electronics,Monitors,182.88,229.4,2020-10-07
+PROD-1838,Printer Model 1938,Office Supplies,Printers,496.74,620.99,2021-09-12
+PROD-1839,Accessorie Model 1939,Electronics,Accessories,56.96,89.35,2019-07-21
+PROD-1840,Printer Model 1940,Office Supplies,Printers,127.74,183.55,2019-09-15
+PROD-1841,Team Sport Model 1941,Sports,Team Sports,28.82,48.69,2019-09-23
+PROD-1842,Chair Model 1942,Furniture,Chairs,146.61,189.56,2020-09-24
+PROD-1843,Desk Model 1943,Furniture,Desks,607.55,1002.42,2019-12-10
+PROD-1844,Printer Model 1944,Office Supplies,Printers,477.9,838.83,2021-10-29
+PROD-1845,Cleaning Model 1945,Home & Kitchen,Cleaning,26.37,45.44,2021-05-31
+PROD-1846,Fitnes Model 1946,Sports,Fitness,39.93,58.78,2021-01-30
+PROD-1847,Printer Model 1947,Office Supplies,Printers,403.47,619.75,2020-03-04
+PROD-1848,Table Model 1948,Furniture,Tables,139.84,250.65,2021-12-26
+PROD-1849,Monitor Model 1949,Electronics,Monitors,575.05,778.41,2021-01-25
+PROD-1850,Monitor Model 1950,Electronics,Monitors,421.22,581.09,2020-07-26
+PROD-1851,Cycling Model 1951,Sports,Cycling,1089.88,2005.86,2019-09-09
+PROD-1852,Phone Model 1952,Electronics,Phones,787.06,1379.28,2019-05-22
+PROD-1853,Phone Model 1953,Electronics,Phones,340.76,520.71,2019-07-24
+PROD-1854,Paper Model 1954,Office Supplies,Paper,27.37,44.85,2020-03-22
+PROD-1855,Table Model 1955,Furniture,Tables,313.96,534.74,2020-03-18
+PROD-1856,Accessorie Model 1956,Electronics,Accessories,33.59,61.7,2021-01-21
+PROD-1857,Storage Model 1957,Office Supplies,Storage,36.6,47.03,2019-11-27
+PROD-1858,Storage Model 1958,Office Supplies,Storage,17.52,30.6,2019-10-14
+PROD-1859,Printer Model 1959,Office Supplies,Printers,469.68,687.51,2021-05-29
+PROD-1860,Paper Model 1960,Office Supplies,Paper,8.18,12.99,2021-07-12
+PROD-1861,Phone Model 1961,Electronics,Phones,843.11,1456.45,2020-01-24
+PROD-1862,Cookware Model 1962,Home & Kitchen,Cookware,95.09,122.62,2021-04-03
+PROD-1863,Desk Model 1963,Furniture,Desks,458.52,730.81,2020-08-28
+PROD-1864,Laptop Model 1964,Electronics,Laptops,1493.15,2562.3,2019-09-22
+PROD-1865,Chair Model 1965,Furniture,Chairs,363.64,555.12,2020-12-12
+PROD-1866,Cookware Model 1966,Home & Kitchen,Cookware,169.51,291.04,2020-04-07
+PROD-1867,Laptop Model 1967,Electronics,Laptops,1411.1,2457.92,2021-08-24
+PROD-1868,Small Appliance Model 1968,Home & Kitchen,Small Appliances,177.34,312.26,2021-01-10
+PROD-1869,Storage Model 1969,Office Supplies,Storage,39.78,54.06,2020-04-16
+PROD-1870,Chair Model 1970,Furniture,Chairs,131.59,176.14,2019-06-12
+PROD-1871,Chair Model 1971,Furniture,Chairs,371.4,626.14,2021-06-24
+PROD-1872,Chair Model 1972,Furniture,Chairs,104.94,180.39,2020-09-25
+PROD-1873,Phone Model 1973,Electronics,Phones,629.33,1136.14,2020-12-26
+PROD-1874,Storage Model 1974,Office Supplies,Storage,15.4,19.93,2019-06-17
+PROD-1875,Storage Model 1975,Office Supplies,Storage,72.82,124.86,2021-01-30
+PROD-1876,Laptop Model 1976,Electronics,Laptops,1936.21,2974.37,2020-01-08
+PROD-1877,Paper Model 1977,Office Supplies,Paper,6.7,9.8,2021-12-04
+PROD-1878,Table Model 1978,Furniture,Tables,111.06,153.36,2020-07-19
+PROD-1879,Monitor Model 1979,Electronics,Monitors,336.7,528.22,2019-08-23
+PROD-1880,Decor Model 1980,Home & Kitchen,Decor,105.08,179.87,2021-09-02
+PROD-1881,Paper Model 1981,Office Supplies,Paper,7.81,12.56,2021-06-17
+PROD-1882,Printer Model 1982,Office Supplies,Printers,238.96,340.35,2020-08-22
+PROD-1883,Laptop Model 1983,Electronics,Laptops,1242.34,2100.08,2020-01-12
+PROD-1884,Writing Model 1984,Office Supplies,Writing,2.24,3.19,2021-08-11
+PROD-1885,Desk Model 1985,Furniture,Desks,674.88,930.65,2021-10-05
+PROD-1886,Outdoor Model 1986,Sports,Outdoor,320.87,478.55,2020-11-10
+PROD-1887,Desk Model 1987,Furniture,Desks,489.53,795.44,2021-03-29
+PROD-1888,Chair Model 1988,Furniture,Chairs,117.57,184.22,2020-08-31
+PROD-1889,Fitnes Model 1989,Sports,Fitness,64.12,101.0,2020-09-01
+PROD-1890,Monitor Model 1990,Electronics,Monitors,434.03,796.32,2020-02-19
+PROD-1891,Outdoor Model 1991,Sports,Outdoor,167.42,223.41,2020-07-03
+PROD-1892,Small Appliance Model 1992,Home & Kitchen,Small Appliances,307.37,420.44,2021-05-31
+PROD-1893,Monitor Model 1993,Electronics,Monitors,523.16,818.7,2021-04-10
+PROD-1894,Printer Model 1994,Office Supplies,Printers,139.32,244.08,2020-08-06
+PROD-1895,Table Model 1995,Furniture,Tables,304.55,406.58,2019-04-20
+PROD-1896,Monitor Model 1996,Electronics,Monitors,262.92,435.07,2021-05-19
+PROD-1897,Paper Model 1997,Office Supplies,Paper,21.22,34.92,2021-05-23
+PROD-1898,Team Sport Model 1998,Sports,Team Sports,81.27,106.73,2019-05-12
+PROD-1899,Monitor Model 1999,Electronics,Monitors,371.92,521.99,2020-05-14
+PROD-1900,Small Appliance Model 2000,Home & Kitchen,Small Appliances,334.1,593.09,2021-07-11
+PROD-1901,Decor Model 2001,Home & Kitchen,Decor,61.57,89.78,2021-01-31
+PROD-1902,Monitor Model 2002,Electronics,Monitors,186.62,297.31,2019-05-06
+PROD-1903,Fitnes Model 2003,Sports,Fitness,65.72,94.91,2021-08-14
+PROD-1904,Cleaning Model 2004,Home & Kitchen,Cleaning,22.27,34.91,2020-11-02
+PROD-1905,Cycling Model 2005,Sports,Cycling,614.77,1064.81,2021-06-29
+PROD-1906,Fitnes Model 2006,Sports,Fitness,129.8,205.32,2019-06-05
+PROD-1907,Phone Model 2007,Electronics,Phones,1083.41,1525.95,2020-08-12
+PROD-1908,Chair Model 2008,Furniture,Chairs,319.3,547.63,2021-04-19
+PROD-1909,Storage Model 2009,Office Supplies,Storage,67.92,96.4,2021-12-18
+PROD-1910,Cookware Model 2010,Home & Kitchen,Cookware,167.64,277.54,2019-08-07
+PROD-1911,Chair Model 2011,Furniture,Chairs,441.71,591.03,2019-05-16
+PROD-1912,Team Sport Model 2012,Sports,Team Sports,108.81,168.39,2019-04-26
+PROD-1913,Desk Model 2013,Furniture,Desks,688.43,1048.72,2020-01-15
+PROD-1914,Storage Model 2014,Office Supplies,Storage,36.79,52.76,2021-01-17
+PROD-1915,Cycling Model 2015,Sports,Cycling,645.37,1063.7,2019-11-04
+PROD-1916,Table Model 2016,Furniture,Tables,580.4,929.11,2020-08-28
+PROD-1917,Paper Model 2017,Office Supplies,Paper,7.86,12.03,2019-07-08
+PROD-1918,Writing Model 2018,Office Supplies,Writing,20.72,35.02,2020-04-04
+PROD-1919,Cleaning Model 2019,Home & Kitchen,Cleaning,15.84,29.29,2020-01-20
+PROD-1920,Cycling Model 2020,Sports,Cycling,149.93,206.64,2020-11-07
+PROD-1921,Laptop Model 2021,Electronics,Laptops,1602.11,2753.34,2021-12-08
+PROD-1922,Writing Model 2022,Office Supplies,Writing,16.29,29.1,2020-11-03
+PROD-1923,Phone Model 2023,Electronics,Phones,1085.22,1936.52,2021-06-04
+PROD-1924,Paper Model 2024,Office Supplies,Paper,22.86,39.98,2021-02-16
+PROD-1925,Fitnes Model 2025,Sports,Fitness,81.19,147.78,2019-12-02
+PROD-1926,Desk Model 2026,Furniture,Desks,162.16,273.78,2021-04-06
+PROD-1927,Fitnes Model 2027,Sports,Fitness,121.1,212.04,2019-06-27
+PROD-1928,Table Model 2028,Furniture,Tables,375.81,674.46,2019-12-14
+PROD-1929,Outdoor Model 2029,Sports,Outdoor,65.44,85.19,2020-06-11
+PROD-1930,Table Model 2030,Furniture,Tables,462.23,682.09,2021-01-06
+PROD-1931,Small Appliance Model 2031,Home & Kitchen,Small Appliances,226.43,373.27,2019-11-01
+PROD-1932,Outdoor Model 2032,Sports,Outdoor,276.22,447.12,2019-12-09
+PROD-1933,Printer Model 2033,Office Supplies,Printers,412.28,760.19,2020-04-01
+PROD-1934,Paper Model 2034,Office Supplies,Paper,6.01,8.42,2019-06-13
+PROD-1935,Laptop Model 2035,Electronics,Laptops,1868.3,2744.54,2021-08-21
+PROD-1936,Cookware Model 2036,Home & Kitchen,Cookware,235.47,304.5,2019-07-11
+PROD-1937,Decor Model 2037,Home & Kitchen,Decor,64.6,85.92,2020-04-30
+PROD-1938,Paper Model 2038,Office Supplies,Paper,24.04,39.98,2021-08-31
+PROD-1939,Monitor Model 2039,Electronics,Monitors,297.35,475.88,2021-06-15
+PROD-1940,Team Sport Model 2040,Sports,Team Sports,121.86,219.55,2021-11-08
+PROD-1941,Small Appliance Model 2041,Home & Kitchen,Small Appliances,224.98,413.8,2021-03-06
+PROD-1942,Cycling Model 2042,Sports,Cycling,894.64,1556.58,2020-05-05
+PROD-1943,Cycling Model 2043,Sports,Cycling,144.64,233.35,2021-09-25
+PROD-1944,Paper Model 2044,Office Supplies,Paper,21.78,34.3,2019-11-24
+PROD-1945,Cookware Model 2045,Home & Kitchen,Cookware,82.91,127.79,2021-03-26
+PROD-1946,Small Appliance Model 2046,Home & Kitchen,Small Appliances,166.22,290.72,2019-06-12
+PROD-1947,Laptop Model 2047,Electronics,Laptops,728.94,1081.19,2019-06-01
+PROD-1948,Cookware Model 2048,Home & Kitchen,Cookware,55.3,74.14,2021-09-01
+PROD-1949,Table Model 2049,Furniture,Tables,370.42,472.19,2020-11-01
+PROD-1950,Printer Model 2050,Office Supplies,Printers,119.16,192.01,2020-08-23
+PROD-1951,Accessorie Model 2051,Electronics,Accessories,92.41,140.65,2021-05-12
+PROD-1952,Laptop Model 2052,Electronics,Laptops,1584.66,2925.57,2019-04-28
+PROD-1953,Decor Model 2053,Home & Kitchen,Decor,143.87,244.3,2020-12-12
+PROD-1954,Fitnes Model 2054,Sports,Fitness,33.8,43.46,2021-03-26
+PROD-1955,Team Sport Model 2055,Sports,Team Sports,91.79,116.63,2021-03-10
+PROD-1956,Accessorie Model 2056,Electronics,Accessories,27.15,35.27,2020-07-20
+PROD-1957,Shelving Model 2057,Furniture,Shelving,190.43,294.1,2021-08-21
+PROD-1958,Cycling Model 2058,Sports,Cycling,110.22,166.52,2021-01-18
+PROD-1959,Monitor Model 2059,Electronics,Monitors,279.52,510.7,2021-01-25
+PROD-1960,Laptop Model 2060,Electronics,Laptops,994.57,1404.82,2019-09-09
+PROD-1961,Chair Model 2061,Furniture,Chairs,175.22,225.13,2020-06-26
+PROD-1962,Table Model 2062,Furniture,Tables,533.65,928.57,2020-01-15
+PROD-1963,Phone Model 2063,Electronics,Phones,1426.65,2026.2,2020-06-28
+PROD-1964,Chair Model 2064,Furniture,Chairs,415.77,763.64,2019-08-15
+PROD-1965,Team Sport Model 2065,Sports,Team Sports,23.13,33.52,2020-02-19
+PROD-1966,Shelving Model 2066,Furniture,Shelving,263.77,376.69,2020-02-26
+PROD-1967,Small Appliance Model 2067,Home & Kitchen,Small Appliances,197.17,321.75,2020-04-03
+PROD-1968,Small Appliance Model 2068,Home & Kitchen,Small Appliances,284.42,428.23,2021-11-27
+PROD-1969,Printer Model 2069,Office Supplies,Printers,149.05,204.44,2021-01-05
+PROD-1970,Cleaning Model 2070,Home & Kitchen,Cleaning,15.42,24.0,2021-08-13
+PROD-1971,Decor Model 2071,Home & Kitchen,Decor,68.03,108.42,2020-04-30
+PROD-1972,Writing Model 2072,Office Supplies,Writing,17.95,25.56,2020-10-20
+PROD-1973,Decor Model 2073,Home & Kitchen,Decor,95.51,149.64,2019-05-13
+PROD-1974,Cycling Model 2074,Sports,Cycling,923.54,1187.42,2019-04-23
+PROD-1975,Shelving Model 2075,Furniture,Shelving,290.92,449.05,2021-06-15
+PROD-1976,Laptop Model 2076,Electronics,Laptops,1746.25,2307.53,2021-06-18
+PROD-1977,Cleaning Model 2077,Home & Kitchen,Cleaning,25.66,41.37,2021-02-16
+PROD-1978,Accessorie Model 2078,Electronics,Accessories,103.87,154.5,2020-01-06
+PROD-1979,Chair Model 2079,Furniture,Chairs,106.55,193.7,2021-03-20
+PROD-1980,Outdoor Model 2080,Sports,Outdoor,218.4,389.73,2021-10-15
+PROD-1981,Desk Model 2081,Furniture,Desks,182.71,307.7,2019-09-13
+PROD-1982,Fitnes Model 2082,Sports,Fitness,60.09,86.55,2021-07-08
+PROD-1983,Printer Model 2083,Office Supplies,Printers,223.73,324.16,2019-10-16
+PROD-1984,Desk Model 2084,Furniture,Desks,513.4,694.51,2020-08-10
+PROD-1985,Storage Model 2085,Office Supplies,Storage,39.21,55.22,2020-06-11
+PROD-1986,Desk Model 2086,Furniture,Desks,670.36,873.38,2020-06-10
+PROD-1987,Writing Model 2087,Office Supplies,Writing,24.56,37.33,2020-07-31
+PROD-1988,Printer Model 2088,Office Supplies,Printers,449.29,784.43,2020-07-02
+PROD-1989,Small Appliance Model 2089,Home & Kitchen,Small Appliances,154.97,245.66,2019-06-11
+PROD-1990,Team Sport Model 2090,Sports,Team Sports,58.08,82.66,2020-06-10
+PROD-1991,Accessorie Model 2091,Electronics,Accessories,34.2,54.2,2021-05-19
+PROD-1992,Cycling Model 2092,Sports,Cycling,417.34,640.32,2021-04-30
+PROD-1993,Cycling Model 2093,Sports,Cycling,237.54,411.62,2019-10-02
+PROD-1994,Cleaning Model 2094,Home & Kitchen,Cleaning,30.11,47.26,2020-09-13
+PROD-1995,Writing Model 2095,Office Supplies,Writing,19.28,30.97,2021-07-27
+PROD-1996,Phone Model 2096,Electronics,Phones,751.29,1242.27,2020-07-12
+PROD-1997,Accessorie Model 2097,Electronics,Accessories,48.35,69.95,2019-07-09
+PROD-1998,Table Model 2098,Furniture,Tables,587.29,1001.77,2021-03-31
+PROD-1999,Small Appliance Model 2099,Home & Kitchen,Small Appliances,335.35,436.18,2020-12-31
+PROD-2000,Printer Model 2100,Office Supplies,Printers,417.71,620.98,2021-03-02
